@@ -2,15 +2,22 @@ import React, { useState } from 'react';
 
 function NameInputSection({ onNameSubmit }) {
     const [userName, setUserName] = useState('');
-    const [isFormSubmitted, setIsFormSubmitted] = useState(false);
+    const [isFormGrammysSubmitted, setIsFormGrammysSubmitted] = useState(false);
+    const [isFormOscarsSubmitted, setIsFormOscarsSubmitted] = useState(false);
 
     const handleSubmit = (event) => {
         event.preventDefault();
         if (userName.trim() !== "") {
-            setIsFormSubmitted(true);
+            // Get which button was clicked (grammys or oscars)
+            const selectedEvent = event.nativeEvent.submitter.value;
+            if (selectedEvent === "grammys") {
+                setIsFormGrammysSubmitted(true);
+            } else {
+                setIsFormOscarsSubmitted(true);
+            }
             // Using setTimeout to show the welcome animation before proceeding
             setTimeout(() => {
-                onNameSubmit(userName);
+                onNameSubmit(userName, selectedEvent);
             }, 800);
         } else {
             alert("Please enter your name to continue.");
@@ -18,12 +25,13 @@ function NameInputSection({ onNameSubmit }) {
     };
 
     return (
-        <div id="name-input-section" className={isFormSubmitted ? "submitted" : ""}>
-            <div className="oscar-statue-icon"></div>
+        <div id="name-input-section" className={isFormGrammysSubmitted || isFormOscarsSubmitted ? "submitted" : ""}>
             <div className="welcome-container">
-                <h2>Welcome to the 97th Academy Awards</h2>
-                <h3>Make your predictions and compete with friends!</h3>
-                
+                <div className="hero-content">
+                    <h1 className="app-title">Predictions Game</h1>
+                    <p className="tagline">Compete with friends. Make your picks. Win bragging rights.</p>
+                </div>
+
                 <form onSubmit={handleSubmit} className="name-input-form">
                     <div className="input-container">
                         <input
@@ -32,23 +40,32 @@ function NameInputSection({ onNameSubmit }) {
                             placeholder="Enter Your Name"
                             value={userName}
                             onChange={(e) => setUserName(e.target.value)}
-                            disabled={isFormSubmitted}
+                            disabled={isFormGrammysSubmitted || isFormOscarsSubmitted}
                         />
                         <label htmlFor="userName" className="floating-label">Enter Your Name</label>
                     </div>
-                    
-                    <button 
-                        type="submit" 
-                        id="submit-name-button"
-                        disabled={isFormSubmitted}
-                    >
-                        {isFormSubmitted ? "Welcome..." : "Enter Oscar Predictions"}
-                    </button>
+
+                    <div className="event-selection-buttons">
+                        <button
+                            type="submit"
+                            className="submit-name-button grammys-button"
+                            value="grammys"
+                            disabled={isFormGrammysSubmitted || isFormOscarsSubmitted}
+                        >
+                            <span className="button-icon">🎵</span>
+                            {isFormGrammysSubmitted ? "Welcome..." : "Grammys Predictions"}
+                        </button>
+                        <button
+                            type="submit"
+                            className="submit-name-button oscars-button"
+                            value="oscars"
+                            disabled={isFormGrammysSubmitted || isFormOscarsSubmitted}
+                        >
+                            <span className="button-icon">🏆</span>
+                            {isFormOscarsSubmitted ? "Welcome..." : "Oscars Predictions"}
+                        </button>
+                    </div>
                 </form>
-                
-                <div className="awards-date">
-                    <p>The 97th Academy Awards will be held on March 2, 2025</p>
-                </div>
             </div>
         </div>
     );

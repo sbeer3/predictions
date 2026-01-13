@@ -1,168 +1,438 @@
 {
   "Best Picture": [
-    {"nominee": "ANORA"},
-    {"nominee": "THE BRUTALIST"},
-    {"nominee": "A COMPLETE UNKNOWN"},
-    {"nominee": "CONCLAVE"},
-    {"nominee": "DUNE: PART TWO"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "I'M STILL HERE"},
-    {"nominee": "NICKEL BOYS"},
-    {"nominee": "THE SUBSTANCE"},
-    {"nominee": "WICKED"}
+    {
+      "nominee": "ANORA"
+    },
+    {
+      "nominee": "THE BRUTALIST"
+    },
+    {
+      "nominee": "A COMPLETE UNKNOWN"
+    },
+    {
+      "nominee": "CONCLAVE"
+    },
+    {
+      "nominee": "DUNE: PART TWO"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "I'M STILL HERE"
+    },
+    {
+      "nominee": "NICKEL BOYS"
+    },
+    {
+      "nominee": "THE SUBSTANCE"
+    },
+    {
+      "nominee": "WICKED"
+    }
   ],
   "Best Actor": [
-    {"nominee": "ADRIEN BRODY", "movie": "The Brutalist"},
-    {"nominee": "TIMOTHÉE CHALAMET", "movie": "A Complete Unknown"},
-    {"nominee": "COLMAN DOMINGO", "movie": "Sing Sing"},
-    {"nominee": "RALPH FIENNES", "movie": "Conclave"},
-    {"nominee": "SEBASTIAN STAN", "movie": "The Apprentice"}
+    {
+      "nominee": "ADRIEN BRODY",
+      "movie": "The Brutalist"
+    },
+    {
+      "nominee": "TIMOTHÉE CHALAMET",
+      "movie": "A Complete Unknown"
+    },
+    {
+      "nominee": "COLMAN DOMINGO",
+      "movie": "Sing Sing"
+    },
+    {
+      "nominee": "RALPH FIENNES",
+      "movie": "Conclave"
+    },
+    {
+      "nominee": "SEBASTIAN STAN",
+      "movie": "The Apprentice"
+    }
   ],
   "Best Actress": [
-    {"nominee": "CYNTHIA ERIVO", "movie": "Wicked"},
-    {"nominee": "KARLA SOFÍA GASCON", "movie": "Emilia Pérez"},
-    {"nominee": "MIKEY MADISON", "movie": "Anora"},
-    {"nominee": "DEMI MOORE", "movie": "The Substance"},
-    {"nominee": "FERNANDA TORRES", "movie": "I'm Still Here"}
+    {
+      "nominee": "CYNTHIA ERIVO",
+      "movie": "Wicked"
+    },
+    {
+      "nominee": "KARLA SOFÍA GASCON",
+      "movie": "Emilia Pérez"
+    },
+    {
+      "nominee": "MIKEY MADISON",
+      "movie": "Anora"
+    },
+    {
+      "nominee": "DEMI MOORE",
+      "movie": "The Substance"
+    },
+    {
+      "nominee": "FERNANDA TORRES",
+      "movie": "I'm Still Here"
+    }
   ],
   "Supporting Actor": [
-    {"nominee": "YURA BORISOV", "movie": "Anora"},
-    {"nominee": "KIERAN CULKIN", "movie": "A Real Pain"},
-    {"nominee": "EDWARD NORTON", "movie": "A Complete Unknown"},
-    {"nominee": "GUY PEARCE", "movie": "The Brutalist"},
-    {"nominee": "JEREMY STRONG", "movie": "The Apprentice"}
+    {
+      "nominee": "YURA BORISOV",
+      "movie": "Anora"
+    },
+    {
+      "nominee": "KIERAN CULKIN",
+      "movie": "A Real Pain"
+    },
+    {
+      "nominee": "EDWARD NORTON",
+      "movie": "A Complete Unknown"
+    },
+    {
+      "nominee": "GUY PEARCE",
+      "movie": "The Brutalist"
+    },
+    {
+      "nominee": "JEREMY STRONG",
+      "movie": "The Apprentice"
+    }
   ],
   "Supporting Actress": [
-    {"nominee": "MONICA BARBARO", "movie": "A Complete Unknown"},
-    {"nominee": "ARIANA GRANDE", "movie": "Wicked"},
-    {"nominee": "FELICITY JONES", "movie": "The Brutalist"},
-    {"nominee": "ISABELLA ROSSELLINI", "movie": "Conclave"},
-    {"nominee": "ZOE SALDAÑA", "movie": "Emilia Pérez"}
+    {
+      "nominee": "MONICA BARBARO",
+      "movie": "A Complete Unknown"
+    },
+    {
+      "nominee": "ARIANA GRANDE",
+      "movie": "Wicked"
+    },
+    {
+      "nominee": "FELICITY JONES",
+      "movie": "The Brutalist"
+    },
+    {
+      "nominee": "ISABELLA ROSSELLINI",
+      "movie": "Conclave"
+    },
+    {
+      "nominee": "ZOE SALDAÑA",
+      "movie": "Emilia Pérez"
+    }
   ],
   "Animated Feature": [
-    {"nominee": "FLOW"},
-    {"nominee": "INSIDE OUT 2"},
-    {"nominee": "MEMOIR OF A SNAIL"},
-    {"nominee": "WALLACE & GROMIT: Vengeance Most Fowl"},
-    {"nominee": "THE WILD ROBOT"}
+    {
+      "nominee": "FLOW"
+    },
+    {
+      "nominee": "INSIDE OUT 2"
+    },
+    {
+      "nominee": "MEMOIR OF A SNAIL"
+    },
+    {
+      "nominee": "WALLACE & GROMIT: Vengeance Most Fowl"
+    },
+    {
+      "nominee": "THE WILD ROBOT"
+    }
   ],
   "Cinematography": [
-    {"nominee": "THE BRUTALIST"},
-    {"nominee": "DUNE: PART TWO"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "MARIA"},
-    {"nominee": "NOSFERATU"}
+    {
+      "nominee": "THE BRUTALIST"
+    },
+    {
+      "nominee": "DUNE: PART TWO"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "MARIA"
+    },
+    {
+      "nominee": "NOSFERATU"
+    }
   ],
   "Makeup and Hairstyling": [
-    {"nominee": "A DIFFERENT MAN"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "NOSFERATU"},
-    {"nominee": "THE SUBSTANCE"},
-    {"nominee": "WICKED"}
+    {
+      "nominee": "A DIFFERENT MAN"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "NOSFERATU"
+    },
+    {
+      "nominee": "THE SUBSTANCE"
+    },
+    {
+      "nominee": "WICKED"
+    }
   ],
   "Costume Design": [
-    {"nominee": "A COMPLETE UNKNOWN"},
-    {"nominee": "CONCLAVE"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "NOSFERATU"},
-    {"nominee": "WICKED"}
+    {
+      "nominee": "A COMPLETE UNKNOWN"
+    },
+    {
+      "nominee": "CONCLAVE"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "NOSFERATU"
+    },
+    {
+      "nominee": "WICKED"
+    }
   ],
   "Directing": [
-    {"nominee": "SEAN BAKER", "movie": "Anora"},
-    {"nominee": "BRADY CORBET", "movie": "The Brutalist"},
-    {"nominee": "JAMES MANGOLD", "movie": "A Complete Unknown"},
-    {"nominee": "JACQUES AUDIARD", "movie": "Emilia Pérez"},
-    {"nominee": "CORALIE FARGEAT", "movie": "The Substance"}
+    {
+      "nominee": "SEAN BAKER",
+      "movie": "Anora"
+    },
+    {
+      "nominee": "BRADY CORBET",
+      "movie": "The Brutalist"
+    },
+    {
+      "nominee": "JAMES MANGOLD",
+      "movie": "A Complete Unknown"
+    },
+    {
+      "nominee": "JACQUES AUDIARD",
+      "movie": "Emilia Pérez"
+    },
+    {
+      "nominee": "CORALIE FARGEAT",
+      "movie": "The Substance"
+    }
   ],
   "Production Design": [
-    {"nominee": "THE BRUTALIST"},
-    {"nominee": "CONCLAVE"},
-    {"nominee": "DUNE: PART TWO"},
-    {"nominee": "NOSFERATU"},
-    {"nominee": "WICKED"}
+    {
+      "nominee": "THE BRUTALIST"
+    },
+    {
+      "nominee": "CONCLAVE"
+    },
+    {
+      "nominee": "DUNE: PART TWO"
+    },
+    {
+      "nominee": "NOSFERATU"
+    },
+    {
+      "nominee": "WICKED"
+    }
   ],
   "Documentary (Feature)": [
-    {"nominee": "BLACK BOX DIARIES"},
-    {"nominee": "NO OTHER LAND"},
-    {"nominee": "PORCELAIN WAR"},
-    {"nominee": "SOUNDTRACK TO A COUP D'ETAT"},
-    {"nominee": "SUGARCANE"}
+    {
+      "nominee": "BLACK BOX DIARIES"
+    },
+    {
+      "nominee": "NO OTHER LAND"
+    },
+    {
+      "nominee": "PORCELAIN WAR"
+    },
+    {
+      "nominee": "SOUNDTRACK TO A COUP D'ETAT"
+    },
+    {
+      "nominee": "SUGARCANE"
+    }
   ],
   "Documentary (Short)": [
-    {"nominee": "DEATH BY NUMBERS"},
-    {"nominee": "I AM READY, WARDEN"},
-    {"nominee": "INCIDENT"},
-    {"nominee": "INSTRUMENTS OF A BEATING HEART"},
-    {"nominee": "THE ONLY GIRL IN THE ORCHESTRA"}
+    {
+      "nominee": "DEATH BY NUMBERS"
+    },
+    {
+      "nominee": "I AM READY, WARDEN"
+    },
+    {
+      "nominee": "INCIDENT"
+    },
+    {
+      "nominee": "INSTRUMENTS OF A BEATING HEART"
+    },
+    {
+      "nominee": "THE ONLY GIRL IN THE ORCHESTRA"
+    }
   ],
   "Short Film (Animated)": [
-    {"nominee": "BEAUTIFUL MEN"},
-    {"nominee": "IN THE SHADOW OF THE CYPRESS"},
-    {"nominee": "MAGIC CANDIES"},
-    {"nominee": "WANDER TO WONDER"},
-    {"nominee": "YUCKI"}
+    {
+      "nominee": "BEAUTIFUL MEN"
+    },
+    {
+      "nominee": "IN THE SHADOW OF THE CYPRESS"
+    },
+    {
+      "nominee": "MAGIC CANDIES"
+    },
+    {
+      "nominee": "WANDER TO WONDER"
+    },
+    {
+      "nominee": "YUCKI"
+    }
   ],
   "Short Film (Live Action)": [
-    {"nominee": "A LIEN"},
-    {"nominee": "ANUJA"},
-    {"nominee": "I'M NOT A ROBOT"},
-    {"nominee": "THE LAST RANGER"},
-    {"nominee": "THE MAN WHO COULD NOT REMAIN SILENT"}
+    {
+      "nominee": "A LIEN"
+    },
+    {
+      "nominee": "ANUJA"
+    },
+    {
+      "nominee": "I'M NOT A ROBOT"
+    },
+    {
+      "nominee": "THE LAST RANGER"
+    },
+    {
+      "nominee": "THE MAN WHO COULD NOT REMAIN SILENT"
+    }
   ],
   "Film Editing": [
-    {"nominee": "ANORA"},
-    {"nominee": "THE BRUTALIST"},
-    {"nominee": "CONCLAVE"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "WICKED"}
+    {
+      "nominee": "ANORA"
+    },
+    {
+      "nominee": "THE BRUTALIST"
+    },
+    {
+      "nominee": "CONCLAVE"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "WICKED"
+    }
   ],
   "Best Sound": [
-    {"nominee": "A COMPLETE UNKNOWN"},
-    {"nominee": "DUNE: PART TWO"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "WICKED"},
-    {"nominee": "THE WILD ROBOT"}
+    {
+      "nominee": "A COMPLETE UNKNOWN"
+    },
+    {
+      "nominee": "DUNE: PART TWO"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "WICKED"
+    },
+    {
+      "nominee": "THE WILD ROBOT"
+    }
   ],
   "International Feature": [
-    {"nominee": "I'M STILL HERE"},
-    {"nominee": "THE GIRL WITH THE NEEDLE"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "THE SEED OF THE SACRED FIG"},
-    {"nominee": "FLOW"}
+    {
+      "nominee": "I'M STILL HERE"
+    },
+    {
+      "nominee": "THE GIRL WITH THE NEEDLE"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "THE SEED OF THE SACRED FIG"
+    },
+    {
+      "nominee": "FLOW"
+    }
   ],
   "Visual Effects": [
-    {"nominee": "ALIEN: ROMULUS"},
-    {"nominee": "BETTER MAN"},
-    {"nominee": "DUNE: PART TWO"},
-    {"nominee": "KINGDOM OF THE PLANET OF THE APES"},
-    {"nominee": "WICKED"}
+    {
+      "nominee": "ALIEN: ROMULUS"
+    },
+    {
+      "nominee": "BETTER MAN"
+    },
+    {
+      "nominee": "DUNE: PART TWO"
+    },
+    {
+      "nominee": "KINGDOM OF THE PLANET OF THE APES"
+    },
+    {
+      "nominee": "WICKED"
+    }
   ],
   "Music (Original Score)": [
-    {"nominee": "THE BRUTALIST"},
-    {"nominee": "CONCLAVE"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "WICKED"},
-    {"nominee": "THE WILD ROBOT"}
+    {
+      "nominee": "THE BRUTALIST"
+    },
+    {
+      "nominee": "CONCLAVE"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "WICKED"
+    },
+    {
+      "nominee": "THE WILD ROBOT"
+    }
   ],
   "Music (Original Song)": [
-    {"nominee": "NEVER TOO LATE", "movie": "Elton John: Never Too Late"},
-    {"nominee": "EL MAL", "movie": "Emilia Pérez"},
-    {"nominee": "MI CAMINO", "movie": "Emilia Pérez"},
-    {"nominee": "LIKE A BIRD", "movie": "Sing Sing"},
-    {"nominee": "THE JOURNEY", "movie": "The Six Triple Eight"}
+    {
+      "nominee": "NEVER TOO LATE",
+      "movie": "Elton John: Never Too Late"
+    },
+    {
+      "nominee": "EL MAL",
+      "movie": "Emilia Pérez"
+    },
+    {
+      "nominee": "MI CAMINO",
+      "movie": "Emilia Pérez"
+    },
+    {
+      "nominee": "LIKE A BIRD",
+      "movie": "Sing Sing"
+    },
+    {
+      "nominee": "THE JOURNEY",
+      "movie": "The Six Triple Eight"
+    }
   ],
   "Screenplay (Adapted)": [
-    {"nominee": "A COMPLETE UNKNOWN"},
-    {"nominee": "CONCLAVE"},
-    {"nominee": "EMILIA PÉREZ"},
-    {"nominee": "NICKEL BOYS"},
-    {"nominee": "SING SING"}
+    {
+      "nominee": "A COMPLETE UNKNOWN"
+    },
+    {
+      "nominee": "CONCLAVE"
+    },
+    {
+      "nominee": "EMILIA PÉREZ"
+    },
+    {
+      "nominee": "NICKEL BOYS"
+    },
+    {
+      "nominee": "SING SING"
+    }
   ],
   "Screenplay (Original)": [
-    {"nominee": "ANORA"},
-    {"nominee": "THE BRUTALIST"},
-    {"nominee": "A REAL PAIN"},
-    {"nominee": "SEPTEMBER 5"},
-    {"nominee": "THE SUBSTANCE"}
+    {
+      "nominee": "ANORA"
+    },
+    {
+      "nominee": "THE BRUTALIST"
+    },
+    {
+      "nominee": "A REAL PAIN"
+    },
+    {
+      "nominee": "SEPTEMBER 5"
+    },
+    {
+      "nominee": "THE SUBSTANCE"
+    }
   ]
 }

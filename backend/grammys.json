@@ -1,0 +1,1571 @@
+{
+  "event": "68th Annual GRAMMY Awards",
+  "date": "2026-02-01",
+  "fields": [
+    {
+      "field_name": "General Field",
+      "categories": [
+        {
+          "id": "1",
+          "name": "Record Of The Year",
+          "nominees": [
+            {
+              "artist": "Bad Bunny",
+              "work": "DtMF",
+              "search_query": "DtMF Bad Bunny",
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+            },
+            {
+              "artist": "Sabrina Carpenter",
+              "work": "Manchild",
+              "search_query": "Manchild Sabrina Carpenter",
+              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+            },
+            {
+              "artist": "Doechii",
+              "work": "Anxiety",
+              "search_query": "Anxiety Doechii",
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+            },
+            {
+              "artist": "Billie Eilish",
+              "work": "WILDFLOWER",
+              "search_query": "WILDFLOWER Billie Eilish",
+              "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+            },
+            {
+              "artist": "Lady Gaga",
+              "work": "Abracadabra",
+              "search_query": "Abracadabra Lady Gaga",
+              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+            },
+            {
+              "artist": "Kendrick Lamar With SZA",
+              "work": "luther",
+              "search_query": "luther Kendrick Lamar SZA",
+              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+            },
+            {
+              "artist": "Chappell Roan",
+              "work": "The Subway",
+              "search_query": "The Subway Chappell Roan",
+              "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+            },
+            {
+              "artist": "ROSÉ, Bruno Mars",
+              "work": "APT.",
+              "search_query": "APT. ROSÉ Bruno Mars",
+              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Album Of The Year",
+          "nominees": [
+            {
+              "artist": "Bad Bunny",
+              "work": "DeBÍ TIRAR MÁS FOTOS",
+              "search_query": "DeBÍ TIRAR MÁS FOTOS Bad Bunny",
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+            },
+            {
+              "artist": "Justin Bieber",
+              "work": "SWAG",
+              "search_query": "SWAG Justin Bieber",
+              "spotify_uri": "spotify:track:3WQ5w7ruC3c861lHXF9Gs2"
+            },
+            {
+              "artist": "Sabrina Carpenter",
+              "work": "Man's Best Friend",
+              "search_query": "Man's Best Friend Sabrina Carpenter",
+              "spotify_uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9"
+            },
+            {
+              "artist": "Clipse",
+              "work": "Let God Sort Em Out",
+              "search_query": "Let God Sort Em Out Clipse",
+              "spotify_uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX"
+            },
+            {
+              "artist": "Lady Gaga",
+              "work": "MAYHEM",
+              "search_query": "MAYHEM Lady Gaga",
+              "spotify_uri": "spotify:track:2LHNTC9QZxsL3nWpt8iaSR"
+            },
+            {
+              "artist": "Kendrick Lamar",
+              "work": "GNX",
+              "search_query": "GNX Kendrick Lamar",
+              "spotify_uri": "spotify:track:3aZptNYC6Z1YoumeqZcDcQ"
+            },
+            {
+              "artist": "Leon Thomas",
+              "work": "MUTT",
+              "search_query": "MUTT Leon Thomas",
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+            },
+            {
+              "artist": "Tyler, The Creator",
+              "work": "CHROMAKOPIA",
+              "search_query": "CHROMAKOPIA Tyler, The Creator",
+              "spotify_uri": "spotify:track:6jbYpRPTEFl1HFKHk1IC0m"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Song Of The Year",
+          "nominees": [
+            {
+              "artist": "Lady Gaga",
+              "work": "Abracadabra",
+              "search_query": "Abracadabra Lady Gaga",
+              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+            },
+            {
+              "artist": "Doechii",
+              "work": "Anxiety",
+              "search_query": "Anxiety Doechii",
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+            },
+            {
+              "artist": "ROSÉ, Bruno Mars",
+              "work": "APT.",
+              "search_query": "APT. ROSÉ Bruno Mars",
+              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+            },
+            {
+              "artist": "Bad Bunny",
+              "work": "DtMF",
+              "search_query": "DtMF Bad Bunny",
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+            },
+            {
+              "artist": "HUNTR/X",
+              "work": "Golden",
+              "search_query": "Golden HUNTR/X",
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+            },
+            {
+              "artist": "Kendrick Lamar With SZA",
+              "work": "luther",
+              "search_query": "luther Kendrick Lamar",
+              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+            },
+            {
+              "artist": "Sabrina Carpenter",
+              "work": "Manchild",
+              "search_query": "Manchild Sabrina Carpenter",
+              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+            },
+            {
+              "artist": "Billie Eilish",
+              "work": "WILDFLOWER",
+              "search_query": "WILDFLOWER Billie Eilish",
+              "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Best New Artist",
+          "nominees": [
+            {
+              "artist": "Olivia Dean",
+              "work": null,
+              "search_query": "Olivia Dean",
+              "spotify_uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
+            },
+            {
+              "artist": "KATSEYE",
+              "work": null,
+              "search_query": "KATSEYE",
+              "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL"
+            },
+            {
+              "artist": "The Marias",
+              "work": null,
+              "search_query": "The Marias",
+              "spotify_uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5"
+            },
+            {
+              "artist": "Addison Rae",
+              "work": null,
+              "search_query": "Addison Rae",
+              "spotify_uri": "spotify:track:7B3BwNecBhKvNwSMOOl7Gk"
+            },
+            {
+              "artist": "sombr",
+              "work": null,
+              "search_query": "sombr",
+              "spotify_uri": "spotify:track:0FTmksd2dxiE5e3rWyJXs6"
+            },
+            {
+              "artist": "Leon Thomas",
+              "work": null,
+              "search_query": "Leon Thomas",
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+            },
+            {
+              "artist": "Alex Warren",
+              "work": null,
+              "search_query": "Alex Warren",
+              "spotify_uri": "spotify:track:6qqrTXSdwiJaq8SO0X2lSe"
+            },
+            {
+              "artist": "Lola Young",
+              "work": null,
+              "search_query": "Lola Young",
+              "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Producer Of The Year, Non-Classical",
+          "nominees": [
+            {
+              "artist": "Dan Auerbach",
+              "work": null,
+              "search_query": "Dan Auerbach",
+              "spotify_uri": "spotify:track:6nWLyTkbR9xsmmY1jioPTV"
+            },
+            {
+              "artist": "Cirkut",
+              "work": null,
+              "search_query": "Cirkut",
+              "spotify_uri": "spotify:track:3S6QpYmrJuQsGNQTNSfnp0"
+            },
+            {
+              "artist": "Dijon",
+              "work": null,
+              "search_query": "Dijon producer",
+              "spotify_uri": "spotify:track:0pmnotebEQGqiynzxG8OKE"
+            },
+            {
+              "artist": "Blake Mills",
+              "work": null,
+              "search_query": "Blake Mills",
+              "spotify_uri": "spotify:track:0VTBsLV9fLSPX6D5K3k3L4"
+            },
+            {
+              "artist": "Sounwave",
+              "work": null,
+              "search_query": "Sounwave",
+              "spotify_uri": "spotify:track:5UHjWOJA6MDl1g3x2HC68V"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Songwriter Of The Year, Non-Classical",
+          "nominees": [
+            {
+              "artist": "Amy Allen",
+              "work": null,
+              "search_query": "Amy Allen songwriter",
+              "spotify_uri": "spotify:track:0vtMsYCRyjzWuTNggxExn6"
+            },
+            {
+              "artist": "Edgar Barrera",
+              "work": null,
+              "search_query": "Edgar Barrera",
+              "spotify_uri": "spotify:track:08fgd6DmAUq3TtEjt4WpGP"
+            },
+            {
+              "artist": "Jessie Jo Dillon",
+              "work": null,
+              "search_query": "Jessie Jo Dillon",
+              "spotify_uri": "spotify:track:2ipRCu2sIWHGY0pohwhCjx"
+            },
+            {
+              "artist": "Tobias Jesso Jr.",
+              "work": null,
+              "search_query": "Tobias Jesso Jr.",
+              "spotify_uri": "spotify:track:4LtR2SCM4T4jXxLmdmMN5t"
+            },
+            {
+              "artist": "Laura Veltz",
+              "work": null,
+              "search_query": "Laura Veltz",
+              "spotify_uri": "spotify:track:5KmXFYMJYQi5FekE3WmtEg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Pop & Dance/Electronic",
+      "categories": [
+        {
+          "id": "7",
+          "name": "Best Pop Solo Performance",
+          "nominees": [
+            {
+              "artist": "Justin Bieber",
+              "work": "DAISIES",
+              "search_query": "DAISIES Justin Bieber",
+              "spotify_uri": "spotify:track:7rcbwjIaZ5jEgyFk35Bqfj"
+            },
+            {
+              "artist": "Sabrina Carpenter",
+              "work": "Manchild",
+              "search_query": "Manchild Sabrina Carpenter",
+              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+            },
+            {
+              "artist": "Lady Gaga",
+              "work": "Disease",
+              "search_query": "Disease Lady Gaga",
+              "spotify_uri": "spotify:track:0T3Hw3kPj9T2E4UoaSXmfn"
+            },
+            {
+              "artist": "Chappell Roan",
+              "work": "The Subway",
+              "search_query": "The Subway Chappell Roan",
+              "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+            },
+            {
+              "artist": "Lola Young",
+              "work": "Messy",
+              "search_query": "Messy Lola Young",
+              "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "name": "Best Pop Duo/Group Performance",
+          "nominees": [
+            {
+              "artist": "Cynthia Erivo & Ariana Grande",
+              "work": "Defying Gravity",
+              "search_query": "Defying Gravity Cynthia Erivo Ariana Grande",
+              "spotify_uri": "spotify:track:5QMrH5nszZZR3nefIj6Mar"
+            },
+            {
+              "artist": "HUNTR/X",
+              "work": "Golden",
+              "search_query": "Golden HUNTR/X",
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+            },
+            {
+              "artist": "KATSEYE",
+              "work": "Gabriela",
+              "search_query": "Gabriela KATSEYE",
+              "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL"
+            },
+            {
+              "artist": "ROSÉ, Bruno Mars",
+              "work": "APT.",
+              "search_query": "APT. ROSÉ Bruno Mars",
+              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+            },
+            {
+              "artist": "SZA With Kendrick Lamar",
+              "work": "30 For 30",
+              "search_query": "30 For 30 SZA Kendrick Lamar",
+              "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "name": "Best Pop Vocal Album",
+          "nominees": [
+            {
+              "artist": "Justin Bieber",
+              "work": "SWAG",
+              "search_query": "SWAG Justin Bieber",
+              "spotify_uri": "spotify:track:3WQ5w7ruC3c861lHXF9Gs2"
+            },
+            {
+              "artist": "Sabrina Carpenter",
+              "work": "Man's Best Friend",
+              "search_query": "Man's Best Friend Sabrina Carpenter",
+              "spotify_uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9"
+            },
+            {
+              "artist": "Miley Cyrus",
+              "work": "Something Beautiful",
+              "search_query": "Something Beautiful Miley Cyrus",
+              "spotify_uri": "spotify:track:1FYXNzi1u1vAl8aUC9TcdO"
+            },
+            {
+              "artist": "Lady Gaga",
+              "work": "MAYHEM",
+              "search_query": "MAYHEM Lady Gaga",
+              "spotify_uri": "spotify:track:2LHNTC9QZxsL3nWpt8iaSR"
+            },
+            {
+              "artist": "Teddy Swims",
+              "work": "I've Tried Everything But Therapy (Part 2)",
+              "search_query": "I've Tried Everything But Therapy Teddy Swims",
+              "spotify_uri": "spotify:track:17phhZDn6oGtzMe56NuWvj"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "name": "Best Dance/Electronic Recording",
+          "nominees": [
+            {
+              "artist": "Disclosure & Anderson .Paak",
+              "work": "No Cap",
+              "search_query": "No Cap Disclosure Anderson .Paak",
+              "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW"
+            },
+            {
+              "artist": "Fred again..",
+              "work": "Victory Lap",
+              "search_query": "Victory Lap Fred again..",
+              "spotify_uri": "spotify:track:1lbNgoJ5iMrMluCyhI4OQP"
+            },
+            {
+              "artist": "KAYTRANADA",
+              "work": "SPACE INVADER",
+              "search_query": "SPACE INVADER KAYTRANADA",
+              "spotify_uri": "spotify:track:3fPW4EhpRR6BwLRPDThNeg"
+            },
+            {
+              "artist": "Skrillex",
+              "work": "VOLTAGE",
+              "search_query": "VOLTAGE Skrillex",
+              "spotify_uri": "spotify:track:227u7P0lZxYfBH9KjT1gsf"
+            },
+            {
+              "artist": "Tame Impala",
+              "work": "End Of Summer",
+              "search_query": "End Of Summer Tame Impala",
+              "spotify_uri": "spotify:track:1Iw5iLfAwDvS6frI82gMoV"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "name": "Best Dance Pop Recording",
+          "nominees": [
+            {
+              "artist": "Selena Gomez & benny blanco",
+              "work": "Bluest Flame",
+              "search_query": "Bluest Flame Selena Gomez",
+              "spotify_uri": "spotify:track:6vuVCtwukUA57ioTnKKeuL"
+            },
+            {
+              "artist": "Lady Gaga",
+              "work": "Abracadabra",
+              "search_query": "Abracadabra Lady Gaga",
+              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+            },
+            {
+              "artist": "Zara Larsson",
+              "work": "Midnight Sun",
+              "search_query": "Midnight Sun Zara Larsson",
+              "spotify_uri": "spotify:track:37UCSVSqiPGdR1DijOFyYY"
+            },
+            {
+              "artist": "Tate McRae",
+              "work": "Just Keep Watching",
+              "search_query": "Just Keep Watching Tate McRae",
+              "spotify_uri": "spotify:track:2yWlGEgEfPot0lv3OAjuG3"
+            },
+            {
+              "artist": "Pink Pantheress",
+              "work": "Illegal",
+              "search_query": "Illegal Pink Pantheress",
+              "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "name": "Best Dance/Electronic Album",
+          "nominees": [
+            {
+              "artist": "FKA twigs",
+              "work": "EUSEXUA",
+              "search_query": "EUSEXUA FKA twigs",
+              "spotify_uri": "spotify:track:6TeKbncyK62smlAvPy1dNa"
+            },
+            {
+              "artist": "Fred again..",
+              "work": "Ten Days",
+              "search_query": "Ten Days Fred again..",
+              "spotify_uri": "spotify:track:6twB0uYXJYW9t5GHfYaQ3i"
+            },
+            {
+              "artist": "PinkPantheress",
+              "work": "Fancy That",
+              "search_query": "Fancy That PinkPantheress",
+              "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+            },
+            {
+              "artist": "RÜFÜS DU SOL",
+              "work": "Inhale/Exhale",
+              "search_query": "Inhale/Exhale RÜFÜS DU SOL",
+              "spotify_uri": "spotify:track:3JGvqlIZr8pvabWHmZwPsU"
+            },
+            {
+              "artist": "Skrillex",
+              "work": "$F**$ U SKRILLEX...",
+              "search_query": "SKRILLEX YOU THINK UR ANDY WARHOL",
+              "spotify_uri": "spotify:track:3KVNGp2Qf1Y5eI2cAq5YHA"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "name": "Best Remixed Recording",
+          "nominees": [
+            {
+              "artist": "Gesaffelstein",
+              "work": "Abracadabra (Remix)",
+              "search_query": "Abracadabra Gesaffelstein Remix",
+              "spotify_uri": "spotify:track:17sOAutZqK3xM5O6Cc2pMj"
+            },
+            {
+              "artist": "KAYTRANADA",
+              "work": "Don't Forget About Us (Remix)",
+              "search_query": "Don't Forget About Us KAYTRANADA",
+              "spotify_uri": "spotify:track:1NmC7qGL2jdqtFXzrrH3ui"
+            },
+            {
+              "artist": "Ron Trent",
+              "work": "A Dreams A Dream (Remix)",
+              "search_query": "A Dreams A Dream Ron Trent",
+              "spotify_uri": "spotify:track:7mecqGkZOsu6XKvvZftOkn"
+            },
+            {
+              "artist": "Chris Lake",
+              "work": "Galvanize (Remix)",
+              "search_query": "Galvanize Chris Lake",
+              "spotify_uri": "spotify:track:7Ki6lQlcAW565EsHfP8U7S"
+            },
+            {
+              "artist": "David Guetta",
+              "work": "Golden (Remix)",
+              "search_query": "Golden David Guetta REM/X",
+              "spotify_uri": "spotify:track:5tVnzVWIKrmmuOPGbXUbT4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Rock, Metal & Alternative",
+      "categories": [
+        {
+          "id": "14",
+          "name": "Best Rock Performance",
+          "nominees": [
+            {
+              "artist": "Amyl and The Sniffers",
+              "work": "U Should Not Be Doing That",
+              "search_query": "U Should Not Be Doing That Amyl and The Sniffers",
+              "spotify_uri": "spotify:track:6zfVBdPDopmP36NeHd4O2m"
+            },
+            {
+              "artist": "Linkin Park",
+              "work": "The Emptiness Machine",
+              "search_query": "The Emptiness Machine Linkin Park",
+              "spotify_uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A"
+            },
+            {
+              "artist": "Turnstile",
+              "work": "NEVER ENOUGH",
+              "search_query": "NEVER ENOUGH Turnstile",
+              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+            },
+            {
+              "artist": "Hayley Williams",
+              "work": "Mirtazapine",
+              "search_query": "Mirtazapine Hayley Williams",
+              "spotify_uri": "spotify:track:2FFXU4b8sIsiLiTo6EWO19"
+            },
+            {
+              "artist": "YUNGBLUD",
+              "work": "Changes",
+              "search_query": "Changes YUNGBLUD",
+              "spotify_uri": "spotify:track:5yriBaBAgiRDoTVVWazMuv"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "name": "Best Metal Performance",
+          "nominees": [
+            {
+              "artist": "Dream Theater",
+              "work": "Night Terror",
+              "search_query": "Night Terror Dream Theater",
+              "spotify_uri": "spotify:track:2eEY3SOjaDoZmx6mC2QTLU"
+            },
+            {
+              "artist": "Ghost",
+              "work": "Lachryma",
+              "search_query": "Lachryma Ghost",
+              "spotify_uri": "spotify:track:0hw2CGX8jaIpS4jGDn3dfa"
+            },
+            {
+              "artist": "Sleep Token",
+              "work": "Emergence",
+              "search_query": "Emergence Sleep Token",
+              "spotify_uri": "spotify:track:5NRpxJxtR6JkUhQS4F0um6"
+            },
+            {
+              "artist": "Spiritbox",
+              "work": "Soft Spine",
+              "search_query": "Soft Spine Spiritbox",
+              "spotify_uri": "spotify:track:3t5GlWUzGSt2lPuiSEPBFG"
+            },
+            {
+              "artist": "Turnstile",
+              "work": "BIRDS",
+              "search_query": "BIRDS Turnstile",
+              "spotify_uri": "spotify:track:0k9JIBszlCqCa4SpXI353F"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "name": "Best Rock Song",
+          "nominees": [
+            {
+              "artist": "Nine Inch Nails",
+              "work": "As Alive As You Need Me To Be",
+              "search_query": "As Alive As You Need Me To Be Nine Inch Nails",
+              "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z"
+            },
+            {
+              "artist": "Sleep Token",
+              "work": "Caramel",
+              "search_query": "Caramel Sleep Token",
+              "spotify_uri": "spotify:track:3AdXwuFn7j21HNiFMXvZXt"
+            },
+            {
+              "artist": "Hayley Williams",
+              "work": "Glum",
+              "search_query": "Glum Hayley Williams",
+              "spotify_uri": "spotify:track:0kpB9iZJ9eMPQiMU9W6ouD"
+            },
+            {
+              "artist": "Turnstile",
+              "work": "NEVER ENOUGH",
+              "search_query": "NEVER ENOUGH Turnstile",
+              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+            },
+            {
+              "artist": "YUNGBLUD",
+              "work": "Zombie",
+              "search_query": "Zombie YUNGBLUD",
+              "spotify_uri": "spotify:track:7DQotDUGnJkXgNJv363GXF"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "name": "Best Rock Album",
+          "nominees": [
+            {
+              "artist": "Deftones",
+              "work": "private music",
+              "search_query": "private music Deftones",
+              "spotify_uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM"
+            },
+            {
+              "artist": "HAIM",
+              "work": "I quit",
+              "search_query": "I quit HAIM",
+              "spotify_uri": "spotify:track:1FlDLGaTsr9HH1zfJiq6is"
+            },
+            {
+              "artist": "Linkin Park",
+              "work": "From Zero",
+              "search_query": "From Zero Linkin Park",
+              "spotify_uri": "spotify:track:5IL3VPDy5siXiptYHF2aLS"
+            },
+            {
+              "artist": "Turnstile",
+              "work": "NEVER ENOUGH",
+              "search_query": "NEVER ENOUGH Turnstile",
+              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+            },
+            {
+              "artist": "YUNGBLUD",
+              "work": "Idols",
+              "search_query": "Idols YUNGBLUD",
+              "spotify_uri": "spotify:track:0R90EAdBEEwe1t9TsicWPo"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "name": "Best Alternative Music Performance",
+          "nominees": [
+            {
+              "artist": "Bon Iver",
+              "work": "Everything Is Peaceful Love",
+              "search_query": "Everything Is Peaceful Love Bon Iver",
+              "spotify_uri": "spotify:track:4XosapYiYaXGcxc83p3DD9"
+            },
+            {
+              "artist": "The Cure",
+              "work": "Alone",
+              "search_query": "Alone The Cure",
+              "spotify_uri": "spotify:track:7zHhP0CHO4cONkImJ0Oau6"
+            },
+            {
+              "artist": "Turnstile",
+              "work": "SEEIN' STARS",
+              "search_query": "SEEIN' STARS Turnstile",
+              "spotify_uri": "spotify:track:0vbdCsYHg1by09QKOGO4PR"
+            },
+            {
+              "artist": "Wet Leg",
+              "work": "mangetout",
+              "search_query": "mangetout Wet Leg",
+              "spotify_uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT"
+            },
+            {
+              "artist": "Hayley Williams",
+              "work": "Parachute",
+              "search_query": "Parachute Hayley Williams",
+              "spotify_uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "name": "Best Alternative Music Album",
+          "nominees": [
+            {
+              "artist": "Bon Iver",
+              "work": "SABLE, FABLE",
+              "search_query": "SABLE FABLE Bon Iver",
+              "spotify_uri": "spotify:track:4FeYX8QKpNA1Nof6XLsMnv"
+            },
+            {
+              "artist": "The Cure",
+              "work": "Songs Of A Lost World",
+              "search_query": "Songs Of A Lost World The Cure",
+              "spotify_uri": "spotify:track:4i5a73hGNtTXXmxEUW2esC"
+            },
+            {
+              "artist": "Tyler, The Creator",
+              "work": "DON'T TAP THE GLASS",
+              "search_query": "DON'T TAP THE GLASS Tyler The Creator",
+              "spotify_uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj"
+            },
+            {
+              "artist": "Wet Leg",
+              "work": "moisturizer",
+              "search_query": "moisturizer Wet Leg",
+              "spotify_uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT"
+            },
+            {
+              "artist": "Hayley Williams",
+              "work": "Ego Death At A Bachelorette Party",
+              "search_query": "Ego Death At A Bachelorette Party Hayley Williams",
+              "spotify_uri": "spotify:track:2SXqiLAwgmCpyrftaz1YgW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "R&B, Rap & Spoken Word",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Best R&B Performance",
+          "nominees": [
+            {
+              "artist": "Justin Bieber",
+              "work": "YUKON",
+              "search_query": "YUKON Justin Bieber",
+              "spotify_uri": "spotify:track:29iva9idM6rFCPUlu7Rhxl"
+            },
+            {
+              "artist": "Chris Brown",
+              "work": "It Depends",
+              "search_query": "It Depends Chris Brown",
+              "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+            },
+            {
+              "artist": "Kehlani",
+              "work": "Folded",
+              "search_query": "Folded Kehlani",
+              "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+            },
+            {
+              "artist": "Leon Thomas",
+              "work": "MUTT (Live)",
+              "search_query": "MUTT Leon Thomas",
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+            },
+            {
+              "artist": "Summer Walker",
+              "work": "Heart Of A Woman",
+              "search_query": "Heart Of A Woman Summer Walker",
+              "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "name": "Best Traditional R&B Performance",
+          "nominees": [
+            {
+              "artist": "Durand Bernarr",
+              "work": "Here We Are",
+              "search_query": "Here We Are Durand Bernarr",
+              "spotify_uri": "spotify:track:4w1QUiGOc6tz31SYoqQkRf"
+            },
+            {
+              "artist": "Lalah Hathaway",
+              "work": "UPTOWN",
+              "search_query": "UPTOWN Lalah Hathaway",
+              "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb"
+            },
+            {
+              "artist": "Ledisi",
+              "work": "LOVE YOU TOO",
+              "search_query": "LOVE YOU TOO Ledisi",
+              "spotify_uri": "spotify:track:6EjPDxrSXu2RcNctj6n0r1"
+            },
+            {
+              "artist": "SZA",
+              "work": "Crybaby",
+              "search_query": "Crybaby SZA",
+              "spotify_uri": "spotify:track:1g7pFO1WtclKCuIQiS8sNM"
+            },
+            {
+              "artist": "Leon Thomas",
+              "work": "VIBES DON'T LIE",
+              "search_query": "VIBES DON'T LIE Leon Thomas",
+              "spotify_uri": "spotify:track:1WwrfoGe0K33z1tVI6mevJ"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "name": "Best R&B Song",
+          "nominees": [
+            {
+              "artist": "Kehlani",
+              "work": "Folded",
+              "search_query": "Folded Kehlani",
+              "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+            },
+            {
+              "artist": "Summer Walker",
+              "work": "Heart Of A Woman",
+              "search_query": "Heart Of A Woman Summer Walker",
+              "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+            },
+            {
+              "artist": "Chris Brown",
+              "work": "It Depends",
+              "search_query": "It Depends Chris Brown",
+              "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+            },
+            {
+              "artist": "Durand Bernarr",
+              "work": "Overqualified",
+              "search_query": "Overqualified Durand Bernarr",
+              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp"
+            },
+            {
+              "artist": "Leon Thomas",
+              "work": "YES IT IS",
+              "search_query": "YES IT IS Leon Thomas",
+              "spotify_uri": "spotify:track:2iksjpqL3eraxCBKqNHuqd"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "name": "Best Progressive R&B Album",
+          "nominees": [
+            {
+              "artist": "Durand Bernarr",
+              "work": "BLOOM",
+              "search_query": "BLOOM Durand Bernarr",
+              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp"
+            },
+            {
+              "artist": "Bilal",
+              "work": "Adjust Brightness",
+              "search_query": "Adjust Brightness Bilal",
+              "spotify_uri": "spotify:track:5MUM2tJMXetWXktLcXA7ze"
+            },
+            {
+              "artist": "Destin Conrad",
+              "work": "LOVE ON DIGITAL",
+              "search_query": "LOVE ON DIGITAL Destin Conrad",
+              "spotify_uri": "spotify:track:6sJR82bgpwFPjzB1DHzGw8"
+            },
+            {
+              "artist": "FLO",
+              "work": "Access All Areas",
+              "search_query": "Access All Areas FLO",
+              "spotify_uri": "spotify:track:49uWjZ0INI41gLJVi8DxIf"
+            },
+            {
+              "artist": "Terrace Martin & Kenyon Dixon",
+              "work": "Come As You Are",
+              "search_query": "Come As You Are Terrace Martin",
+              "spotify_uri": "spotify:track:6pNrdoEgWVcHvKxrsvHMKL"
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "name": "Best R&B Album",
+          "nominees": [
+            {
+              "artist": "GIVEON",
+              "work": "BELOVED",
+              "search_query": "BELOVED GIVEON",
+              "spotify_uri": "spotify:track:3HYUSkSJ0iQfocqdJmJqKw"
+            },
+            {
+              "artist": "Coco Jones",
+              "work": "Why Not More?",
+              "search_query": "Why Not More Coco Jones",
+              "spotify_uri": "spotify:track:5ShqaLCQm38x3Y1K4kQDqm"
+            },
+            {
+              "artist": "Ledisi",
+              "work": "The Crown",
+              "search_query": "The Crown Ledisi",
+              "spotify_uri": "spotify:track:5WMcZ8QtBCVMfM1DSqxxdE"
+            },
+            {
+              "artist": "Teyana Taylor",
+              "work": "Escape Room",
+              "search_query": "Escape Room Teyana Taylor",
+              "spotify_uri": "spotify:track:6ykfyiNkupYNQqcgym28Ak"
+            },
+            {
+              "artist": "Leon Thomas",
+              "work": "MUTT",
+              "search_query": "MUTT Leon Thomas",
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "name": "Best Rap Performance",
+          "nominees": [
+            {
+              "artist": "Cardi B",
+              "work": "Outside",
+              "search_query": "Outside Cardi B",
+              "spotify_uri": "spotify:track:139nLHDFZNr3anx8CpUy7u"
+            },
+            {
+              "artist": "Clipse, Pusha T & Malice",
+              "work": "Chains & Whips",
+              "search_query": "Chains & Whips Clipse",
+              "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM"
+            },
+            {
+              "artist": "Doechii",
+              "work": "Anxiety",
+              "search_query": "Anxiety Doechii",
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+            },
+            {
+              "artist": "Kendrick Lamar",
+              "work": "tv off",
+              "search_query": "tv off Kendrick Lamar",
+              "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+            },
+            {
+              "artist": "Tyler, The Creator",
+              "work": "Darling, I",
+              "search_query": "Darling, I Tyler The Creator",
+              "spotify_uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "name": "Best Melodic Rap Performance",
+          "nominees": [
+            {
+              "artist": "Fridayy",
+              "work": "Proud Of Me",
+              "search_query": "Proud Of Me Fridayy",
+              "spotify_uri": "spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ"
+            },
+            {
+              "artist": "JID",
+              "work": "Wholeheartedly",
+              "search_query": "Wholeheartedly JID",
+              "spotify_uri": "spotify:track:314sW8ZsMHGiYkn2fAOW9e"
+            },
+            {
+              "artist": "Kendrick Lamar With SZA",
+              "work": "luther",
+              "search_query": "luther Kendrick Lamar SZA",
+              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+            },
+            {
+              "artist": "Terrace Martin",
+              "work": "WeMaj",
+              "search_query": "WeMaj Terrace Martin",
+              "spotify_uri": "spotify:track:01WDhc8gxD59xkrUDqCe5t"
+            },
+            {
+              "artist": "PARTYNEXTDOOR & Drake",
+              "work": "SOMEBODY LOVES ME",
+              "search_query": "SOMEBODY LOVES ME PARTYNEXTDOOR",
+              "spotify_uri": "spotify:track:2kZoOj1n5vk9BuF0sih58M"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "name": "Best Rap Song",
+          "nominees": [
+            {
+              "artist": "Doechii",
+              "work": "Anxiety",
+              "search_query": "Anxiety Doechii",
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+            },
+            {
+              "artist": "Clipse",
+              "work": "The Birds Don't Sing",
+              "search_query": "The Birds Don't Sing Clipse",
+              "spotify_uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG"
+            },
+            {
+              "artist": "Tyler, The Creator",
+              "work": "Sticky",
+              "search_query": "Sticky Tyler The Creator",
+              "spotify_uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R"
+            },
+            {
+              "artist": "GloRilla",
+              "work": "TGIF",
+              "search_query": "TGIF GloRilla",
+              "spotify_uri": "spotify:track:2hKYtHbwYOSjvYQhVdUpdQ"
+            },
+            {
+              "artist": "Kendrick Lamar",
+              "work": "tv off",
+              "search_query": "tv off Kendrick Lamar",
+              "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "name": "Best Rap Album",
+          "nominees": [
+            {
+              "artist": "Clipse",
+              "work": "Let God Sort Em Out",
+              "search_query": "Let God Sort Em Out Clipse",
+              "spotify_uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX"
+            },
+            {
+              "artist": "GloRilla",
+              "work": "GLORIOUS",
+              "search_query": "GLORIOUS GloRilla",
+              "spotify_uri": "spotify:track:5xeSd4HgzrYpNLEf3LfYLK"
+            },
+            {
+              "artist": "JID",
+              "work": "God Does Like Ugly",
+              "search_query": "God Does Like Ugly JID",
+              "spotify_uri": "spotify:track:2m2AbCpeWgms32FdLfBBdk"
+            },
+            {
+              "artist": "Kendrick Lamar",
+              "work": "GNX",
+              "search_query": "GNX Kendrick Lamar",
+              "spotify_uri": "spotify:track:3aZptNYC6Z1YoumeqZcDcQ"
+            },
+            {
+              "artist": "Tyler, The Creator",
+              "work": "CHROMAKOPIA",
+              "search_query": "CHROMAKOPIA Tyler The Creator",
+              "spotify_uri": "spotify:track:6jbYpRPTEFl1HFKHk1IC0m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Country & American Roots",
+      "categories": [
+        {
+          "id": "39",
+          "name": "Best Country Solo Performance",
+          "nominees": [
+            {
+              "artist": "Tyler Childers",
+              "work": "Nose On The Grindstone",
+              "search_query": "Nose On The Grindstone Tyler Childers",
+              "spotify_uri": "spotify:track:41qeQaiSa09dPsGzgechek"
+            },
+            {
+              "artist": "Shaboozey",
+              "work": "Good News",
+              "search_query": "Good News Shaboozey",
+              "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+            },
+            {
+              "artist": "Chris Stapleton",
+              "work": "Bad As I Used To Be",
+              "search_query": "Bad As I Used To Be Chris Stapleton",
+              "spotify_uri": "spotify:track:11AfHdYnWqd8ez0u3VHw6E"
+            },
+            {
+              "artist": "Zach Top",
+              "work": "I Never Lie",
+              "search_query": "I Never Lie Zach Top",
+              "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+            },
+            {
+              "artist": "Lainey Wilson",
+              "work": "Somewhere Over Laredo",
+              "search_query": "Somewhere Over Laredo Lainey Wilson",
+              "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "name": "Best Country Duo/Group Performance",
+          "nominees": [
+            {
+              "artist": "Miranda Lambert And Chris Stapleton",
+              "work": "A Song To Sing",
+              "search_query": "A Song To Sing Miranda Lambert Chris Stapleton",
+              "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+            },
+            {
+              "artist": "Reba McEntire, Miranda Lambert, Lainey Wilson",
+              "work": "Trailblazer",
+              "search_query": "Trailblazer Reba McEntire",
+              "spotify_uri": "spotify:track:5CJwFd0iqn3s48pFBoNCma"
+            },
+            {
+              "artist": "Margo Price & Tyler Childers",
+              "work": "Love Me Like You Used To Do",
+              "search_query": "Love Me Like You Used To Do Margo Price",
+              "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+            },
+            {
+              "artist": "Shaboozey & Jelly Roll",
+              "work": "Amen",
+              "search_query": "Amen Shaboozey Jelly Roll",
+              "spotify_uri": "spotify:track:3anaHXs7z8NwLUatPxqJlE"
+            },
+            {
+              "artist": "George Strait, Chris Stapleton",
+              "work": "Honky Tonk Hall Of Fame",
+              "search_query": "Honky Tonk Hall Of Fame George Strait",
+              "spotify_uri": "spotify:track:3ETCVKhAVXx0a8ohAeSP7d"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "name": "Best Country Song",
+          "nominees": [
+            {
+              "artist": "Tyler Childers",
+              "work": "Bitin' List",
+              "search_query": "Bitin' List Tyler Childers",
+              "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq"
+            },
+            {
+              "artist": "Shaboozey",
+              "work": "Good News",
+              "search_query": "Good News Shaboozey",
+              "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+            },
+            {
+              "artist": "Zach Top",
+              "work": "I Never Lie",
+              "search_query": "I Never Lie Zach Top",
+              "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+            },
+            {
+              "artist": "Lainey Wilson",
+              "work": "Somewhere Over Laredo",
+              "search_query": "Somewhere Over Laredo Lainey Wilson",
+              "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+            },
+            {
+              "artist": "Miranda Lambert And Chris Stapleton",
+              "work": "A Song To Sing",
+              "search_query": "A Song To Sing Miranda Lambert",
+              "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "name": "Best Traditional Country Album",
+          "nominees": [
+            {
+              "artist": "Charley Crockett",
+              "work": "Dollar A Day",
+              "search_query": "Dollar A Day Charley Crockett",
+              "spotify_uri": "spotify:track:7sxsVZz3ngXIE5tZ1ea0qa"
+            },
+            {
+              "artist": "Lukas Nelson",
+              "work": "American Romance",
+              "search_query": "American Romance Lukas Nelson",
+              "spotify_uri": "spotify:track:5u7VFBKUWMmvUqsPV818Uz"
+            },
+            {
+              "artist": "Willie Nelson",
+              "work": "Oh What A Beautiful World",
+              "search_query": "Oh What A Beautiful World Willie Nelson",
+              "spotify_uri": "spotify:track:7ml1acXUTiwSm2WjtXYFbZ"
+            },
+            {
+              "artist": "Margo Price",
+              "work": "Hard Headed Woman",
+              "search_query": "Hard Headed Woman Margo Price",
+              "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+            },
+            {
+              "artist": "Zach Top",
+              "work": "Ain't In It For My Health",
+              "search_query": "Ain't In It For My Health Zach Top",
+              "spotify_uri": "spotify:track:0hc2s7sbPTomegDXpIySok"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "name": "Best Contemporary Country Album",
+          "nominees": [
+            {
+              "artist": "Kelsea Ballerini",
+              "work": "Patterns",
+              "search_query": "Patterns Kelsea Ballerini",
+              "spotify_uri": "spotify:track:0YC7DEF6UKaFVXIV9EMiG5"
+            },
+            {
+              "artist": "Tyler Childers",
+              "work": "Snipe Hunter",
+              "search_query": "Snipe Hunter Tyler Childers",
+              "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq"
+            },
+            {
+              "artist": "Eric Church",
+              "work": "Evangeline Vs. The Machine",
+              "search_query": "Evangeline Vs. The Machine Eric Church",
+              "spotify_uri": "spotify:track:4CGymdYq09LloNTbWPmfyz"
+            },
+            {
+              "artist": "Jelly Roll",
+              "work": "Beautifully Broken",
+              "search_query": "Beautifully Broken Jelly Roll",
+              "spotify_uri": "spotify:track:0llPOBVoJYDAtdmVlNE41A"
+            },
+            {
+              "artist": "Miranda Lambert",
+              "work": "Postcards From Texas",
+              "search_query": "Postcards From Texas Miranda Lambert",
+              "spotify_uri": "spotify:track:12AEBgTTELBhtAthd5dRqH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Latin, Global, Reggae & New Age",
+      "categories": [
+        {
+          "id": "58",
+          "name": "Best Latin Pop Album",
+          "nominees": [
+            {
+              "artist": "Rauw Alejandro",
+              "work": "Cosa Nuestra",
+              "search_query": "Cosa Nuestra Rauw Alejandro",
+              "spotify_uri": "spotify:track:5UxEKpzvvLnjoC10XoogN3"
+            },
+            {
+              "artist": "Andrés Cepeda",
+              "work": "BOGOTÁ (DELUXE)",
+              "search_query": "BOGOTÁ Andrés Cepeda",
+              "spotify_uri": "spotify:track:42xEJ2PHDrVa8lGRr8DIci"
+            },
+            {
+              "artist": "KAROL G",
+              "work": "Tropicoqueta",
+              "search_query": "Tropicoqueta KAROL G",
+              "spotify_uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS"
+            },
+            {
+              "artist": "Natalia Lafourcade",
+              "work": "Cancionera",
+              "search_query": "Cancionera Natalia Lafourcade",
+              "spotify_uri": "spotify:track:7AP1sa56qsVnM86g10VRvv"
+            },
+            {
+              "artist": "Alejandro Sanz",
+              "work": "¿Y ahora qué?",
+              "search_query": "Y ahora qué Alejandro Sanz",
+              "spotify_uri": "spotify:track:3ayVKsrwK44VEdD7BdnDD7"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "name": "Best Música Urbana Album",
+          "nominees": [
+            {
+              "artist": "Bad Bunny",
+              "work": "DeBÍ TIRAR MÁS FOTOS",
+              "search_query": "DeBÍ TIRAR MÁS FOTOS Bad Bunny",
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+            },
+            {
+              "artist": "J Balvin",
+              "work": "Mixteip",
+              "search_query": "Mixteip J Balvin",
+              "spotify_uri": "spotify:track:1qRWRxr2FTJjAfqxf99Bdm"
+            },
+            {
+              "artist": "Feid",
+              "work": "FERXXO VOL X: Sagrado",
+              "search_query": "FERXXO VOL X Feid",
+              "spotify_uri": "spotify:track:5vy9pkOukk2FQEfdr73MXY"
+            },
+            {
+              "artist": "Nicki Nicole",
+              "work": "ΝΑΙΚΙ",
+              "search_query": "ΝΑΙΚΙ Nicki Nicole",
+              "spotify_uri": "spotify:track:0P3K3oluS2pxWGp9TRtjTt"
+            },
+            {
+              "artist": "Trueno",
+              "work": "EUB DELUXE",
+              "search_query": "EUB DELUXE Trueno",
+              "spotify_uri": "spotify:track:4B0KfCBOqXzgDItQNZthqE"
+            },
+            {
+              "artist": "Yandel",
+              "work": "SINFÓNICO (En Vivo)",
+              "search_query": "SINFÓNICO Yandel",
+              "spotify_uri": "spotify:track:19WYlQK2T29jD9UlbsalkO"
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "name": "Best Latin Rock or Alternative Album",
+          "nominees": [
+            {
+              "artist": "Aterciopelados",
+              "work": "Genes Rebeldes",
+              "search_query": "Genes Rebeldes Aterciopelados",
+              "spotify_uri": "spotify:track:21Wc5F2CLsh9fngtepqnGF"
+            },
+            {
+              "artist": "Bomba Estéreo",
+              "work": "ASTROPICAL",
+              "search_query": "ASTROPICAL Bomba Estéreo",
+              "spotify_uri": "spotify:track:63ZVyUi9weRwuMf1QsbDnY"
+            },
+            {
+              "artist": "CA7RIEL & Paco Amoroso",
+              "work": "BAÑO MARÍA",
+              "search_query": "BAÑO MARÍA CA7RIEL",
+              "spotify_uri": "spotify:track:2Fi6RtngvStwsjskvwabVT"
+            },
+            {
+              "artist": "Los Wizzards",
+              "work": "ALGORHYTHM",
+              "search_query": "ALGORHYTHM Los Wizzards",
+              "spotify_uri": "spotify:track:5JfMKwWavYIDApCriztRqZ"
+            },
+            {
+              "artist": "Fito Paez",
+              "work": "Novela",
+              "search_query": "Novela Fito Paez",
+              "spotify_uri": "spotify:track:1o7HnuQ87p2yEC64rCpPNt"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "name": "Best Global Music Performance",
+          "nominees": [
+            {
+              "artist": "Bad Bunny",
+              "work": "EoO",
+              "search_query": "EoO Bad Bunny",
+              "spotify_uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+            },
+            {
+              "artist": "Ciro Hurtado",
+              "work": "Cantando en el Camino",
+              "search_query": "Cantando en el Camino Ciro Hurtado",
+              "spotify_uri": "spotify:track:7vYkmIypQkqDfT2iEizz6X"
+            },
+            {
+              "artist": "Angélique Kidjo",
+              "work": "JERUSALEMA",
+              "search_query": "JERUSALEMA Angélique Kidjo",
+              "spotify_uri": "spotify:track:0HcxM7O49XgSNbWVn5C8vi"
+            },
+            {
+              "artist": "Yeisy Rojas",
+              "work": "Inmigrante Y Que?",
+              "search_query": "Inmigrante Y Que Yeisy Rojas",
+              "spotify_uri": "spotify:track:6nURLhNteM0qkL8opkefEk"
+            },
+            {
+              "artist": "Shakti",
+              "work": "Shrini's Dream",
+              "search_query": "Shrini's Dream Shakti",
+              "spotify_uri": "spotify:track:6llehsN0Mgms7vs6J88zTX"
+            },
+            {
+              "artist": "Anoushka Shankar",
+              "work": "Daybreak",
+              "search_query": "Daybreak Anoushka Shankar",
+              "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "name": "Best African Music Performance",
+          "nominees": [
+            {
+              "artist": "Burna Boy",
+              "work": "Love",
+              "search_query": "Love Burna Boy",
+              "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck"
+            },
+            {
+              "artist": "Davido",
+              "work": "With You",
+              "search_query": "With You Davido",
+              "spotify_uri": "spotify:track:5GyaXqMfcIGHfmTUITFacS"
+            },
+            {
+              "artist": "Eddy Kenzo",
+              "work": "Hope & Love",
+              "search_query": "Hope & Love Eddy Kenzo",
+              "spotify_uri": "spotify:track:0UVcJBW1VTyZdatMIIZDSm"
+            },
+            {
+              "artist": "Ayra Starr",
+              "work": "Gimme Dat",
+              "search_query": "Gimme Dat Ayra Starr",
+              "spotify_uri": "spotify:track:1k51Q6GFWBbsaWlBB2gnzo"
+            },
+            {
+              "artist": "Tyla",
+              "work": "PUSH 2 START",
+              "search_query": "PUSH 2 START Tyla",
+              "spotify_uri": "spotify:track:1Cbl3Yq8rHo7hhDQmLQagU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Visual Media",
+      "categories": [
+        {
+          "id": "71",
+          "name": "Best Compilation Soundtrack For Visual Media",
+          "nominees": [
+            {
+              "artist": "Timothée Chalamet",
+              "work": "A Complete Unknown",
+              "search_query": "A Complete Unknown Soundtrack",
+              "spotify_uri": "spotify:track:47xQwrip8UriPhFPUjSRQ7"
+            },
+            {
+              "artist": "Various Artists",
+              "work": "F1 The Album",
+              "search_query": "F1 The Album",
+              "spotify_uri": "spotify:track:02BcXEH1zJYbXSabPtNlKf"
+            },
+            {
+              "artist": "Various Artists",
+              "work": "KPop Demon Hunters",
+              "search_query": "KPop Demon Hunters Soundtrack",
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+            },
+            {
+              "artist": "Various Artists",
+              "work": "Sinners",
+              "search_query": "Sinners Soundtrack",
+              "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt"
+            },
+            {
+              "artist": "Cynthia Erivo, Ariana Grande",
+              "work": "Wicked",
+              "search_query": "Wicked Soundtrack",
+              "spotify_uri": "spotify:track:5QMrH5nszZZR3nefIj6Mar"
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "name": "Best Song Written For Visual Media",
+          "nominees": [
+            {
+              "artist": "Nine Inch Nails",
+              "work": "As Alive As You Need Me To Be",
+              "search_query": "As Alive As You Need Me To Be TRON Ares",
+              "spotify_uri": "spotify:track:06USX1htQD4LgOgX4FF0ix"
+            },
+            {
+              "artist": "HUNTR/X",
+              "work": "Golden",
+              "search_query": "Golden KPop Demon Hunters",
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+            },
+            {
+              "artist": "Miles Caton",
+              "work": "I Lied to You",
+              "search_query": "I Lied to You Sinners",
+              "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt"
+            },
+            {
+              "artist": "Elton John",
+              "work": "Never Too Late",
+              "search_query": "Never Too Late Elton John",
+              "spotify_uri": "spotify:track:22Gzjt7PRJdAVz1tnJVYPZ"
+            },
+            {
+              "artist": "Jayme Lawson",
+              "work": "Pale, Pale Moon",
+              "search_query": "Pale Pale Moon Sinners",
+              "spotify_uri": "spotify:track:3gpofCUBcNhtLy2mN0ioE5"
+            },
+            {
+              "artist": "Rod Wave",
+              "work": "Sinners",
+              "search_query": "Sinners Rod Wave",
+              "spotify_uri": "spotify:track:0OyWRjMMbPKwnBtWdLg4Ws"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

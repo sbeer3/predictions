@@ -1,0 +1,642 @@
+✅ Got Spotify access token!
+Processing 112 artists...
+
+🎤 Artist: Addison Rae
+    🔍 Searching [artist]: Addison Rae
+    ✨ Verified: Addison Rae (spotify:artist:4gvjmrtzydbMpyJaXUtwvP)
+
+🎤 Artist: Alejandro Sanz
+    🔍 Searching [album]: ¿Y ahora qué? Alejandro Sanz
+    ✨ Verified: ¿Y ahora qué +? (spotify:album:2oBvsAEB09BYyv3Dnzn2Lb)
+
+🎤 Artist: Alex Warren
+    🔍 Searching [artist]: Alex Warren
+    ✨ Verified: Alex Warren (spotify:artist:0fTSzq9jAh4c36UVb4V7CB)
+
+🎤 Artist: Amyl and The Sniffers
+    🔍 Searching [track]: U Should Not Be Doing That Amyl and The Sniffers
+    ✨ Verified: U Should Not Be Doing That (spotify:track:6zfVBdPDopmP36NeHd4O2m)
+
+🎤 Artist: Anderson .Paak
+    🔍 Searching [track]: No Cap (with Disclosure) Anderson .Paak
+    ✨ Verified: Tudo Bem (spotify:track:3WZn3jyiJtVbqT4v950HmQ)
+
+🎤 Artist: Andrés Cepeda
+    🔍 Searching [album]: BOGOTÁ (DELUXE) Andrés Cepeda
+    ✨ Verified: BOGOTÁ (DELUXE) (spotify:album:4c6ohu9SHcvy5FUrPu3Q60)
+
+🎤 Artist: Angélique Kidjo
+    🔍 Searching [track]: JERUSALEMA Angélique Kidjo
+    ✨ Verified: JERUSALEMA (spotify:track:0HcxM7O49XgSNbWVn5C8vi)
+
+🎤 Artist: Anoushka Shankar
+    🔍 Searching [track]: Daybreak Anoushka Shankar
+    ✨ Verified: Daybreak (spotify:track:5yTsposXxnk1rJVETaXS4N)
+
+🎤 Artist: Ariana Grande
+    🔍 Searching [track]: Defying Gravity (with Cynthia Erivo) Ariana Grande
+    ✨ Verified: Commentary (spotify:track:78dJ6gU0WQuxmvsYaUnIQ5)
+    🔍 Searching [track]: Wicked Ariana Grande
+    ✨ Verified: Popular (spotify:track:3i8fIJNV0yuC4kXT3SkVBZ)
+
+🎤 Artist: Aterciopelados
+    🔍 Searching [album]: Genes Rebeldes Aterciopelados
+    ✨ Verified: Genes Rebeldes (spotify:album:3bLNYtp9nMBnQrW85P3If6)
+
+🎤 Artist: Ayra Starr
+    🔍 Searching [track]: Gimme Dat Ayra Starr
+    ✨ Verified: Gimme Dat (feat. Wizkid) (spotify:track:1k51Q6GFWBbsaWlBB2gnzo)
+
+🎤 Artist: Bad Bunny
+    🔍 Searching [track]: DtMF Bad Bunny
+    ✨ Verified: DtMF (spotify:track:3sK8wGT43QFpWrvNQsrQya)
+    🔍 Searching [album]: DeBÍ TIRAR MÁS FOTOS Bad Bunny
+    ✨ Verified: DeBÍ TiRAR MáS FOToS (spotify:album:5K79FLRUCSysQnVESLcTdb)
+    🔍 Searching [track]: DtMF Bad Bunny
+    ✨ Verified: DtMF (spotify:track:3sK8wGT43QFpWrvNQsrQya)
+    🔍 Searching [album]: DeBÍ TIRAR MÁS FOTOS Bad Bunny
+    ✨ Verified: DeBÍ TiRAR MáS FOToS (spotify:album:5K79FLRUCSysQnVESLcTdb)
+    🔍 Searching [track]: EoO Bad Bunny
+    ✨ Verified: EoO (spotify:track:6J5kc12BW5HuP3d7C3vvx8)
+
+🎤 Artist: Bilal
+    🔍 Searching [album]: Adjust Brightness Bilal
+    ✨ Verified: Adjust Brightness (spotify:album:3ASLBiqcxSDBZA64JpXTVe)
+
+🎤 Artist: Billie Eilish
+    🔍 Searching [track]: WILDFLOWER Billie Eilish
+    ✨ Verified: WILDFLOWER (spotify:track:3QaPy1KgI7nu9FJEQUgn6h)
+    🔍 Searching [track]: WILDFLOWER Billie Eilish
+    ✨ Verified: WILDFLOWER (spotify:track:3QaPy1KgI7nu9FJEQUgn6h)
+
+🎤 Artist: Bomba Estéreo
+    🔍 Searching [album]: ASTROPICAL Bomba Estéreo
+    ✨ Verified: ASTROPICAL (spotify:album:21U3vjlzUXb642LW0Ventl)
+
+🎤 Artist: Bon Iver
+    🔍 Searching [track]: Everything Is Peaceful Love Bon Iver
+    ✨ Verified: Everything Is Peaceful Love (spotify:track:4XosapYiYaXGcxc83p3DD9)
+    🔍 Searching [album]: SABLE, FABLE Bon Iver
+    ✨ Verified: SABLE, fABLE (spotify:album:3L3UjpXtom6T0Plt1j6l1T)
+
+🎤 Artist: Bruno Mars
+    🔍 Searching [track]: APT. (with ROSÉ) Bruno Mars
+    ✨ Verified: APT. (spotify:track:4oAr3efZaJrWQCkHlphC5q)
+    🔍 Searching [track]: APT. (with ROSÉ) Bruno Mars
+    ✨ Verified: APT. (spotify:track:4oAr3efZaJrWQCkHlphC5q)
+    🔍 Searching [track]: APT. (with ROSÉ) Bruno Mars
+    ✨ Verified: APT. (spotify:track:4oAr3efZaJrWQCkHlphC5q)
+
+🎤 Artist: Burna Boy
+    🔍 Searching [track]: Love Burna Boy
+    ✨ Verified: Love (spotify:track:4ACbff3fw2FkJ0xtJWilck)
+
+🎤 Artist: CA7RIEL & Paco Amoroso
+    🔍 Searching [album]: BAÑO MARÍA CA7RIEL & Paco Amoroso
+    ✨ Verified: BAÑO MARÍA (spotify:album:1XX2taUAddEZQX4QinYxX2)
+
+🎤 Artist: Cardi B
+    🔍 Searching [track]: Outside Cardi B
+    ✨ Verified: Outside (spotify:track:139nLHDFZNr3anx8CpUy7u)
+
+🎤 Artist: Chappell Roan
+    🔍 Searching [track]: The Subway Chappell Roan
+    ✨ Verified: The Subway (spotify:track:2SsY5k7UWFqgye3PUMG3Oq)
+    🔍 Searching [track]: The Subway Chappell Roan
+    ✨ Verified: The Subway (spotify:track:2SsY5k7UWFqgye3PUMG3Oq)
+
+🎤 Artist: Charley Crockett
+    🔍 Searching [album]: Dollar A Day Charley Crockett
+    ✨ Verified: Dollar A Day (spotify:album:6PmqJIFZZseXq1a2XXgYPd)
+
+🎤 Artist: Chris Brown
+    🔍 Searching [track]: It Depends Chris Brown
+    ✨ Verified: It Depends (feat. Bryson Tiller) (spotify:track:0t3pcqgBjuAVBgY2oEUIlH)
+    🔍 Searching [track]: It Depends Chris Brown
+    ✨ Verified: It Depends (feat. Bryson Tiller) (spotify:track:0t3pcqgBjuAVBgY2oEUIlH)
+
+🎤 Artist: Chris Stapleton
+    🔍 Searching [track]: Bad As I Used To Be Chris Stapleton
+    ✨ Verified: Bad As I Used To Be (spotify:track:11AfHdYnWqd8ez0u3VHw6E)
+    🔍 Searching [track]: A Song To Sing (with Miranda Lambert) Chris Stapleton
+    ✨ Verified: I Wish You Love (spotify:track:7uIaBPSTlBaAQr1asfZ3B4)
+    🔍 Searching [track]: Honky Tonk Hall Of Fame (with George Strait) Chris Stapleton
+    ✨ Verified: That's Texas (spotify:track:5mFA1iOWP5GXdIEhN0ub40)
+
+🎤 Artist: Ciro Hurtado
+    🔍 Searching [track]: Cantando en el Camino Ciro Hurtado
+    ✨ Verified: Cantando en el Camino (spotify:track:7vYkmIypQkqDfT2iEizz6X)
+
+🎤 Artist: Clipse
+    🔍 Searching [album]: Let God Sort Em Out Clipse
+    ✨ Verified: Let God Sort Em Out (spotify:album:17ScNnJ0lSWajodZaRpHdQ)
+    🔍 Searching [track]: Chains & Whips Clipse
+    ✨ Verified: Chains & Whips (spotify:track:3znSvEwBq09We4cxxmwlZM)
+    🔍 Searching [track]: The Birds Don't Sing Clipse
+    ✨ Verified: The Birds Don't Sing (spotify:track:6L3i4jdNnk0a9kMT3qIqTG)
+    🔍 Searching [album]: Let God Sort Em Out Clipse
+    ✨ Verified: Let God Sort Em Out (spotify:album:17ScNnJ0lSWajodZaRpHdQ)
+
+🎤 Artist: Coco Jones
+    🔍 Searching [album]: Why Not More? Coco Jones
+    ✨ Verified: Why Not More? (spotify:album:3Q1P1nILtihXq0QbwmzQyl)
+
+🎤 Artist: Cynthia Erivo
+    🔍 Searching [track]: Defying Gravity (with Ariana Grande) Cynthia Erivo
+    ✨ Verified: Commentary (spotify:track:78dJ6gU0WQuxmvsYaUnIQ5)
+    🔍 Searching [track]: Wicked Cynthia Erivo
+    ✨ Verified: The Wicked Witch of the East (spotify:track:1hSbcsqNmTaLVOUQ340Flt)
+
+🎤 Artist: Davido
+    🔍 Searching [track]: With You Davido
+    ✨ Verified: With You (feat. Omah Lay) (spotify:track:5GyaXqMfcIGHfmTUITFacS)
+
+🎤 Artist: Deftones
+    🔍 Searching [album]: private music Deftones
+    ✨ Verified: private music (spotify:album:1gmWnG5TeRj91Tdm2lpEvJ)
+
+🎤 Artist: Destin Conrad
+    🔍 Searching [album]: LOVE ON DIGITAL Destin Conrad
+    ✨ Verified: LOVE ON DIGITAL (spotify:album:7ChitlgU5oFgKmjLtViJ8K)
+
+🎤 Artist: Disclosure
+    🔍 Searching [track]: No Cap (with Anderson .Paak) Disclosure
+    ✨ Verified: Aint Slippin (spotify:track:0L3dWvDyJmOMFyAIcslwWy)
+
+🎤 Artist: Doechii
+    🔍 Searching [track]: Anxiety Doechii
+    ✨ Verified: Anxiety (spotify:track:1musbempyJAw5gfSKZHXP9)
+    🔍 Searching [track]: Anxiety Doechii
+    ✨ Verified: Anxiety (spotify:track:1musbempyJAw5gfSKZHXP9)
+    🔍 Searching [track]: Anxiety Doechii
+    ✨ Verified: Anxiety (spotify:track:1musbempyJAw5gfSKZHXP9)
+    🔍 Searching [track]: Anxiety Doechii
+    ✨ Verified: Anxiety (spotify:track:1musbempyJAw5gfSKZHXP9)
+
+🎤 Artist: Dream Theater
+    🔍 Searching [track]: Night Terror Dream Theater
+    ✨ Verified: Night Terror (spotify:track:2eEY3SOjaDoZmx6mC2QTLU)
+
+🎤 Artist: Durand Bernarr
+    🔍 Searching [track]: Here We Are Durand Bernarr
+    ✨ Verified: Here We Are (spotify:track:4w1QUiGOc6tz31SYoqQkRf)
+    🔍 Searching [track]: Overqualified Durand Bernarr
+    ✨ Verified: Overqualified (spotify:track:3lHwn0uVcDUXusIKOoBVHp)
+    🔍 Searching [album]: BLOOM Durand Bernarr
+    ✨ Verified: BLOOM (spotify:album:756LreEk5nDrKn0FyiVJNH)
+
+🎤 Artist: Eddy Kenzo
+    🔍 Searching [track]: Hope & Love Eddy Kenzo
+    ✨ Verified: Hope & Love (spotify:track:0UVcJBW1VTyZdatMIIZDSm)
+
+🎤 Artist: Elton John
+    🔍 Searching [track]: Never Too Late Elton John
+    ✨ Verified: Never Too Late (spotify:track:2I0GqVo4ezonSOV8jSUURx)
+
+🎤 Artist: Eric Church
+    🔍 Searching [album]: Evangeline Vs. The Machine Eric Church
+    ✨ Verified: Evangeline vs. The Machine (spotify:album:4wJxbo5ycw2j1cDM0LOiMl)
+
+🎤 Artist: Feid
+    🔍 Searching [album]: FERXXO VOL X: Sagrado Feid
+    ✨ Verified: FERXXO VOL X: Sagrado (spotify:album:4Fa9OpneHJPjj5jsrCQuMC)
+
+🎤 Artist: FKA twigs
+    🔍 Searching [album]: EUSEXUA FKA twigs
+    ✨ Verified: EUSEXUA (spotify:album:3o1TOhMkU5FFMSJMDhXfdF)
+
+🎤 Artist: FLO
+    🔍 Searching [album]: Access All Areas FLO
+    ✨ Verified: Access All Areas (spotify:album:3wSWMuHQOJ2gU22t5sCouR)
+
+🎤 Artist: Fred again..
+    🔍 Searching [track]: Victory Lap Fred again..
+    ✨ Verified: Victory Lap (spotify:track:1lbNgoJ5iMrMluCyhI4OQP)
+    🔍 Searching [album]: Ten Days Fred again..
+    ✨ Verified: ten days (spotify:album:3DQueEd1Ft9PHWgovDzPKh)
+
+🎤 Artist: Fridayy
+    🔍 Searching [track]: Proud Of Me Fridayy
+    ✨ Verified: Proud Of Me (ft. Meek Mill) (spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ)
+
+🎤 Artist: George Strait
+    🔍 Searching [track]: Honky Tonk Hall Of Fame (with Chris Stapleton) George Strait
+    ✨ Verified: That's Texas (spotify:track:5mFA1iOWP5GXdIEhN0ub40)
+
+🎤 Artist: Ghost
+    🔍 Searching [track]: Lachryma Ghost
+    ✨ Verified: Lachryma (spotify:track:0hw2CGX8jaIpS4jGDn3dfa)
+
+🎤 Artist: GIVEON
+    🔍 Searching [album]: BELOVED GIVEON
+    ✨ Verified: BELOVED (spotify:album:7pcBXbl1g198PNAxt44bHQ)
+
+🎤 Artist: GloRilla
+    🔍 Searching [track]: TGIF GloRilla
+    ✨ Verified: TGIF (spotify:track:2hKYtHbwYOSjvYQhVdUpdQ)
+    🔍 Searching [album]: GLORIOUS GloRilla
+    ✨ Verified: GLORIOUS (spotify:album:4dUAojdnh5Bcho1n8bPSO0)
+
+🎤 Artist: HAIM
+    🔍 Searching [album]: I quit HAIM
+    ✨ Verified: I quit (spotify:album:6bpglEwFypc0rfzYDyhf6i)
+
+🎤 Artist: Hayley Williams
+    🔍 Searching [track]: Mirtazapine Hayley Williams
+    ✨ Verified: Mirtazapine (spotify:track:2FFXU4b8sIsiLiTo6EWO19)
+    🔍 Searching [track]: Glum Hayley Williams
+    ✨ Verified: Glum (spotify:track:0kpB9iZJ9eMPQiMU9W6ouD)
+    🔍 Searching [track]: Parachute Hayley Williams
+    ✨ Verified: Parachute (spotify:track:5iALdwbhnUHa8zGStA3h1J)
+    🔍 Searching [album]: Ego Death At A Bachelorette Party Hayley Williams
+    ✨ Verified: Ego Death At A Bachelorette Party (spotify:album:3MROTtttK946gHaTkXeP8b)
+
+🎤 Artist: HUNTR/X
+    🔍 Searching [track]: Golden HUNTR/X
+    ✨ Verified: Golden (spotify:track:1CPZ5BxNNd0n0nF4Orb9JS)
+    🔍 Searching [track]: Golden HUNTR/X
+    ✨ Verified: Golden (spotify:track:1CPZ5BxNNd0n0nF4Orb9JS)
+    🔍 Searching [track]: Golden HUNTR/X
+    ✨ Verified: Golden (spotify:track:1CPZ5BxNNd0n0nF4Orb9JS)
+
+🎤 Artist: J Balvin
+    🔍 Searching [album]: Mixteip J Balvin
+    ✨ Verified: Mixteip (spotify:album:5ZhcTmzBym8cwsVkNNrHgS)
+
+🎤 Artist: Jayme Lawson
+    🔍 Searching [track]: Pale, Pale Moon Jayme Lawson
+    ✨ Verified: Pale, Pale Moon (spotify:track:3gpofCUBcNhtLy2mN0ioE5)
+
+🎤 Artist: Jelly Roll
+    🔍 Searching [track]: Amen (with Shaboozey) Jelly Roll
+    ✨ Verified: Christmas Nights in Blue (spotify:track:4APgQsRLwNXVINB4ca1iLS)
+    🔍 Searching [album]: Beautifully Broken Jelly Roll
+    ✨ Verified: Beautifully Broken (spotify:album:2GW4VpFk9mbc6qYZ0zNuu3)
+
+🎤 Artist: JID
+    🔍 Searching [track]: Wholeheartedly JID
+    ✨ Verified: Wholeheartedly (with Ty Dolla $ign & 6LACK) (spotify:track:314sW8ZsMHGiYkn2fAOW9e)
+    🔍 Searching [album]: God Does Like Ugly JID
+    ✨ Verified: God Does Like Ugly (spotify:album:2tU04u3hxtziB4sOVJKak3)
+
+🎤 Artist: Justin Bieber
+    🔍 Searching [album]: SWAG Justin Bieber
+    ✨ Verified: SWAG (spotify:album:5vD5M5VW62LL78Ko8x0CVZ)
+    🔍 Searching [track]: DAISIES Justin Bieber
+    ✨ Verified: DAISIES (spotify:track:7rcbwjIaZ5jEgyFk35Bqfj)
+    🔍 Searching [album]: SWAG Justin Bieber
+    ✨ Verified: SWAG (spotify:album:5vD5M5VW62LL78Ko8x0CVZ)
+    🔍 Searching [track]: YUKON Justin Bieber
+    ✨ Verified: YUKON (spotify:track:29iva9idM6rFCPUlu7Rhxl)
+
+🎤 Artist: KAROL G
+    🔍 Searching [album]: Tropicoqueta KAROL G
+    ✨ Verified: Tropicoqueta (spotify:album:0yY0fT7zibMEffhBJD9Nab)
+
+🎤 Artist: KATSEYE
+    🔍 Searching [artist]: KATSEYE
+    ✨ Verified: KATSEYE (spotify:artist:3c0gDdb9lhnHGFtP4prQpn)
+    🔍 Searching [track]: Gabriela KATSEYE
+    ✨ Verified: Gabriela (spotify:track:1xOqGUkyxGQRdCvGpvWKmL)
+
+🎤 Artist: KAYTRANADA
+    🔍 Searching [track]: SPACE INVADER KAYTRANADA
+    ✨ Verified: SPACE INVADER (spotify:track:3fPW4EhpRR6BwLRPDThNeg)
+    🔍 Searching [track]: Don't Forget About Us (Remix) KAYTRANADA
+    ✨ Verified: Don't Forget About Us - KAYTRANADA Remix (spotify:track:1NmC7qGL2jdqtFXzrrH3ui)
+
+🎤 Artist: Kehlani
+    🔍 Searching [track]: Folded Kehlani
+    ✨ Verified: Folded (spotify:track:0bxPRWprUVpQK0UFcddkrA)
+    🔍 Searching [track]: Folded Kehlani
+    ✨ Verified: Folded (spotify:track:0bxPRWprUVpQK0UFcddkrA)
+
+🎤 Artist: Kelsea Ballerini
+    🔍 Searching [album]: Patterns Kelsea Ballerini
+    ✨ Verified: PATTERNS Commentary Album (spotify:album:0Py8hbFZ9QhI2gPEqzbla1)
+
+🎤 Artist: Kendrick Lamar
+    🔍 Searching [track]: luther (with SZA) Kendrick Lamar
+    ✨ Verified: luther (with sza) (spotify:track:2CGNAOSuO1MEFCbBRgUzjd)
+    🔍 Searching [album]: GNX Kendrick Lamar
+    ✨ Verified: GNX (spotify:album:0hvT3yIEysuuvkK73vgdcW)
+    🔍 Searching [track]: luther (with SZA) Kendrick Lamar
+    ✨ Verified: luther (with sza) (spotify:track:2CGNAOSuO1MEFCbBRgUzjd)
+    🔍 Searching [track]: 30 For 30 (SZA with Kendrick Lamar) Kendrick Lamar
+    ✨ Verified: 30 For 30 (with Kendrick Lamar) (spotify:track:3aSWXU6owkZeVhh94XxEWO)
+    🔍 Searching [track]: tv off Kendrick Lamar
+    ✨ Verified: tv off (feat. lefty gunplay) (spotify:track:0aB0v4027ukVziUGwVGYpG)
+    🔍 Searching [track]: luther (with SZA) Kendrick Lamar
+    ✨ Verified: luther (with sza) (spotify:track:2CGNAOSuO1MEFCbBRgUzjd)
+    🔍 Searching [track]: tv off Kendrick Lamar
+    ✨ Verified: tv off (feat. lefty gunplay) (spotify:track:0aB0v4027ukVziUGwVGYpG)
+    🔍 Searching [album]: GNX Kendrick Lamar
+    ✨ Verified: GNX (spotify:album:0hvT3yIEysuuvkK73vgdcW)
+
+🎤 Artist: Lady Gaga
+    🔍 Searching [track]: Abracadabra Lady Gaga
+    ✨ Verified: Abracadabra (spotify:track:5ZLUm9eab8y3tqQ1OhQSHI)
+    🔍 Searching [album]: MAYHEM Lady Gaga
+    ✨ Verified: MAYHEM (spotify:album:2MHUaRi9OCyTN02SoyRRBJ)
+    🔍 Searching [track]: Abracadabra Lady Gaga
+    ✨ Verified: Abracadabra (spotify:track:5ZLUm9eab8y3tqQ1OhQSHI)
+    🔍 Searching [track]: Disease Lady Gaga
+    ✨ Verified: Disease (spotify:track:0T3Hw3kPj9T2E4UoaSXmfn)
+    🔍 Searching [album]: MAYHEM Lady Gaga
+    ✨ Verified: MAYHEM (spotify:album:2MHUaRi9OCyTN02SoyRRBJ)
+    🔍 Searching [track]: Abracadabra Lady Gaga
+    ✨ Verified: Abracadabra (spotify:track:5ZLUm9eab8y3tqQ1OhQSHI)
+
+🎤 Artist: Lalah Hathaway
+    🔍 Searching [track]: UPTOWN Lalah Hathaway
+    ✨ Verified: UPTOWN (spotify:track:4ci0wq2PIsAayCmUFd4XAb)
+
+🎤 Artist: Lainey Wilson
+    🔍 Searching [track]: Somewhere Over Laredo Lainey Wilson
+    ✨ Verified: Somewhere Over Laredo (spotify:track:0aGIy8kll4HYDnNTDlf2vU)
+    🔍 Searching [track]: Somewhere Over Laredo Lainey Wilson
+    ✨ Verified: Somewhere Over Laredo (spotify:track:0aGIy8kll4HYDnNTDlf2vU)
+
+🎤 Artist: Ledisi
+    🔍 Searching [track]: LOVE YOU TOO Ledisi
+    ✨ Verified: LOVE YOU TOO (spotify:track:6EjPDxrSXu2RcNctj6n0r1)
+    🔍 Searching [album]: The Crown Ledisi
+    ✨ Verified: The Crown (spotify:album:64a2yWLGIWj9MlHIcaav9e)
+
+🎤 Artist: Leon Thomas
+    🔍 Searching [album]: MUTT Leon Thomas
+    ✨ Verified: MUTT (spotify:album:0SzoksypeognxYJJOJEYip)
+    🔍 Searching [artist]: Leon Thomas
+    ✨ Verified: Leon Thomas (spotify:artist:0nnBZ8FXWjG9wZgM2cpfeb)
+    🔍 Searching [track]: MUTT (Live) Leon Thomas
+    ✨ Verified: MUTT - Live From NPR’s Tiny Desk (spotify:track:4UmYPgm2DDLH3UiSMxnwpJ)
+    🔍 Searching [track]: VIBES DON'T LIE Leon Thomas
+    ✨ Verified: VIBES DON'T LIE (spotify:track:1WwrfoGe0K33z1tVI6mevJ)
+    🔍 Searching [track]: YES IT IS Leon Thomas
+    ✨ Verified: YES IT IS (spotify:track:2iksjpqL3eraxCBKqNHuqd)
+    🔍 Searching [album]: MUTT Leon Thomas
+    ✨ Verified: MUTT (spotify:album:0SzoksypeognxYJJOJEYip)
+
+🎤 Artist: Linkin Park
+    🔍 Searching [track]: The Emptiness Machine Linkin Park
+    ✨ Verified: The Emptiness Machine (spotify:track:2PnlsTsOTLE5jnBnNe2K0A)
+    🔍 Searching [album]: From Zero Linkin Park
+    ✨ Verified: From Zero (spotify:album:4R6FV9NSzhPihHR0h4pI93)
+
+🎤 Artist: Lola Young
+    🔍 Searching [artist]: Lola Young
+    ✨ Verified: Lola Young (spotify:artist:67FB4n52MgexGQIG8s0yUH)
+    🔍 Searching [track]: Messy Lola Young
+    ✨ Verified: Messy (spotify:track:3SKH53SPQbEnZR4cJPVaz2)
+
+🎤 Artist: Los Wizzards
+    🔍 Searching [album]: ALGORHYTHM Los Wizzards
+    ✨ Verified: ALGORHYTHM (spotify:album:1wxG8CSeaKdeFVVus4DYF7)
+
+🎤 Artist: Lukas Nelson
+    🔍 Searching [album]: American Romance Lukas Nelson
+    ✨ Verified: American Romance (spotify:album:2rBZC5I5tXgWH2a4mE3L2h)
+
+🎤 Artist: Margo Price
+    🔍 Searching [track]: Love Me Like You Used To Do (with Tyler Childers) Margo Price
+    ✨ Verified: Love Me Like You Used To Do [Feat. Tyler Childers] (spotify:track:28520OoA1qXG46koPHUcSG)
+    🔍 Searching [album]: Hard Headed Woman Margo Price
+    ✨ Verified: Hard Headed Woman (spotify:album:1q03d1hYDfMWALV5t8Rbaw)
+
+🎤 Artist: Miles Caton
+    🔍 Searching [track]: I Lied to You Miles Caton
+    ✨ Verified: I Lied to You (spotify:track:0XfwXFXOI7oys9rsZ2sjrt)
+
+🎤 Artist: Miley Cyrus
+    🔍 Searching [album]: Something Beautiful Miley Cyrus
+    ✨ Verified: Something Beautiful (spotify:album:7h7smPzBYx8LOLI3ncM3vQ)
+
+🎤 Artist: Miranda Lambert
+    🔍 Searching [track]: A Song To Sing (with Chris Stapleton) Miranda Lambert
+    ✨ Verified: I Have A Dream (spotify:track:1PtJclc46wTk367PlsU6Uj)
+    🔍 Searching [track]: A Song To Sing Miranda Lambert
+    ✨ Verified: A Song To Sing (spotify:track:7L9N5bxblTyzTknaxo7duX)
+    🔍 Searching [album]: Postcards From Texas Miranda Lambert
+    ✨ Verified: Postcards From Texas (spotify:album:2c12Spm8XcLAT2xYtQdgGK)
+
+🎤 Artist: Natalia Lafourcade
+    🔍 Searching [album]: Cancionera Natalia Lafourcade
+    ✨ Verified: Cancionera (spotify:album:4gqGuqjdi0io8D0vgMPczu)
+
+🎤 Artist: Nicki Nicole
+    🔍 Searching [album]: ΝΑΙΚΙ Nicki Nicole
+    ✨ Verified: Ojos Verdes (spotify:album:4EeOwzI5OcHYrETtQqkmQk)
+
+🎤 Artist: Nine Inch Nails
+    🔍 Searching [track]: As Alive As You Need Me To Be Nine Inch Nails
+    ✨ Verified: As Alive As You Need Me To Be (spotify:track:1xsEHo7mtGZLEG94vFX11z)
+    🔍 Searching [track]: As Alive As You Need Me To Be Nine Inch Nails
+    ✨ Verified: As Alive As You Need Me To Be (spotify:track:1xsEHo7mtGZLEG94vFX11z)
+
+🎤 Artist: Olivia Dean
+    🔍 Searching [artist]: Olivia Dean
+    ✨ Verified: Olivia Dean (spotify:artist:00x1fYSGhdqScXBRpSj3DW)
+
+🎤 Artist: PARTYNEXTDOOR & Drake
+    🔍 Searching [track]: SOMEBODY LOVES ME PARTYNEXTDOOR & Drake
+    ✨ Verified: SOMEBODY LOVES ME (spotify:track:2kZoOj1n5vk9BuF0sih58M)
+
+🎤 Artist: Pink Pantheress
+    🔍 Searching [track]: Illegal Pink Pantheress
+    ✨ Verified: Illegal (spotify:track:1WmBVbFmLt0w6zPP37TeCG)
+    🔍 Searching [album]: Fancy That Pink Pantheress
+    ✨ Verified: Fancy That (spotify:album:3o81FH5FTYVtoBQOZr3T7y)
+
+🎤 Artist: Rauw Alejandro
+    🔍 Searching [album]: Cosa Nuestra Rauw Alejandro
+    ✨ Verified: Cosa Nuestra (spotify:album:0aX0UXrHG2ceYIxTQcqJdA)
+
+🎤 Artist: Rod Wave
+    🔍 Searching [track]: Sinners Rod Wave
+    ✨ Verified: Sinners (spotify:track:0OyWRjMMbPKwnBtWdLg4Ws)
+
+🎤 Artist: ROSÉ
+    🔍 Searching [track]: APT. (with Bruno Mars) ROSÉ
+    ✨ Verified: APT. (spotify:track:4oAr3efZaJrWQCkHlphC5q)
+    🔍 Searching [track]: APT. (with Bruno Mars) ROSÉ
+    ✨ Verified: APT. (spotify:track:4oAr3efZaJrWQCkHlphC5q)
+    🔍 Searching [track]: APT. (with Bruno Mars) ROSÉ
+    ✨ Verified: APT. (spotify:track:4oAr3efZaJrWQCkHlphC5q)
+
+🎤 Artist: RÜFÜS DU SOL
+    🔍 Searching [album]: Inhale/Exhale RÜFÜS DU SOL
+    ✨ Verified: Inhale / Exhale (spotify:album:3Fda4vhPP0Clk3EQNVipUP)
+
+🎤 Artist: Sabrina Carpenter
+    🔍 Searching [track]: Manchild Sabrina Carpenter
+    ✨ Verified: Manchild (spotify:track:42UBPzRMh5yyz0EDPr6fr1)
+    🔍 Searching [album]: Man's Best Friend Sabrina Carpenter
+    ✨ Verified: Man’s Best Friend (spotify:album:1aqg30bNvLSWgShZgX4oop)
+    🔍 Searching [track]: Manchild Sabrina Carpenter
+    ✨ Verified: Manchild (spotify:track:42UBPzRMh5yyz0EDPr6fr1)
+    🔍 Searching [track]: Manchild Sabrina Carpenter
+    ✨ Verified: Manchild (spotify:track:42UBPzRMh5yyz0EDPr6fr1)
+    🔍 Searching [album]: Man's Best Friend Sabrina Carpenter
+    ✨ Verified: Man’s Best Friend (spotify:album:1aqg30bNvLSWgShZgX4oop)
+
+🎤 Artist: Selena Gomez & benny blanco
+    🔍 Searching [track]: Bluest Flame Selena Gomez & benny blanco
+    ✨ Verified: Bluest Flame (spotify:track:6vuVCtwukUA57ioTnKKeuL)
+
+🎤 Artist: Shaboozey
+    🔍 Searching [track]: Good News Shaboozey
+    ✨ Verified: Good News (spotify:track:54p6vNJwGkt4FTaM8SCsxt)
+    🔍 Searching [track]: Amen (with Jelly Roll) Shaboozey
+    ✨ Verified: Christmas Nights in Blue (spotify:track:4APgQsRLwNXVINB4ca1iLS)
+    🔍 Searching [track]: Good News Shaboozey
+    ✨ Verified: Good News (spotify:track:54p6vNJwGkt4FTaM8SCsxt)
+
+🎤 Artist: Shakti
+    🔍 Searching [track]: Shrini's Dream Shakti
+    ✨ Verified: Shrini’s Dream (spotify:track:6llehsN0Mgms7vs6J88zTX)
+
+🎤 Artist: Skrillex
+    🔍 Searching [track]: VOLTAGE Skrillex
+    ✨ Verified: VOLTAGE (spotify:track:227u7P0lZxYfBH9KjT1gsf)
+    🔍 Searching [album]: $F**$ U SKRILLEX... Skrillex
+    ✨ Verified: F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3 (spotify:album:784znju28Nz5zSuRuthPcO)
+
+🎤 Artist: Sleep Token
+    🔍 Searching [track]: Emergence Sleep Token
+    ✨ Verified: Emergence (spotify:track:5NRpxJxtR6JkUhQS4F0um6)
+    🔍 Searching [track]: Caramel Sleep Token
+    ✨ Verified: Caramel (spotify:track:3AdXwuFn7j21HNiFMXvZXt)
+
+🎤 Artist: sombr
+    🔍 Searching [artist]: sombr
+    ✨ Verified: sombr (spotify:artist:4G9NDjRyZFDlJKMRL8hx3S)
+
+🎤 Artist: Spiritbox
+    🔍 Searching [track]: Soft Spine Spiritbox
+    ✨ Verified: Soft Spine (spotify:track:3t5GlWUzGSt2lPuiSEPBFG)
+
+🎤 Artist: Summer Walker
+    🔍 Searching [track]: Heart Of A Woman Summer Walker
+    ✨ Verified: Heart Of A Woman (spotify:track:2oVVaVY0LkzwAYYcyzon6Z)
+    🔍 Searching [track]: Heart Of A Woman Summer Walker
+    ✨ Verified: Heart Of A Woman (spotify:track:2oVVaVY0LkzwAYYcyzon6Z)
+
+🎤 Artist: SZA
+    🔍 Searching [track]: luther (with Kendrick Lamar) SZA
+    ✨ Verified: luther (with sza) (spotify:track:2CGNAOSuO1MEFCbBRgUzjd)
+    🔍 Searching [track]: luther (with Kendrick Lamar) SZA
+    ✨ Verified: luther (with sza) (spotify:track:2CGNAOSuO1MEFCbBRgUzjd)
+    🔍 Searching [track]: 30 For 30 (with Kendrick Lamar) SZA
+    ✨ Verified: 30 For 30 (with Kendrick Lamar) (spotify:track:3aSWXU6owkZeVhh94XxEWO)
+    🔍 Searching [track]: Crybaby SZA
+    ✨ Verified: Crybaby (spotify:track:1g7pFO1WtclKCuIQiS8sNM)
+    🔍 Searching [track]: luther (with Kendrick Lamar) SZA
+    ✨ Verified: luther (with sza) (spotify:track:2CGNAOSuO1MEFCbBRgUzjd)
+
+🎤 Artist: Tame Impala
+    🔍 Searching [track]: End Of Summer Tame Impala
+    ✨ Verified: End Of Summer (spotify:track:1Iw5iLfAwDvS6frI82gMoV)
+
+🎤 Artist: Tate McRae
+    🔍 Searching [track]: Just Keep Watching Tate McRae
+    ✨ Verified: Just Keep Watching (From F1® The Movie) (spotify:track:2yWlGEgEfPot0lv3OAjuG3)
+
+🎤 Artist: Teddy Swims
+    🔍 Searching [album]: I've Tried Everything But Therapy (Part 2) Teddy Swims
+    ✨ Verified: I've Tried Everything But Therapy (Part 2) (spotify:album:6kvSdLjli85tMwW4jlCN0o)
+
+🎤 Artist: Terrace Martin & Kenyon Dixon
+    🔍 Searching [album]: Come As You Are Terrace Martin & Kenyon Dixon
+    ✨ Verified: Come As You Are (spotify:album:2WA4zGU2bZdmyQ8tOrNMVJ)
+    🔍 Searching [track]: WeMaj Terrace Martin & Kenyon Dixon
+    ✨ Verified: WeMaj (feat. Rapsody) (spotify:track:01WDhc8gxD59xkrUDqCe5t)
+
+🎤 Artist: Teyana Taylor
+    🔍 Searching [album]: Escape Room Teyana Taylor
+    ✨ Verified: Escape Room (spotify:album:7Aya7D6bm5P2iRrlnNsFQf)
+
+🎤 Artist: The Marias
+    🔍 Searching [artist]: The Marias
+    ✨ Verified: The Marías (spotify:artist:2sSGPbdZJkaSE2AbcGOACx)
+
+🎤 Artist: Timothée Chalamet
+    🔍 Searching [track]: A Complete Unknown Timothée Chalamet
+    ✨ Verified: It Ain't Me, Babe (spotify:track:47xQwrip8UriPhFPUjSRQ7)
+
+🎤 Artist: Trueno
+    🔍 Searching [album]: EUB DELUXE Trueno
+    ✨ Verified: EUB DELUXE (spotify:album:1XCqLkq4DKi1rfcVWG5PY0)
+
+🎤 Artist: Turnstile
+    🔍 Searching [track]: NEVER ENOUGH Turnstile
+    ✨ Verified: NEVER ENOUGH (spotify:track:6ONyZXRIEiZWWnAA1F5YvH)
+    🔍 Searching [track]: BIRDS Turnstile
+    ✨ Verified: BIRDS (spotify:track:0k9JIBszlCqCa4SpXI353F)
+    🔍 Searching [track]: NEVER ENOUGH Turnstile
+    ✨ Verified: NEVER ENOUGH (spotify:track:6ONyZXRIEiZWWnAA1F5YvH)
+    🔍 Searching [album]: NEVER ENOUGH Turnstile
+    ✨ Verified: NEVER ENOUGH (spotify:album:52yD51X7yDinwlg6tbCtpP)
+    🔍 Searching [track]: SEEIN' STARS Turnstile
+    ✨ Verified: SEEIN’ STARS (spotify:track:0vbdCsYHg1by09QKOGO4PR)
+
+🎤 Artist: Tyla
+    🔍 Searching [track]: PUSH 2 START Tyla
+    ✨ Verified: PUSH 2 START (spotify:track:1Cbl3Yq8rHo7hhDQmLQagU)
+
+🎤 Artist: Tyler Childers
+    🔍 Searching [track]: Nose On The Grindstone Tyler Childers
+    ✨ Verified: Nose On The Grindstone (spotify:track:41qeQaiSa09dPsGzgechek)
+    🔍 Searching [track]: Love Me Like You Used To Do (with Margo Price) Tyler Childers
+    ✨ Verified: Love Me Like You Used To Do [Feat. Tyler Childers] (spotify:track:28520OoA1qXG46koPHUcSG)
+    🔍 Searching [track]: Bitin' List Tyler Childers
+    ✨ Verified: Bitin' List (spotify:track:0x5wJ0cDp7miv49jSMTSkq)
+    🔍 Searching [album]: Snipe Hunter Tyler Childers
+    ✨ Verified: Snipe Hunter (spotify:album:00rssxYxFqqdbuO1lz1Gxa)
+
+🎤 Artist: Tyler, The Creator
+    🔍 Searching [album]: CHROMAKOPIA Tyler, The Creator
+    ✨ Verified: CHROMAKOPIA (spotify:album:0U28P0QVB1QRxpqp5IHOlH)
+    🔍 Searching [album]: DON'T TAP THE GLASS Tyler, The Creator
+    ✨ Verified: DON'T TAP THE GLASS (spotify:album:1jzv3jwZbt8lYfEtMjiD1R)
+    🔍 Searching [track]: Darling, I Tyler, The Creator
+    ✨ Verified: Darling, I (feat. Teezo Touchdown) (spotify:track:0VaeksJaXy5R1nvcTMh3Xk)
+    🔍 Searching [track]: Sticky Tyler, The Creator
+    ✨ Verified: Sticky (feat. GloRilla, Sexyy Red & Lil Wayne) (spotify:track:3tFed7YsjGnIfxeLEQwx3R)
+    🔍 Searching [album]: CHROMAKOPIA Tyler, The Creator
+    ✨ Verified: CHROMAKOPIA (spotify:album:0U28P0QVB1QRxpqp5IHOlH)
+
+🎤 Artist: Willie Nelson
+    🔍 Searching [album]: Oh What A Beautiful World Willie Nelson
+    ✨ Verified: Oh What A Beautiful World (spotify:album:7C2rtzfeP135vyNyzsmhfV)
+
+🎤 Artist: Yandel
+    🔍 Searching [album]: SINFÓNICO (En Vivo) Yandel
+    ✨ Verified: SINFÓNICO (En Vivo) (spotify:album:6qBMMQeQLfUxEs47lK085F)
+
+🎤 Artist: Yeisy Rojas
+    🔍 Searching [track]: Inmigrante Y Que? Yeisy Rojas
+    ✨ Verified: Inmigrante Y Que? (spotify:track:6nURLhNteM0qkL8opkefEk)
+
+🎤 Artist: YUNGBLUD
+    🔍 Searching [track]: Changes YUNGBLUD
+    ✨ Verified: Changes (Live From Villa Park) Back To The Beginning (feat. Nuno Bettencourt, Frank Bello, Adam Wakeman, II) (spotify:track:5yriBaBAgiRDoTVVWazMuv)
+    🔍 Searching [track]: Zombie YUNGBLUD
+    ✨ Verified: Zombie (spotify:track:7DQotDUGnJkXgNJv363GXF)
+    🔍 Searching [album]: Idols YUNGBLUD
+    ✨ Verified: Idols (spotify:album:19PD2IPfceDn9fLAa05TFE)
+
+🎤 Artist: Zach Top
+    🔍 Searching [track]: I Never Lie Zach Top
+    ✨ Verified: I Never Lie (spotify:track:3t6gUcGYLrUuqwpXjOFWQc)
+    🔍 Searching [track]: I Never Lie Zach Top
+    ✨ Verified: I Never Lie (spotify:track:3t6gUcGYLrUuqwpXjOFWQc)
+    🔍 Searching [album]: Ain't In It For My Health Zach Top
+    ✨ Verified: Ain't In It For My Health (spotify:album:5q893GwwooRNMeDHmPXYi7)
+
+🎤 Artist: Zara Larsson
+    🔍 Searching [track]: Midnight Sun Zara Larsson
+    ✨ Verified: Midnight Sun (spotify:track:37UCSVSqiPGdR1DijOFyYY)
+
+🎉 Done!
+   Updated: 0
+   Total Nominations Checked: 206

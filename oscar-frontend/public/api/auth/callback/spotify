@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Auth Callback</title>
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: linear-gradient(135deg, #2d3a2e 0%, #3d4a3e 100%);
+            color: #d7f2ba;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .message {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="message">
+        <h2>Connecting to Spotify...</h2>
+        <p>You can close this window.</p>
+    </div>
+
+    <script>
+        // Extract the access token from the URL hash
+        const hash = window.location.hash.substring(1);
+        const params = new URLSearchParams(hash);
+        const accessToken = params.get('access_token');
+
+        if (accessToken) {
+            // Send the token back to the parent window
+            window.opener.postMessage({
+                type: 'spotify-token',
+                token: accessToken
+            }, window.location.origin);
+
+            // Close this popup after a short delay
+            setTimeout(() => {
+                window.close();
+            }, 1000);
+        } else {
+            document.querySelector('.message h2').textContent = 'Authentication failed';
+            document.querySelector('.message p').textContent = 'Please try again.';
+        }
+    </script>
+</body>
+
+</html>

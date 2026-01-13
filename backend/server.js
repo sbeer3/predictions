@@ -6,6 +6,8 @@ const categoriesRoutes = require('./routes/categories');
 const predictionsModule = require('./routes/predictions');
 const leaderboardRoutes = require('./routes/leaderboard');
 const adminRoutes = require('./routes/admin');
+const spotifyRoutes = require('./routes/spotify');
+const spotlightRoutes = require('./routes/spotlight');
 const http = require('http');
 const { Server } = require('socket.io');
 
@@ -34,6 +36,8 @@ app.use('/api/categories', categoriesRoutes);
 app.use('/api/predictions', predictionsModule.router);
 app.use('/api/leaderboard', leaderboardRoutes.router);
 app.use('/api/admin', adminRoutes);
+app.use('/api/spotify', spotifyRoutes);
+app.use('/api/spotlight', spotlightRoutes);
 
 // Serve the index.html file for all other requests
 app.get('*', (req, res) => {
@@ -43,7 +47,7 @@ app.get('*', (req, res) => {
 // Socket.io connection
 io.on('connection', (socket) => {
   console.log('New client connected');
-  
+
   socket.on('disconnect', () => {
     console.log('Client disconnected');
   });

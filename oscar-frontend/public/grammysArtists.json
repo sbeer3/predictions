@@ -1,0 +1,1596 @@
+{
+    "event": "68th Annual GRAMMY Awards",
+    "date": "2026-02-01",
+    "artists": [
+        {
+            "artist": "Addison Rae",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:4gvjmrtzydbMpyJaXUtwvP"
+                }
+            ]
+        },
+        {
+            "artist": "Alejandro Sanz",
+            "nominations": [
+                {
+                    "category": "Best Latin Pop Album",
+                    "work": "¿Y ahora qué?",
+                    "spotify_uri": "spotify:album:2oBvsAEB09BYyv3Dnzn2Lb"
+                }
+            ]
+        },
+        {
+            "artist": "Alex Warren",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:0fTSzq9jAh4c36UVb4V7CB"
+                }
+            ]
+        },
+        {
+            "artist": "Amyl and The Sniffers",
+            "nominations": [
+                {
+                    "category": "Best Rock Performance",
+                    "work": "U Should Not Be Doing That",
+                    "spotify_uri": "spotify:track:6zfVBdPDopmP36NeHd4O2m"
+                }
+            ]
+        },
+        {
+            "artist": "Anderson .Paak",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Recording",
+                    "work": "No Cap (with Disclosure)",
+                    "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW"
+                }
+            ]
+        },
+        {
+            "artist": "Andrés Cepeda",
+            "nominations": [
+                {
+                    "category": "Best Latin Pop Album",
+                    "work": "BOGOTÁ (DELUXE)",
+                    "spotify_uri": "spotify:album:4c6ohu9SHcvy5FUrPu3Q60"
+                }
+            ]
+        },
+        {
+            "artist": "Angélique Kidjo",
+            "nominations": [
+                {
+                    "category": "Best Global Music Performance",
+                    "work": "JERUSALEMA",
+                    "spotify_uri": "spotify:track:0HcxM7O49XgSNbWVn5C8vi"
+                }
+            ]
+        },
+        {
+            "artist": "Anoushka Shankar",
+            "nominations": [
+                {
+                    "category": "Best Global Music Performance",
+                    "work": "Daybreak",
+                    "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N"
+                }
+            ]
+        },
+        {
+            "artist": "Ariana Grande",
+            "nominations": [
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "Defying Gravity (with Cynthia Erivo)",
+                    "spotify_uri": "spotify:track:4h1UeG4p4f9F6K0F0Y5L9X"
+                },
+                {
+                    "category": "Best Compilation Soundtrack For Visual Media",
+                    "work": "Wicked",
+                    "spotify_uri": "spotify:track:3i8fIJNV0yuC4kXT3SkVBZ"
+                }
+            ]
+        },
+        {
+            "artist": "Aterciopelados",
+            "nominations": [
+                {
+                    "category": "Best Latin Rock or Alternative Album",
+                    "work": "Genes Rebeldes",
+                    "spotify_uri": "spotify:album:3bLNYtp9nMBnQrW85P3If6"
+                }
+            ]
+        },
+        {
+            "artist": "Ayra Starr",
+            "nominations": [
+                {
+                    "category": "Best African Music Performance",
+                    "work": "Gimme Dat",
+                    "spotify_uri": "spotify:track:1k51Q6GFWBbsaWlBB2gnzo"
+                }
+            ]
+        },
+        {
+            "artist": "Bad Bunny",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "DtMF",
+                    "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+                },
+                {
+                    "category": "Album Of The Year",
+                    "work": "DeBÍ TIRAR MÁS FOTOS",
+                    "spotify_uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "DtMF",
+                    "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+                },
+                {
+                    "category": "Best Música Urbana Album",
+                    "work": "DeBÍ TIRAR MÁS FOTOS",
+                    "spotify_uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+                },
+                {
+                    "category": "Best Global Music Performance",
+                    "work": "EoO",
+                    "spotify_uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+                }
+            ]
+        },
+        {
+            "artist": "Bilal",
+            "nominations": [
+                {
+                    "category": "Best Progressive R&B Album",
+                    "work": "Adjust Brightness",
+                    "spotify_uri": "spotify:album:3ASLBiqcxSDBZA64JpXTVe"
+                }
+            ]
+        },
+        {
+            "artist": "Billie Eilish",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "WILDFLOWER",
+                    "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "WILDFLOWER",
+                    "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+                }
+            ]
+        },
+        {
+            "artist": "Bomba Estéreo",
+            "nominations": [
+                {
+                    "category": "Best Latin Rock or Alternative Album",
+                    "work": "ASTROPICAL",
+                    "spotify_uri": "spotify:album:21U3vjlzUXb642LW0Ventl"
+                }
+            ]
+        },
+        {
+            "artist": "Bon Iver",
+            "nominations": [
+                {
+                    "category": "Best Alternative Music Performance",
+                    "work": "Everything Is Peaceful Love",
+                    "spotify_uri": "spotify:track:4XosapYiYaXGcxc83p3DD9"
+                },
+                {
+                    "category": "Best Alternative Music Album",
+                    "work": "SABLE, FABLE",
+                    "spotify_uri": "spotify:album:3L3UjpXtom6T0Plt1j6l1T"
+                }
+            ]
+        },
+        {
+            "artist": "Bruno Mars",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "APT. (with ROSÉ)",
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "APT. (with ROSÉ)",
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                },
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "APT. (with ROSÉ)",
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                }
+            ]
+        },
+        {
+            "artist": "Burna Boy",
+            "nominations": [
+                {
+                    "category": "Best African Music Performance",
+                    "work": "Love",
+                    "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck"
+                }
+            ]
+        },
+        {
+            "artist": "CA7RIEL & Paco Amoroso",
+            "nominations": [
+                {
+                    "category": "Best Latin Rock or Alternative Album",
+                    "work": "BAÑO MARÍA",
+                    "spotify_uri": "spotify:album:1XX2taUAddEZQX4QinYxX2"
+                }
+            ]
+        },
+        {
+            "artist": "Cardi B",
+            "nominations": [
+                {
+                    "category": "Best Rap Performance",
+                    "work": "Outside",
+                    "spotify_uri": "spotify:track:139nLHDFZNr3anx8CpUy7u"
+                }
+            ]
+        },
+        {
+            "artist": "Chappell Roan",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "The Subway",
+                    "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+                },
+                {
+                    "category": "Best Pop Solo Performance",
+                    "work": "The Subway",
+                    "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+                }
+            ]
+        },
+        {
+            "artist": "Charley Crockett",
+            "nominations": [
+                {
+                    "category": "Best Traditional Country Album",
+                    "work": "Dollar A Day",
+                    "spotify_uri": "spotify:album:6PmqJIFZZseXq1a2XXgYPd"
+                }
+            ]
+        },
+        {
+            "artist": "Chris Brown",
+            "nominations": [
+                {
+                    "category": "Best R&B Performance",
+                    "work": "It Depends",
+                    "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+                },
+                {
+                    "category": "Best R&B Song",
+                    "work": "It Depends",
+                    "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+                }
+            ]
+        },
+        {
+            "artist": "Chris Stapleton",
+            "nominations": [
+                {
+                    "category": "Best Country Solo Performance",
+                    "work": "Bad As I Used To Be",
+                    "spotify_uri": "spotify:track:11AfHdYnWqd8ez0u3VHw6E"
+                },
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "A Song To Sing (with Miranda Lambert)",
+                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+                },
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "Honky Tonk Hall Of Fame (with George Strait)",
+                    "spotify_uri": "spotify:track:5mFA1iOWP5GXdIEhN0ub40"
+                }
+            ]
+        },
+        {
+            "artist": "Ciro Hurtado",
+            "nominations": [
+                {
+                    "category": "Best Global Music Performance",
+                    "work": "Cantando en el Camino",
+                    "spotify_uri": "spotify:track:7vYkmIypQkqDfT2iEizz6X"
+                }
+            ]
+        },
+        {
+            "artist": "Clipse",
+            "nominations": [
+                {
+                    "category": "Album Of The Year",
+                    "work": "Let God Sort Em Out",
+                    "spotify_uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ"
+                },
+                {
+                    "category": "Best Rap Performance",
+                    "work": "Chains & Whips",
+                    "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM"
+                },
+                {
+                    "category": "Best Rap Song",
+                    "work": "The Birds Don't Sing",
+                    "spotify_uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG"
+                },
+                {
+                    "category": "Best Rap Album",
+                    "work": "Let God Sort Em Out",
+                    "spotify_uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ"
+                }
+            ]
+        },
+        {
+            "artist": "Coco Jones",
+            "nominations": [
+                {
+                    "category": "Best R&B Album",
+                    "work": "Why Not More?",
+                    "spotify_uri": "spotify:album:3Q1P1nILtihXq0QbwmzQyl"
+                }
+            ]
+        },
+        {
+            "artist": "Cynthia Erivo",
+            "nominations": [
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "Defying Gravity (with Ariana Grande)",
+                    "spotify_uri": "spotify:track:4h1UeG4p4f9F6K0F0Y5L9X"
+                },
+                {
+                    "category": "Best Compilation Soundtrack For Visual Media",
+                    "work": "Wicked",
+                    "spotify_uri": "spotify:track:1hSbcsqNmTaLVOUQ340Flt"
+                }
+            ]
+        },
+        {
+            "artist": "Davido",
+            "nominations": [
+                {
+                    "category": "Best African Music Performance",
+                    "work": "With You",
+                    "spotify_uri": "spotify:track:5GyaXqMfcIGHfmTUITFacS"
+                }
+            ]
+        },
+        {
+            "artist": "Deftones",
+            "nominations": [
+                {
+                    "category": "Best Rock Album",
+                    "work": "private music",
+                    "spotify_uri": "spotify:album:1gmWnG5TeRj91Tdm2lpEvJ"
+                }
+            ]
+        },
+        {
+            "artist": "Destin Conrad",
+            "nominations": [
+                {
+                    "category": "Best Progressive R&B Album",
+                    "work": "LOVE ON DIGITAL",
+                    "spotify_uri": "spotify:album:7ChitlgU5oFgKmjLtViJ8K"
+                }
+            ]
+        },
+        {
+            "artist": "Disclosure",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Recording",
+                    "work": "No Cap (with Anderson .Paak)",
+                    "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW"
+                }
+            ]
+        },
+        {
+            "artist": "Doechii",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "Anxiety",
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "Anxiety",
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                },
+                {
+                    "category": "Best Rap Performance",
+                    "work": "Anxiety",
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                },
+                {
+                    "category": "Best Rap Song",
+                    "work": "Anxiety",
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                }
+            ]
+        },
+        {
+            "artist": "Dream Theater",
+            "nominations": [
+                {
+                    "category": "Best Metal Performance",
+                    "work": "Night Terror",
+                    "spotify_uri": "spotify:track:2eEY3SOjaDoZmx6mC2QTLU"
+                }
+            ]
+        },
+        {
+            "artist": "Durand Bernarr",
+            "nominations": [
+                {
+                    "category": "Best Traditional R&B Performance",
+                    "work": "Here We Are",
+                    "spotify_uri": "spotify:track:4w1QUiGOc6tz31SYoqQkRf"
+                },
+                {
+                    "category": "Best R&B Song",
+                    "work": "Overqualified",
+                    "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp"
+                },
+                {
+                    "category": "Best Progressive R&B Album",
+                    "work": "BLOOM",
+                    "spotify_uri": "spotify:album:756LreEk5nDrKn0FyiVJNH"
+                }
+            ]
+        },
+        {
+            "artist": "Eddy Kenzo",
+            "nominations": [
+                {
+                    "category": "Best African Music Performance",
+                    "work": "Hope & Love",
+                    "spotify_uri": "spotify:track:0UVcJBW1VTyZdatMIIZDSm"
+                }
+            ]
+        },
+        {
+            "artist": "Elton John",
+            "nominations": [
+                {
+                    "category": "Best Song Written For Visual Media",
+                    "work": "Never Too Late",
+                    "spotify_uri": "spotify:track:2I0GqVo4ezonSOV8jSUURx"
+                }
+            ]
+        },
+        {
+            "artist": "Eric Church",
+            "nominations": [
+                {
+                    "category": "Best Contemporary Country Album",
+                    "work": "Evangeline Vs. The Machine",
+                    "spotify_uri": "spotify:album:4wJxbo5ycw2j1cDM0LOiMl"
+                }
+            ]
+        },
+        {
+            "artist": "Feid",
+            "nominations": [
+                {
+                    "category": "Best Música Urbana Album",
+                    "work": "FERXXO VOL X: Sagrado",
+                    "spotify_uri": "spotify:album:4Fa9OpneHJPjj5jsrCQuMC"
+                }
+            ]
+        },
+        {
+            "artist": "FKA twigs",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Album",
+                    "work": "EUSEXUA",
+                    "spotify_uri": "spotify:album:3o1TOhMkU5FFMSJMDhXfdF"
+                }
+            ]
+        },
+        {
+            "artist": "FLO",
+            "nominations": [
+                {
+                    "category": "Best Progressive R&B Album",
+                    "work": "Access All Areas",
+                    "spotify_uri": "spotify:album:3wSWMuHQOJ2gU22t5sCouR"
+                }
+            ]
+        },
+        {
+            "artist": "Fred again..",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Recording",
+                    "work": "Victory Lap",
+                    "spotify_uri": "spotify:track:1lbNgoJ5iMrMluCyhI4OQP"
+                },
+                {
+                    "category": "Best Dance/Electronic Album",
+                    "work": "Ten Days",
+                    "spotify_uri": "spotify:album:3DQueEd1Ft9PHWgovDzPKh"
+                }
+            ]
+        },
+        {
+            "artist": "Fridayy",
+            "nominations": [
+                {
+                    "category": "Best Melodic Rap Performance",
+                    "work": "Proud Of Me",
+                    "spotify_uri": "spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ"
+                }
+            ]
+        },
+        {
+            "artist": "George Strait",
+            "nominations": [
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "Honky Tonk Hall Of Fame (with Chris Stapleton)",
+                    "spotify_uri": "spotify:track:5mFA1iOWP5GXdIEhN0ub40"
+                }
+            ]
+        },
+        {
+            "artist": "Ghost",
+            "nominations": [
+                {
+                    "category": "Best Metal Performance",
+                    "work": "Lachryma",
+                    "spotify_uri": "spotify:track:0hw2CGX8jaIpS4jGDn3dfa"
+                }
+            ]
+        },
+        {
+            "artist": "GIVEON",
+            "nominations": [
+                {
+                    "category": "Best R&B Album",
+                    "work": "BELOVED",
+                    "spotify_uri": "spotify:album:7pcBXbl1g198PNAxt44bHQ"
+                }
+            ]
+        },
+        {
+            "artist": "GloRilla",
+            "nominations": [
+                {
+                    "category": "Best Rap Song",
+                    "work": "TGIF",
+                    "spotify_uri": "spotify:track:2hKYtHbwYOSjvYQhVdUpdQ"
+                },
+                {
+                    "category": "Best Rap Album",
+                    "work": "GLORIOUS",
+                    "spotify_uri": "spotify:album:4dUAojdnh5Bcho1n8bPSO0"
+                }
+            ]
+        },
+        {
+            "artist": "HAIM",
+            "nominations": [
+                {
+                    "category": "Best Rock Album",
+                    "work": "I quit",
+                    "spotify_uri": "spotify:album:6bpglEwFypc0rfzYDyhf6i"
+                }
+            ]
+        },
+        {
+            "artist": "Hayley Williams",
+            "nominations": [
+                {
+                    "category": "Best Rock Performance",
+                    "work": "Mirtazapine",
+                    "spotify_uri": "spotify:track:2FFXU4b8sIsiLiTo6EWO19"
+                },
+                {
+                    "category": "Best Rock Song",
+                    "work": "Glum",
+                    "spotify_uri": "spotify:track:0kpB9iZJ9eMPQiMU9W6ouD"
+                },
+                {
+                    "category": "Best Alternative Music Performance",
+                    "work": "Parachute",
+                    "spotify_uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J"
+                },
+                {
+                    "category": "Best Alternative Music Album",
+                    "work": "Ego Death At A Bachelorette Party",
+                    "spotify_uri": "spotify:album:3MROTtttK946gHaTkXeP8b"
+                }
+            ]
+        },
+        {
+            "artist": "HUNTR/X",
+            "nominations": [
+                {
+                    "category": "Song Of The Year",
+                    "work": "Golden",
+                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+                },
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "Golden",
+                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+                },
+                {
+                    "category": "Best Song Written For Visual Media",
+                    "work": "Golden",
+                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+                }
+            ]
+        },
+        {
+            "artist": "J Balvin",
+            "nominations": [
+                {
+                    "category": "Best Música Urbana Album",
+                    "work": "Mixteip",
+                    "spotify_uri": "spotify:album:5ZhcTmzBym8cwsVkNNrHgS"
+                }
+            ]
+        },
+        {
+            "artist": "Jayme Lawson",
+            "nominations": [
+                {
+                    "category": "Best Song Written For Visual Media",
+                    "work": "Pale, Pale Moon",
+                    "spotify_uri": "spotify:track:3gpofCUBcNhtLy2mN0ioE5"
+                }
+            ]
+        },
+        {
+            "artist": "Jelly Roll",
+            "nominations": [
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "Amen (with Shaboozey)",
+                    "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV"
+                },
+                {
+                    "category": "Best Contemporary Country Album",
+                    "work": "Beautifully Broken",
+                    "spotify_uri": "spotify:album:2GW4VpFk9mbc6qYZ0zNuu3"
+                }
+            ]
+        },
+        {
+            "artist": "JID",
+            "nominations": [
+                {
+                    "category": "Best Melodic Rap Performance",
+                    "work": "Wholeheartedly",
+                    "spotify_uri": "spotify:track:314sW8ZsMHGiYkn2fAOW9e"
+                },
+                {
+                    "category": "Best Rap Album",
+                    "work": "God Does Like Ugly",
+                    "spotify_uri": "spotify:album:2tU04u3hxtziB4sOVJKak3"
+                }
+            ]
+        },
+        {
+            "artist": "Justin Bieber",
+            "nominations": [
+                {
+                    "category": "Album Of The Year",
+                    "work": "SWAG",
+                    "spotify_uri": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ"
+                },
+                {
+                    "category": "Best Pop Solo Performance",
+                    "work": "DAISIES",
+                    "spotify_uri": "spotify:track:7rcbwjIaZ5jEgyFk35Bqfj"
+                },
+                {
+                    "category": "Best Pop Vocal Album",
+                    "work": "SWAG",
+                    "spotify_uri": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ"
+                },
+                {
+                    "category": "Best R&B Performance",
+                    "work": "YUKON",
+                    "spotify_uri": "spotify:track:29iva9idM6rFCPUlu7Rhxl"
+                }
+            ]
+        },
+        {
+            "artist": "KAROL G",
+            "nominations": [
+                {
+                    "category": "Best Latin Pop Album",
+                    "work": "Tropicoqueta",
+                    "spotify_uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
+                }
+            ]
+        },
+        {
+            "artist": "KATSEYE",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:3c0gDdb9lhnHGFtP4prQpn"
+                },
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "Gabriela",
+                    "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL"
+                }
+            ]
+        },
+        {
+            "artist": "KAYTRANADA",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Recording",
+                    "work": "SPACE INVADER",
+                    "spotify_uri": "spotify:track:3fPW4EhpRR6BwLRPDThNeg"
+                },
+                {
+                    "category": "Best Remixed Recording",
+                    "work": "Don't Forget About Us (Remix)",
+                    "spotify_uri": "spotify:track:1NmC7qGL2jdqtFXzrrH3ui"
+                }
+            ]
+        },
+        {
+            "artist": "Kehlani",
+            "nominations": [
+                {
+                    "category": "Best R&B Performance",
+                    "work": "Folded",
+                    "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+                },
+                {
+                    "category": "Best R&B Song",
+                    "work": "Folded",
+                    "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+                }
+            ]
+        },
+        {
+            "artist": "Kelsea Ballerini",
+            "nominations": [
+                {
+                    "category": "Best Contemporary Country Album",
+                    "work": "Patterns",
+                    "spotify_uri": "spotify:album:0Py8hbFZ9QhI2gPEqzbla1"
+                }
+            ]
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "luther (with SZA)",
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                },
+                {
+                    "category": "Album Of The Year",
+                    "work": "GNX",
+                    "spotify_uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "luther (with SZA)",
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                },
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "30 For 30 (SZA with Kendrick Lamar)",
+                    "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO"
+                },
+                {
+                    "category": "Best Rap Performance",
+                    "work": "tv off",
+                    "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+                },
+                {
+                    "category": "Best Melodic Rap Performance",
+                    "work": "luther (with SZA)",
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                },
+                {
+                    "category": "Best Rap Song",
+                    "work": "tv off",
+                    "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+                },
+                {
+                    "category": "Best Rap Album",
+                    "work": "GNX",
+                    "spotify_uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW"
+                }
+            ]
+        },
+        {
+            "artist": "Lady Gaga",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "Abracadabra",
+                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+                },
+                {
+                    "category": "Album Of The Year",
+                    "work": "MAYHEM",
+                    "spotify_uri": "spotify:album:2MHUaRi9OCyTN02SoyRRBJ"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "Abracadabra",
+                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+                },
+                {
+                    "category": "Best Pop Solo Performance",
+                    "work": "Disease",
+                    "spotify_uri": "spotify:track:0T3Hw3kPj9T2E4UoaSXmfn"
+                },
+                {
+                    "category": "Best Pop Vocal Album",
+                    "work": "MAYHEM",
+                    "spotify_uri": "spotify:album:2MHUaRi9OCyTN02SoyRRBJ"
+                },
+                {
+                    "category": "Best Dance Pop Recording",
+                    "work": "Abracadabra",
+                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+                }
+            ]
+        },
+        {
+            "artist": "Lalah Hathaway",
+            "nominations": [
+                {
+                    "category": "Best Traditional R&B Performance",
+                    "work": "UPTOWN",
+                    "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb"
+                }
+            ]
+        },
+        {
+            "artist": "Lainey Wilson",
+            "nominations": [
+                {
+                    "category": "Best Country Solo Performance",
+                    "work": "Somewhere Over Laredo",
+                    "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+                },
+                {
+                    "category": "Best Country Song",
+                    "work": "Somewhere Over Laredo",
+                    "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+                }
+            ]
+        },
+        {
+            "artist": "Ledisi",
+            "nominations": [
+                {
+                    "category": "Best Traditional R&B Performance",
+                    "work": "LOVE YOU TOO",
+                    "spotify_uri": "spotify:track:6EjPDxrSXu2RcNctj6n0r1"
+                },
+                {
+                    "category": "Best R&B Album",
+                    "work": "The Crown",
+                    "spotify_uri": "spotify:album:64a2yWLGIWj9MlHIcaav9e"
+                }
+            ]
+        },
+        {
+            "artist": "Leon Thomas",
+            "nominations": [
+                {
+                    "category": "Album Of The Year",
+                    "work": "MUTT",
+                    "spotify_uri": "spotify:album:0SzoksypeognxYJJOJEYip"
+                },
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:0nnBZ8FXWjG9wZgM2cpfeb"
+                },
+                {
+                    "category": "Best R&B Performance",
+                    "work": "MUTT (Live)",
+                    "spotify_uri": "spotify:track:4UmYPgm2DDLH3UiSMxnwpJ"
+                },
+                {
+                    "category": "Best Traditional R&B Performance",
+                    "work": "VIBES DON'T LIE",
+                    "spotify_uri": "spotify:track:1WwrfoGe0K33z1tVI6mevJ"
+                },
+                {
+                    "category": "Best R&B Song",
+                    "work": "YES IT IS",
+                    "spotify_uri": "spotify:track:2iksjpqL3eraxCBKqNHuqd"
+                },
+                {
+                    "category": "Best R&B Album",
+                    "work": "MUTT",
+                    "spotify_uri": "spotify:album:0SzoksypeognxYJJOJEYip"
+                }
+            ]
+        },
+        {
+            "artist": "Linkin Park",
+            "nominations": [
+                {
+                    "category": "Best Rock Performance",
+                    "work": "The Emptiness Machine",
+                    "spotify_uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A"
+                },
+                {
+                    "category": "Best Rock Album",
+                    "work": "From Zero",
+                    "spotify_uri": "spotify:album:4R6FV9NSzhPihHR0h4pI93"
+                }
+            ]
+        },
+        {
+            "artist": "Lola Young",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:67FB4n52MgexGQIG8s0yUH"
+                },
+                {
+                    "category": "Best Pop Solo Performance",
+                    "work": "Messy",
+                    "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
+                }
+            ]
+        },
+        {
+            "artist": "Los Wizzards",
+            "nominations": [
+                {
+                    "category": "Best Latin Rock or Alternative Album",
+                    "work": "ALGORHYTHM",
+                    "spotify_uri": "spotify:album:1wxG8CSeaKdeFVVus4DYF7"
+                }
+            ]
+        },
+        {
+            "artist": "Lukas Nelson",
+            "nominations": [
+                {
+                    "category": "Best Traditional Country Album",
+                    "work": "American Romance",
+                    "spotify_uri": "spotify:album:2rBZC5I5tXgWH2a4mE3L2h"
+                }
+            ]
+        },
+        {
+            "artist": "Margo Price",
+            "nominations": [
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "Love Me Like You Used To Do (with Tyler Childers)",
+                    "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+                },
+                {
+                    "category": "Best Traditional Country Album",
+                    "work": "Hard Headed Woman",
+                    "spotify_uri": "spotify:album:1q03d1hYDfMWALV5t8Rbaw"
+                }
+            ]
+        },
+        {
+            "artist": "Miles Caton",
+            "nominations": [
+                {
+                    "category": "Best Song Written For Visual Media",
+                    "work": "I Lied to You",
+                    "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt"
+                }
+            ]
+        },
+        {
+            "artist": "Miley Cyrus",
+            "nominations": [
+                {
+                    "category": "Best Pop Vocal Album",
+                    "work": "Something Beautiful",
+                    "spotify_uri": "spotify:album:7h7smPzBYx8LOLI3ncM3vQ"
+                }
+            ]
+        },
+        {
+            "artist": "Miranda Lambert",
+            "nominations": [
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "A Song To Sing (with Chris Stapleton)",
+                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+                },
+                {
+                    "category": "Best Country Song",
+                    "work": "A Song To Sing",
+                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+                },
+                {
+                    "category": "Best Contemporary Country Album",
+                    "work": "Postcards From Texas",
+                    "spotify_uri": "spotify:album:2c12Spm8XcLAT2xYtQdgGK"
+                }
+            ]
+        },
+        {
+            "artist": "Natalia Lafourcade",
+            "nominations": [
+                {
+                    "category": "Best Latin Pop Album",
+                    "work": "Cancionera",
+                    "spotify_uri": "spotify:album:4gqGuqjdi0io8D0vgMPczu"
+                }
+            ]
+        },
+        {
+            "artist": "Nicki Nicole",
+            "nominations": [
+                {
+                    "category": "Best Música Urbana Album",
+                    "work": "ΝΑΙΚΙ",
+                    "spotify_uri": "spotify:album:4EeOwzI5OcHYrETtQqkmQk"
+                }
+            ]
+        },
+        {
+            "artist": "Nine Inch Nails",
+            "nominations": [
+                {
+                    "category": "Best Rock Song",
+                    "work": "As Alive As You Need Me To Be",
+                    "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z"
+                },
+                {
+                    "category": "Best Song Written For Visual Media",
+                    "work": "As Alive As You Need Me To Be",
+                    "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z"
+                }
+            ]
+        },
+        {
+            "artist": "Olivia Dean",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+                }
+            ]
+        },
+        {
+            "artist": "PARTYNEXTDOOR & Drake",
+            "nominations": [
+                {
+                    "category": "Best Melodic Rap Performance",
+                    "work": "SOMEBODY LOVES ME",
+                    "spotify_uri": "spotify:track:2kZoOj1n5vk9BuF0sih58M"
+                }
+            ]
+        },
+        {
+            "artist": "Pink Pantheress",
+            "nominations": [
+                {
+                    "category": "Best Dance Pop Recording",
+                    "work": "Illegal",
+                    "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+                },
+                {
+                    "category": "Best Dance/Electronic Album",
+                    "work": "Fancy That",
+                    "spotify_uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                }
+            ]
+        },
+        {
+            "artist": "Rauw Alejandro",
+            "nominations": [
+                {
+                    "category": "Best Latin Pop Album",
+                    "work": "Cosa Nuestra",
+                    "spotify_uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA"
+                }
+            ]
+        },
+        {
+            "artist": "Rod Wave",
+            "nominations": [
+                {
+                    "category": "Best Song Written For Visual Media",
+                    "work": "Sinners",
+                    "spotify_uri": "spotify:track:0OyWRjMMbPKwnBtWdLg4Ws"
+                }
+            ]
+        },
+        {
+            "artist": "ROSÉ",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "APT. (with Bruno Mars)",
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "APT. (with Bruno Mars)",
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                },
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "APT. (with Bruno Mars)",
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                }
+            ]
+        },
+        {
+            "artist": "RÜFÜS DU SOL",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Album",
+                    "work": "Inhale/Exhale",
+                    "spotify_uri": "spotify:album:3Fda4vhPP0Clk3EQNVipUP"
+                }
+            ]
+        },
+        {
+            "artist": "Sabrina Carpenter",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "Manchild",
+                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+                },
+                {
+                    "category": "Album Of The Year",
+                    "work": "Man's Best Friend",
+                    "spotify_uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "Manchild",
+                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+                },
+                {
+                    "category": "Best Pop Solo Performance",
+                    "work": "Manchild",
+                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+                },
+                {
+                    "category": "Best Pop Vocal Album",
+                    "work": "Man's Best Friend",
+                    "spotify_uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+                }
+            ]
+        },
+        {
+            "artist": "Selena Gomez & benny blanco",
+            "nominations": [
+                {
+                    "category": "Best Dance Pop Recording",
+                    "work": "Bluest Flame",
+                    "spotify_uri": "spotify:track:6vuVCtwukUA57ioTnKKeuL"
+                }
+            ]
+        },
+        {
+            "artist": "Shaboozey",
+            "nominations": [
+                {
+                    "category": "Best Country Solo Performance",
+                    "work": "Good News",
+                    "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+                },
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "Amen (with Jelly Roll)",
+                    "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV"
+                },
+                {
+                    "category": "Best Country Song",
+                    "work": "Good News",
+                    "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+                }
+            ]
+        },
+        {
+            "artist": "Shakti",
+            "nominations": [
+                {
+                    "category": "Best Global Music Performance",
+                    "work": "Shrini's Dream",
+                    "spotify_uri": "spotify:track:6llehsN0Mgms7vs6J88zTX"
+                }
+            ]
+        },
+        {
+            "artist": "Skrillex",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Recording",
+                    "work": "VOLTAGE",
+                    "spotify_uri": "spotify:track:227u7P0lZxYfBH9KjT1gsf"
+                },
+                {
+                    "category": "Best Dance/Electronic Album",
+                    "work": "$F**$ U SKRILLEX...",
+                    "spotify_uri": "spotify:album:784znju28Nz5zSuRuthPcO"
+                }
+            ]
+        },
+        {
+            "artist": "Sleep Token",
+            "nominations": [
+                {
+                    "category": "Best Metal Performance",
+                    "work": "Emergence",
+                    "spotify_uri": "spotify:track:5NRpxJxtR6JkUhQS4F0um6"
+                },
+                {
+                    "category": "Best Rock Song",
+                    "work": "Caramel",
+                    "spotify_uri": "spotify:track:3AdXwuFn7j21HNiFMXvZXt"
+                }
+            ]
+        },
+        {
+            "artist": "sombr",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:4G9NDjRyZFDlJKMRL8hx3S"
+                }
+            ]
+        },
+        {
+            "artist": "Spiritbox",
+            "nominations": [
+                {
+                    "category": "Best Metal Performance",
+                    "work": "Soft Spine",
+                    "spotify_uri": "spotify:track:3t5GlWUzGSt2lPuiSEPBFG"
+                }
+            ]
+        },
+        {
+            "artist": "Summer Walker",
+            "nominations": [
+                {
+                    "category": "Best R&B Performance",
+                    "work": "Heart Of A Woman",
+                    "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+                },
+                {
+                    "category": "Best R&B Song",
+                    "work": "Heart Of A Woman",
+                    "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+                }
+            ]
+        },
+        {
+            "artist": "SZA",
+            "nominations": [
+                {
+                    "category": "Record Of The Year",
+                    "work": "luther (with Kendrick Lamar)",
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                },
+                {
+                    "category": "Song Of The Year",
+                    "work": "luther (with Kendrick Lamar)",
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                },
+                {
+                    "category": "Best Pop Duo/Group Performance",
+                    "work": "30 For 30 (with Kendrick Lamar)",
+                    "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO"
+                },
+                {
+                    "category": "Best Traditional R&B Performance",
+                    "work": "Crybaby",
+                    "spotify_uri": "spotify:track:1g7pFO1WtclKCuIQiS8sNM"
+                },
+                {
+                    "category": "Best Melodic Rap Performance",
+                    "work": "luther (with Kendrick Lamar)",
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                }
+            ]
+        },
+        {
+            "artist": "Tame Impala",
+            "nominations": [
+                {
+                    "category": "Best Dance/Electronic Recording",
+                    "work": "End Of Summer",
+                    "spotify_uri": "spotify:track:1Iw5iLfAwDvS6frI82gMoV"
+                }
+            ]
+        },
+        {
+            "artist": "Tate McRae",
+            "nominations": [
+                {
+                    "category": "Best Dance Pop Recording",
+                    "work": "Just Keep Watching",
+                    "spotify_uri": "spotify:track:2yWlGEgEfPot0lv3OAjuG3"
+                }
+            ]
+        },
+        {
+            "artist": "Teddy Swims",
+            "nominations": [
+                {
+                    "category": "Best Pop Vocal Album",
+                    "work": "I've Tried Everything But Therapy (Part 2)",
+                    "spotify_uri": "spotify:album:6kvSdLjli85tMwW4jlCN0o"
+                }
+            ]
+        },
+        {
+            "artist": "Terrace Martin & Kenyon Dixon",
+            "nominations": [
+                {
+                    "category": "Best Progressive R&B Album",
+                    "work": "Come As You Are",
+                    "spotify_uri": "spotify:album:2WA4zGU2bZdmyQ8tOrNMVJ"
+                },
+                {
+                    "category": "Best Melodic Rap Performance",
+                    "work": "WeMaj",
+                    "spotify_uri": "spotify:track:01WDhc8gxD59xkrUDqCe5t"
+                }
+            ]
+        },
+        {
+            "artist": "Teyana Taylor",
+            "nominations": [
+                {
+                    "category": "Best R&B Album",
+                    "work": "Escape Room",
+                    "spotify_uri": "spotify:album:7Aya7D6bm5P2iRrlnNsFQf"
+                }
+            ]
+        },
+        {
+            "artist": "The Marias",
+            "nominations": [
+                {
+                    "category": "Best New Artist",
+                    "work": null,
+                    "spotify_uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+                }
+            ]
+        },
+        {
+            "artist": "Timothée Chalamet",
+            "nominations": [
+                {
+                    "category": "Best Compilation Soundtrack For Visual Media",
+                    "work": "A Complete Unknown",
+                    "spotify_uri": "spotify:track:47xQwrip8UriPhFPUjSRQ7"
+                }
+            ]
+        },
+        {
+            "artist": "Trueno",
+            "nominations": [
+                {
+                    "category": "Best Música Urbana Album",
+                    "work": "EUB DELUXE",
+                    "spotify_uri": "spotify:album:1XCqLkq4DKi1rfcVWG5PY0"
+                }
+            ]
+        },
+        {
+            "artist": "Turnstile",
+            "nominations": [
+                {
+                    "category": "Best Rock Performance",
+                    "work": "NEVER ENOUGH",
+                    "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+                },
+                {
+                    "category": "Best Metal Performance",
+                    "work": "BIRDS",
+                    "spotify_uri": "spotify:track:0k9JIBszlCqCa4SpXI353F"
+                },
+                {
+                    "category": "Best Rock Song",
+                    "work": "NEVER ENOUGH",
+                    "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+                },
+                {
+                    "category": "Best Rock Album",
+                    "work": "NEVER ENOUGH",
+                    "spotify_uri": "spotify:album:52yD51X7yDinwlg6tbCtpP"
+                },
+                {
+                    "category": "Best Alternative Music Performance",
+                    "work": "SEEIN' STARS",
+                    "spotify_uri": "spotify:track:0vbdCsYHg1by09QKOGO4PR"
+                }
+            ]
+        },
+        {
+            "artist": "Tyla",
+            "nominations": [
+                {
+                    "category": "Best African Music Performance",
+                    "work": "PUSH 2 START",
+                    "spotify_uri": "spotify:track:1Cbl3Yq8rHo7hhDQmLQagU"
+                }
+            ]
+        },
+        {
+            "artist": "Tyler Childers",
+            "nominations": [
+                {
+                    "category": "Best Country Solo Performance",
+                    "work": "Nose On The Grindstone",
+                    "spotify_uri": "spotify:track:41qeQaiSa09dPsGzgechek"
+                },
+                {
+                    "category": "Best Country Duo/Group Performance",
+                    "work": "Love Me Like You Used To Do (with Margo Price)",
+                    "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+                },
+                {
+                    "category": "Best Country Song",
+                    "work": "Bitin' List",
+                    "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq"
+                },
+                {
+                    "category": "Best Contemporary Country Album",
+                    "work": "Snipe Hunter",
+                    "spotify_uri": "spotify:album:00rssxYxFqqdbuO1lz1Gxa"
+                }
+            ]
+        },
+        {
+            "artist": "Tyler, The Creator",
+            "nominations": [
+                {
+                    "category": "Album Of The Year",
+                    "work": "CHROMAKOPIA",
+                    "spotify_uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH"
+                },
+                {
+                    "category": "Best Alternative Music Album",
+                    "work": "DON'T TAP THE GLASS",
+                    "spotify_uri": "spotify:album:1jzv3jwZbt8lYfEtMjiD1R"
+                },
+                {
+                    "category": "Best Rap Performance",
+                    "work": "Darling, I",
+                    "spotify_uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk"
+                },
+                {
+                    "category": "Best Rap Song",
+                    "work": "Sticky",
+                    "spotify_uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R"
+                },
+                {
+                    "category": "Best Rap Album",
+                    "work": "CHROMAKOPIA",
+                    "spotify_uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH"
+                }
+            ]
+        },
+        {
+            "artist": "Willie Nelson",
+            "nominations": [
+                {
+                    "category": "Best Traditional Country Album",
+                    "work": "Oh What A Beautiful World",
+                    "spotify_uri": "spotify:album:7C2rtzfeP135vyNyzsmhfV"
+                }
+            ]
+        },
+        {
+            "artist": "Yandel",
+            "nominations": [
+                {
+                    "category": "Best Música Urbana Album",
+                    "work": "SINFÓNICO (En Vivo)",
+                    "spotify_uri": "spotify:album:6qBMMQeQLfUxEs47lK085F"
+                }
+            ]
+        },
+        {
+            "artist": "Yeisy Rojas",
+            "nominations": [
+                {
+                    "category": "Best Global Music Performance",
+                    "work": "Inmigrante Y Que?",
+                    "spotify_uri": "spotify:track:6nURLhNteM0qkL8opkefEk"
+                }
+            ]
+        },
+        {
+            "artist": "YUNGBLUD",
+            "nominations": [
+                {
+                    "category": "Best Rock Performance",
+                    "work": "Changes",
+                    "spotify_uri": "spotify:track:5yriBaBAgiRDoTVVWazMuv"
+                },
+                {
+                    "category": "Best Rock Song",
+                    "work": "Zombie",
+                    "spotify_uri": "spotify:track:7DQotDUGnJkXgNJv363GXF"
+                },
+                {
+                    "category": "Best Rock Album",
+                    "work": "Idols",
+                    "spotify_uri": "spotify:album:19PD2IPfceDn9fLAa05TFE"
+                }
+            ]
+        },
+        {
+            "artist": "Zach Top",
+            "nominations": [
+                {
+                    "category": "Best Country Solo Performance",
+                    "work": "I Never Lie",
+                    "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+                },
+                {
+                    "category": "Best Country Song",
+                    "work": "I Never Lie",
+                    "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+                },
+                {
+                    "category": "Best Traditional Country Album",
+                    "work": "Ain't In It For My Health",
+                    "spotify_uri": "spotify:album:5q893GwwooRNMeDHmPXYi7"
+                }
+            ]
+        },
+        {
+            "artist": "Zara Larsson",
+            "nominations": [
+                {
+                    "category": "Best Dance Pop Recording",
+                    "work": "Midnight Sun",
+                    "spotify_uri": "spotify:track:37UCSVSqiPGdR1DijOFyYY"
+                }
+            ]
+        }
+    ]
+}

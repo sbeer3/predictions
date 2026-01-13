@@ -3,11 +3,13 @@ import NameInputSection from './components/NameInputSection';
 import PredictionForm from './components/PredictionForm';
 import LeaderboardSection from './components/LeaderboardSection';
 import AdminPanel from './components/AdminPanel';
+import GrammysSection from './components/GrammysSection';
 import Cookies from 'js-cookie'; // Import js-cookie
 import { io } from 'socket.io-client';
 
 function App() {
     const [categories, setCategories] = useState(null);
+    const [currentYear, setCurrentYear] = useState(new Date().getFullYear());
     const [currentUserName, setCurrentUserName] = useState(null);
     const [showPredictionForm, setShowPredictionForm] = useState(false);
     const [showLeaderboard, setShowLeaderboard] = useState(false);
@@ -22,16 +24,17 @@ function App() {
         isLocked: false
     });
     const [countdown, setCountdown] = useState(""); // State for countdown timer
+    const [selectedEvent, setSelectedEvent] = useState(null); // Track which event user selected (grammys or oscars)
 
     // useCallback for fetchCategories to prevent unnecessary re-renders
     const fetchCategories = useCallback(async () => {
         try {
-            fetch(`/api/categories`) 
-            .then(response => response.json())
-            .then(data => {
-                setCategories(data);
-            })
-            .catch(error => console.error('Error fetching categories:', error));
+            fetch(`/api/categories`)
+                .then(response => response.json())
+                .then(data => {
+                    setCategories(data);
+                })
+                .catch(error => console.error('Error fetching categories:', error));
         } catch (error) {
             console.error('Error fetching categories:', error);
             setCategories({});
@@ -83,16 +86,16 @@ function App() {
             console.error('Error fetching winners list:', error);
         }
     }, []);
-    
+
     // Define checkIfUserHasPredictions before it's used in useEffect
     const checkIfUserHasPredictions = useCallback(async (userName) => {
         try {
             // First get list of usernames to check if user exists
             const response = await fetch(`/api/predictions/usernames`);
             const existingUsernames = await response.json();
-            
+
             const nameExistsInPredictions = existingUsernames.includes(userName);
-            
+
             if (nameExistsInPredictions) {
                 // If name exists, fetch their predictions for potential editing
                 const userResponse = await fetch(`/api/predictions/user/${userName}`);
@@ -101,7 +104,7 @@ function App() {
                     setPreviousPredictions(userData.predictions);
                     setIsEditingPredictions(true); // Set flag that user is editing existing predictions
                 }
-                
+
                 // Show leaderboard by default, but greeting can be shown if editing is allowed
                 if (gameSettings.allowEditing) {
                     setShowLeaderboard(false);
@@ -127,23 +130,29 @@ function App() {
             setShowPredictionForm(false);
         }
     }, [gameSettings.allowEditing]);
-    
+
     useEffect(() => {
         fetchLeaderboard();
         fetchWinners();
         fetchGameSettings();
 
         const savedUserName = Cookies.get('userName');
+        const savedEvent = Cookies.get('selectedEvent');
+
         if (savedUserName) {
             setCurrentUserName(savedUserName);
+            // Restore the event selection if it exists
+            if (savedEvent) {
+                setSelectedEvent(savedEvent);
+            }
             // Now, after setting username from cookie, check if they have predictions
             checkIfUserHasPredictions(savedUserName);
         }
-        
+
         // Initialize socket connection
         const socketUrl = window.location.hostname === 'localhost' ? 'http://localhost:5001' : '';
         const newSocket = io(socketUrl);
-        
+
         // Setup event listeners
         newSocket.on('winnersUpdated', (data) => {
             console.log('Received winners update via socket.io', data);
@@ -157,7 +166,7 @@ function App() {
                 fetchLeaderboard();
             }
         });
-        
+
         // Clean up socket connection when component unmounts
         return () => {
             newSocket.disconnect();
@@ -168,7 +177,7 @@ function App() {
         setShowPredictionForm(true);
         setShowGreetingSection(false); // Hide greeting when starting predictions
         setShowLeaderboard(false);     // Hide leaderboard too
-        
+
         // If user already has predictions, fetch them to pre-populate the form
         try {
             const response = await fetch(`/api/predictions/user/${currentUserName}`);
@@ -189,11 +198,14 @@ function App() {
         setShowAdminSection(false);     // Hide admin panel
     };
 
-    const handleNameSubmit = (userName) => {
+    const handleNameSubmit = (userName, event) => {
         setCurrentUserName(userName);
+        setSelectedEvent(event); // Store which event they selected
         Cookies.set('userName', userName, { expires: 7 });
+        Cookies.set('selectedEvent', event, { expires: 7 }); // Save event selection to cookie
         checkIfUserHasPredictions(userName); // Check predictions immediately after name submit
     };
+
     const handleLogout = () => {
         Cookies.remove('userName');
         setCurrentUserName(null);
@@ -209,7 +221,7 @@ function App() {
                 alert('Predictions are locked. No new submissions are allowed at this time.');
                 return;
             }
-            
+
             const response = await fetch(`/api/predictions`, {
                 method: 'POST',
                 headers: {
@@ -217,15 +229,15 @@ function App() {
                 },
                 body: JSON.stringify({ userName: currentUserName, predictions }),
             });
-            
+
             const data = await response.json();
-            
+
             // If forbidden due to editing being disabled
             if (response.status === 403) {
                 alert(data.message);
                 return;
             }
-            
+
             alert(data.message);
             setShowPredictionForm(false);
             setShowLeaderboard(true);
@@ -254,23 +266,23 @@ function App() {
             setShowAdminSection(false);
         }
     }, [currentUserName]);
-    
-    const toggleAdminPanel = useCallback((event) => {
-        if (event.key === 'a') {
-            setShowAdminSection(prevShowAdminPanel => !prevShowAdminPanel);
-            setShowLeaderboard(false); // Hide leaderboard when showing admin
-            setShowPredictionForm(false); // Hide prediction form too for clarity
-        }
-    }, []); // No dependencies - toggleAdminPanel doesn't depend on any state in the component
+
+    // const toggleAdminPanel = useCallback((event) => {
+    //     if (event.key === 'a') {
+    //         setShowAdminSection(prevShowAdminPanel => !prevShowAdminPanel);
+    //         setShowLeaderboard(false); // Hide leaderboard when showing admin
+    //         setShowPredictionForm(false); // Hide prediction form too for clarity
+    //     }
+    // }, []); // No dependencies - toggleAdminPanel doesn't depend on any state in the component
 
 
-    useEffect(() => {
-        document.addEventListener('keypress', toggleAdminPanel); // Attach event listener on mount
+    // useEffect(() => {
+    //     document.addEventListener('keypress', toggleAdminPanel); // Attach event listener on mount
 
-        return () => {
-            document.removeEventListener('keypress', toggleAdminPanel); // Detach on unmount (cleanup)
-        };
-    }, [toggleAdminPanel]); // Dependency array includes toggleAdminPanel (for useCallback)
+    //     return () => {
+    //         document.removeEventListener('keypress', toggleAdminPanel); // Detach on unmount (cleanup)
+    //     };
+    // }, [toggleAdminPanel]); // Dependency array includes toggleAdminPanel (for useCallback)
 
     // Countdown logic
     useEffect(() => {
@@ -284,7 +296,7 @@ function App() {
             if (timeRemaining <= 0) {
                 clearInterval(interval);
                 setCountdown("The Academy Awards have started!");
-                
+
                 // Automatically lock predictions when timer expires
                 fetch('/api/admin/settings/toggle-lock', {
                     method: 'POST',
@@ -293,13 +305,13 @@ function App() {
                     },
                     body: JSON.stringify({ isLocked: true }),
                 })
-                .then(response => response.json())
-                .then(data => {
-                    console.log('Game locked:', data);
-                    // Update local settings
-                    setGameSettings(prevSettings => ({...prevSettings, isLocked: true}));
-                })
-                .catch(error => console.error('Error locking game:', error));
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('Game locked:', data);
+                        // Update local settings
+                        setGameSettings(prevSettings => ({ ...prevSettings, isLocked: true }));
+                    })
+                    .catch(error => console.error('Error locking game:', error));
             } else {
                 const days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
                 const hours = Math.floor((timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
@@ -314,9 +326,9 @@ function App() {
     }, []);
 
     return (
-        <div className="container">
+        <div className={`container home-theme`}>
             <div className="countdown-timer">
-                <h2>Countdown to the Academy Awards (MST): {countdown}</h2>
+                <h2>Welcome to the {currentYear} annual predictions game!</h2>
             </div>
             {!currentUserName ? (
                 <>
@@ -325,79 +337,26 @@ function App() {
             ) : showLeaderboard ? (
                 <>
                     <div className="header">
-                        <h1>Oscar Predictions</h1>
+                        <h1>{selectedEvent === 'grammys' ? `${currentYear} Grammys` : `${currentYear} Oscars`}</h1>
                         <div className="nav-buttons">
                             <button onClick={handleLogout} className="logout-button">Change User</button>
                         </div>
                     </div>
                     <LeaderboardSection leaderboardData={leaderboardData} onLogout={handleLogout} />
                 </>
-            ) : showGreetingSection ? (
+            ) : showGreetingSection || (showPredictionForm && categories) ? (
                 <>
-                    <div className="header">
-                        <h1>Oscar Predictions</h1>
-                    </div>
-                    <div id="user-greeting-section">
-                        <div className="greeting-content">
-                            <div className="oscar-icon-small"></div>
-                            <h2>Welcome, {currentUserName}!</h2>
-                            
-                            {isEditingPredictions ? (
-                                <p className="greeting-text editing-mode">
-                                    You already have predictions submitted. You can edit them if you'd like.
-                                </p>
-                            ) : (
-                                <p className="greeting-text">
-                                    You're all set to make your predictions for the 97th Academy Awards.
-                                </p>
-                            )}
-                            
-                            <div className="action-buttons">
-                                <button 
-                                    onClick={handleStartPrediction} 
-                                    className={`start-button ${isEditingPredictions ? 'edit-mode' : ''}`}
-                                    disabled={isEditingPredictions && !gameSettings.allowEditing}
-                                >
-                                    <span className="button-icon">{isEditingPredictions ? '✏️' : '🎬'}</span>
-                                    {isEditingPredictions 
-                                        ? (gameSettings.allowEditing ? 'Edit My Predictions' : 'Predictions Locked') 
-                                        : 'Make My Predictions'
-                                    }
-                                </button>
-                                <button onClick={handleViewLeaderboardFromGreeting} className="leaderboard-button">
-                                    <span className="button-icon">🏆</span>
-                                    View Leaderboard
-                                </button>
-                            </div>
-                            
-                            {!gameSettings.allowEditing && isEditingPredictions && (
-                                <div className="editing-disabled-message">
-                                    Editing predictions is currently disabled by the admin.
-                                </div>
-                            )}
-                            
-                            <button onClick={handleLogout} className="logout-button-small">
-                                Change User
-                            </button>
-                        </div>
-                    </div>
-                </>
-            ) : showPredictionForm && categories ? (
-                <>
-                    <div className="header">
-                        <h1>Oscar Predictions</h1>
-                        <div className="user-info">
-                            <span>
-                                {isEditingPredictions ? 'Editing' : 'Making'} predictions as: <strong>{currentUserName}</strong>
-                            </span>
-                            <button onClick={handleLogout} className="logout-button">Change User</button>
-                        </div>
-                    </div>
-                    <PredictionForm 
-                        categories={categories} 
+                    <GrammysSection
+                        currentUserName={currentUserName}
+                        currentYear={currentYear}
+                        selectedEvent={selectedEvent}
+                        isEditingPredictions={isEditingPredictions}
+                        gameSettings={gameSettings}
+                        categories={categories}
+                        previousPredictions={previousPredictions}
                         onSubmitPredictions={handlePredictionSubmit}
-                        initialPredictions={previousPredictions}
-                        isEditing={isEditingPredictions}
+                        handleViewLeaderboardFromGreeting={handleViewLeaderboardFromGreeting}
+                        handleLogout={handleLogout}
                     />
                 </>
             ) : null}
@@ -410,12 +369,12 @@ function App() {
                     gameSettings={gameSettings}
                     onSetWinners={handleSetWinnersAdmin}
                     onUpdateSettings={(updatedSettings) => {
-                        setGameSettings(prevSettings => ({...prevSettings, ...updatedSettings}));
+                        setGameSettings(prevSettings => ({ ...prevSettings, ...updatedSettings }));
                         fetchGameSettings(); // Refresh settings from server
                     }}
                 />
             )}
-        </div>
+        </ div>
     );
 }
 

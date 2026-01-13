@@ -1,0 +1,505 @@
+/* Spotify Player - Floating Bottom Right */
+.spotify-player-wrapper {
+    position: fixed;
+    bottom: 40px;
+    right: 60px;
+    z-index: 9999;
+    width: 380px;
+    max-width: calc(100vw - 120px);
+    animation: slideInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: auto;
+}
+
+@keyframes slideInUp {
+    from {
+        transform: translateY(30px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.spotify-connect {
+    background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%);
+    color: white;
+    border: none;
+    padding: clamp(12px, 2vw, 15px) clamp(20px, 4vw, 30px);
+    border-radius: clamp(12px, 2vw, 16px);
+    font-size: clamp(14px, 2vw, 16px);
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 8px 20px rgba(29, 185, 84, 0.4);
+    transition: all 0.3s ease;
+    gap: 10px;
+    width: 100%;
+}
+
+.spotify-connect:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 30px rgba(29, 185, 84, 0.6);
+}
+
+.spotify-connect:active {
+    transform: translateY(0);
+}
+
+/* Inactive Player State */
+.spotify-player.inactive {
+    background: rgba(40, 40, 40, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: clamp(12px, 2vw, 16px);
+    padding: clamp(16px, 3vw, 20px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.spotify-player.inactive p {
+    color: #b3b3b3;
+    margin: 0;
+    font-size: clamp(12px, 2vw, 14px);
+    text-align: center;
+}
+
+/* Active Player State */
+.spotify-player {
+    background: rgba(18, 18, 18, 0.98);
+    backdrop-filter: blur(20px);
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+}
+
+.spotify-now-playing {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    min-width: 0;
+}
+
+.spotify-cover {
+    width: 56px;
+    height: 56px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.spotify-track-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.spotify-track-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.spotify-artist-name {
+    font-size: 12px;
+    color: #b3b3b3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.spotify-controls {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+.spotify-btn {
+    background: transparent;
+    border: none;
+    color: #fff;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+    transition: transform 0.2s;
+}
+
+.spotify-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.1);
+}
+
+.spotify-btn:active {
+    transform: scale(0.95);
+}
+
+/* Tablet and smaller */
+@media (max-width: 768px) {
+    .spotify-player-wrapper {
+        width: min(400px, calc(100vw - 32px));
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        bottom: 24px;
+    }
+}
+
+/* Mobile portrait */
+@media (max-width: 480px) {
+    .spotify-player {
+        padding: 12px;
+    }
+
+    .spotify-now-playing {
+        gap: 10px;
+    }
+
+    .spotify-cover {
+        width: 60px;
+        height: 60px;
+    }
+
+    .spotify-controls {
+        gap: 6px;
+    }
+
+    .spotify-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 16px;
+    }
+}
+
+/* Large screens */
+@media (min-width: 1920px) {
+    .spotify-player-wrapper {
+        width: 400px;
+        bottom: 40px;
+    }
+
+    .spotify-cover {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+/* Daily Spotlight Cards - Compact Design */
+.daily-spotlight {
+    margin: 30px 0;
+    width: 100%;
+}
+
+.spotlight-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.spotlight-header h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #1DB954;
+    margin-bottom: 5px;
+}
+
+.spotlight-subtitle {
+    font-size: 13px;
+    color: #888;
+    font-weight: 400;
+}
+
+.spotlight-stepper-container {
+    position: relative;
+    max-width: 360px;
+    /* Tighter width for the card itself */
+    margin: 20px auto;
+    padding: 0;
+    /* Remove internal padding */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: visible;
+    /* Allow buttons to sit outside */
+}
+
+.spotlight-active-card {
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    display: flex;
+}
+
+.stepper-nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    z-index: 10;
+    font-size: 16px;
+    padding: 0;
+    line-height: 1;
+}
+
+.stepper-nav-btn:hover {
+    background: rgba(29, 185, 84, 0.2);
+    border-color: #1DB954;
+    color: #1DB954;
+    transform: translateY(-50%) scale(1.1);
+    /* Keep vertical center while scaling */
+}
+
+.stepper-nav-btn.prev {
+    left: -50px;
+    right: auto;
+}
+
+.stepper-nav-btn.next {
+    right: -50px;
+    left: auto;
+}
+
+.stepper-dots {
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.stepper-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.stepper-dot.active {
+    background: #1DB954;
+    transform: scale(1.3);
+}
+
+.spotlight-card {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.spotlight-card-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.spotlight-artist-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.artist-icon {
+    font-size: 20px;
+}
+
+.spotlight-artist {
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.spotlight-track {
+    font-size: 11px;
+    color: #1DB954;
+    font-weight: 500;
+}
+
+.spotlight-play-btn {
+    margin-top: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 6px 16px;
+    color: #e0e0e0;
+    font-weight: 500;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    justify-content: center;
+}
+
+.spotlight-play-btn:hover {
+    background: rgba(29, 185, 84, 0.2);
+    border-color: #1DB954;
+    color: #1DB954;
+}
+
+.spotlight-nominations {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.nomination-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 10px 12px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s ease;
+    color: inherit;
+}
+
+.nomination-row:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(29, 185, 84, 0.5);
+    transform: translateX(2px);
+}
+
+.play-btn-small {
+    font-size: 10px;
+    color: #1DB954;
+    background: rgba(29, 185, 84, 0.1);
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.nomination-row:hover .play-btn-small {
+    background: #1DB954;
+    color: white;
+}
+
+.nom-details {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    overflow: hidden;
+    flex: 1;
+}
+
+.nom-category {
+    font-size: 10px;
+    font-weight: 700;
+    color: #e0e0e0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.nom-work {
+    font-size: 12px;
+    color: #aaa;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* Refresh Button */
+.spotlight-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.refresh-btn {
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.refresh-btn:hover {
+    color: #1DB954;
+    background: rgba(255, 255, 255, 0.1);
+    transform: rotate(180deg);
+}
+
+/* Responsive for spotlight */
+@media (max-width: 768px) {
+    /* .spotlight-grid {
+        grid-template-columns: 1fr;
+        max-width: 260px;
+        gap: 16px;
+    }
+
+    .spotlight-card {
+        padding: 20px;
+    } */
+}
+
+/* Responsive for spotlight */
+@media (max-width: 480px) {
+    .spotlight-stepper-container {
+        max-width: 280px;
+        /* Force card smaller to leave room for outside arrows */
+        padding: 0;
+    }
+
+    .stepper-nav-btn {
+        width: 32px;
+        height: 32px;
+        font-size: 14px;
+    }
+
+    .stepper-nav-btn.prev {
+        left: -40px;
+    }
+
+    .stepper-nav-btn.next {
+        right: -40px;
+    }
+}
