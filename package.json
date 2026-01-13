@@ -6,6 +6,7 @@
     "concurrently": "^9.1.2"
   },
   "scripts": {
-    "start": "cd backend && npm start"
+    "start": "cd backend && node server.js",
+    "build": "cd backend && npm install && cd ../oscar-frontend && npm install && npm run build"
   }
 }
