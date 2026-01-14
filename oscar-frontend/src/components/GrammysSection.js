@@ -16,7 +16,18 @@ function GrammysSection({
     handleLogout
 }) {
     const [spotifyToken, setSpotifyToken] = useState(() => {
-        return localStorage.getItem('spotify_token') || null;
+        const token = localStorage.getItem('spotify_token');
+        const refreshToken = localStorage.getItem('spotify_refresh_token');
+
+        // Migration check: If we have an access token but NO refresh token,
+        // clear the legacy token to force re-authentication.
+        if (token && !refreshToken) {
+            console.log("Legacy session detected (no refresh token). Clearing to force re-auth.");
+            localStorage.removeItem('spotify_token');
+            return null;
+        }
+
+        return token || null;
     });
 
     const [spotifyRefreshToken, setSpotifyRefreshToken] = useState(() => {
