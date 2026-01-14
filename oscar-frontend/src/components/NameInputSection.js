@@ -59,7 +59,8 @@ function NameInputSection({ onNameSubmit }) {
                             type="submit"
                             className="submit-name-button oscars-button"
                             value="oscars"
-                            disabled={isFormGrammysSubmitted || isFormOscarsSubmitted}
+                            // disabled={isFormGrammysSubmitted || isFormOscarsSubmitted}
+                            disabled={true}
                         >
                             <span className="button-icon">🏆</span>
                             {isFormOscarsSubmitted ? "Welcome..." : "Oscars Predictions"}
