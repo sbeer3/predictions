@@ -483,6 +483,11 @@
 
 /* Mobile portrait */
 @media (max-width: 480px) {
+    body {
+        padding-bottom: 90px;
+        /* Make space for fixed Spotify player */
+    }
+
     .spotlight-stepper-container {
         max-width: 280px;
         padding: 0;
