@@ -16,8 +16,11 @@ function GrammysSection({
     handleLogout
 }) {
     const [spotifyToken, setSpotifyToken] = useState(() => {
-        // Try to load token from localStorage on mount
         return localStorage.getItem('spotify_token') || null;
+    });
+
+    const [spotifyRefreshToken, setSpotifyRefreshToken] = useState(() => {
+        return localStorage.getItem('spotify_refresh_token') || null;
     });
 
     // Internal view state: 'greeting' or 'form'
@@ -74,11 +77,18 @@ function GrammysSection({
         if (hash.includes('access_token')) {
             const params = new URLSearchParams(hash);
             const token = params.get('access_token');
+            const refreshToken = params.get('refresh_token');
 
             if (token) {
-                console.log('Token received from redirect:', token);
+                console.log('Tokens received from redirect');
                 setSpotifyToken(token);
                 localStorage.setItem('spotify_token', token);
+
+                if (refreshToken) {
+                    setSpotifyRefreshToken(refreshToken);
+                    localStorage.setItem('spotify_refresh_token', refreshToken);
+                }
+
                 window.history.replaceState({}, document.title, window.location.pathname);
             }
         }
@@ -93,10 +103,38 @@ function GrammysSection({
         setViewMode('greeting');
     };
 
-    const handleTokenExpired = () => {
-        console.log("Token expired or invalid. Clearing...");
+    const handleTokenExpired = async () => {
+        if (!spotifyRefreshToken) {
+            console.log("No refresh token available. Clearing...");
+            clearSpotifyData();
+            return;
+        }
+
+        console.log("Token expired. Attempting refresh...");
+        try {
+            const response = await fetch(`/api/spotify/refresh_token?refresh_token=${spotifyRefreshToken}`);
+            if (response.ok) {
+                const data = await response.json();
+                console.log("Token refreshed successfully");
+                setSpotifyToken(data.access_token);
+                localStorage.setItem('spotify_token', data.access_token);
+                // Note: Refresh token usually doesn't change, but if it does, the backend should return it and we should update it.
+                // Standard Spotify flow often keeps the same refresh token.
+            } else {
+                console.error("Failed to refresh token");
+                clearSpotifyData();
+            }
+        } catch (error) {
+            console.error("Error refreshing token:", error);
+            clearSpotifyData();
+        }
+    };
+
+    const clearSpotifyData = () => {
         setSpotifyToken(null);
+        setSpotifyRefreshToken(null);
         localStorage.removeItem('spotify_token');
+        localStorage.removeItem('spotify_refresh_token');
     };
 
     return (

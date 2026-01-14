@@ -34,13 +34,54 @@ router.get('/callback', async (req, res) => {
             }
         );
 
-        const { access_token } = response.data;
+        const { access_token, refresh_token, expires_in } = response.data;
 
-        // Redirect back to frontend with token
-        res.redirect(`${FRONTEND_URL}/#access_token=${access_token}`);
+        // Redirect back to frontend with all tokens
+        const params = new URLSearchParams({
+            access_token,
+            refresh_token,
+            expires_in
+        });
+
+        res.redirect(`${FRONTEND_URL}/#${params.toString()}`);
     } catch (error) {
         console.error('Spotify token exchange error:', error.response?.data || error.message);
         res.redirect(`${FRONTEND_URL}/#error=token_exchange_failed`);
+    }
+});
+
+// Refresh access token
+router.get('/refresh_token', async (req, res) => {
+    const refresh_token = req.query.refresh_token;
+
+    if (!refresh_token) {
+        return res.status(400).json({ error: 'Refresh token is required' });
+    }
+
+    try {
+        const response = await axios.post('https://accounts.spotify.com/api/token',
+            new URLSearchParams({
+                grant_type: 'refresh_token',
+                refresh_token: refresh_token,
+                client_id: CLIENT_ID,
+                client_secret: CLIENT_SECRET
+            }),
+            {
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            }
+        );
+
+        const { access_token, expires_in } = response.data;
+
+        res.json({
+            access_token,
+            expires_in
+        });
+    } catch (error) {
+        console.error('Spotify token refresh error:', error.response?.data || error.message);
+        res.status(500).json({ error: 'Failed to refresh token' });
     }
 });
 
