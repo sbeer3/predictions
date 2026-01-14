@@ -481,11 +481,10 @@
     } */
 }
 
-/* Responsive for spotlight */
+/* Mobile portrait */
 @media (max-width: 480px) {
     .spotlight-stepper-container {
         max-width: 280px;
-        /* Force card smaller to leave room for outside arrows */
         padding: 0;
     }
 
@@ -501,5 +500,43 @@
 
     .stepper-nav-btn.next {
         right: -40px;
+    }
+
+    .spotify-player-wrapper {
+        width: 100%;
+        max-width: 100%;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .spotify-player {
+        padding: 12px;
+        border-radius: 0;
+        border: none;
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        background: rgba(18, 18, 18, 0.98);
+        /* Ensure solid background */
+    }
+
+    .spotify-now-playing {
+        gap: 10px;
+    }
+
+    .spotify-cover {
+        width: 48px;
+        height: 48px;
+    }
+
+    .spotify-controls {
+        gap: 6px;
+    }
+
+    .spotify-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 16px;
     }
 }
