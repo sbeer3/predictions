@@ -8,12 +8,14 @@ const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const REDIRECT_URI = process.env.SPOTIFY_REDIRECT_URI;
 
+const FRONTEND_URL = process.env.FRONTEND_URL || 'http://127.0.0.1:3000';
+
 // Exchange authorization code for access token
 router.get('/callback', async (req, res) => {
     const code = req.query.code;
 
     if (!code) {
-        return res.redirect('https://127.0.0.1:3000/#error=no_code');
+        return res.redirect(`${FRONTEND_URL}/#error=no_code`);
     }
 
     try {
@@ -35,10 +37,10 @@ router.get('/callback', async (req, res) => {
         const { access_token } = response.data;
 
         // Redirect back to frontend with token
-        res.redirect(`http://127.0.0.1:3000/#access_token=${access_token}`);
+        res.redirect(`${FRONTEND_URL}/#access_token=${access_token}`);
     } catch (error) {
         console.error('Spotify token exchange error:', error.response?.data || error.message);
-        res.redirect('http://127.0.0.1:3000/#error=token_exchange_failed');
+        res.redirect(`${FRONTEND_URL}/#error=token_exchange_failed`);
     }
 });
 

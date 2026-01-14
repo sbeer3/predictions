@@ -35,7 +35,7 @@ function GrammysSection({
         const loadSpotlight = async () => {
             try {
                 // Fetch the centralized daily spotlight from the server
-                const response = await fetch('http://127.0.0.1:5001/api/spotlight');
+                const response = await fetch('/api/spotlight');
                 const data = await response.json();
 
                 if (Array.isArray(data)) {
