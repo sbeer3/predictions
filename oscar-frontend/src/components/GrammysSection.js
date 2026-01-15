@@ -34,6 +34,10 @@ function GrammysSection({
         return localStorage.getItem('spotify_refresh_token') || null;
     });
 
+    const [tokenExpiration, setTokenExpiration] = useState(() => {
+        return localStorage.getItem('spotify_token_expires_at') || null;
+    });
+
     // Internal view state: 'greeting' or 'form'
     const [viewMode, setViewMode] = useState('greeting');
 
@@ -83,12 +87,83 @@ function GrammysSection({
         window.location.href = authUrl;
     };
 
+    const refreshSpotifyToken = async () => {
+        if (!spotifyRefreshToken) {
+            console.log("No refresh token available to refresh.");
+            return;
+        }
+
+        console.log("Refreshing Spotify token...");
+        try {
+            const response = await fetch(`/api/spotify/refresh_token?refresh_token=${spotifyRefreshToken}`);
+            if (response.ok) {
+                const data = await response.json();
+                console.log("Token refreshed successfully");
+
+                setSpotifyToken(data.access_token);
+                localStorage.setItem('spotify_token', data.access_token);
+
+                if (data.expires_in) {
+                    const expiresAt = Date.now() + (data.expires_in * 1000);
+                    setTokenExpiration(expiresAt);
+                    localStorage.setItem('spotify_token_expires_at', expiresAt);
+                }
+            } else {
+                console.error("Failed to refresh token:", await response.text());
+                // If refresh fails with 400/401, clear data so user re-auths
+                if (response.status === 400 || response.status === 401) {
+                    clearSpotifyData();
+                }
+            }
+        } catch (error) {
+            console.error("Error refreshing token:", error);
+        }
+    };
+
+    // Check for expiration on mount
+    useEffect(() => {
+        if (spotifyToken) {
+            // If no expiration time is stored, refresh to be safe and get a time
+            if (!tokenExpiration) {
+                console.log("No expiration time found. Refreshing to ensure validity.");
+                refreshSpotifyToken();
+                return;
+            }
+
+            const timeLeft = tokenExpiration - Date.now();
+            // If expired or expiring in less than 5 minutes, refresh immediately
+            if (timeLeft < 300000) {
+                console.log("Token expired or expiring soon. Refreshing immediately.");
+                refreshSpotifyToken();
+            }
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
+
+    // Set up auto-refresh timer
+    useEffect(() => {
+        if (!spotifyToken || !tokenExpiration) return;
+
+        const timeLeft = tokenExpiration - Date.now();
+        const refreshTime = timeLeft - 300000; // Refresh 5 minutes before expiration
+
+        if (refreshTime > 0) {
+            console.log(`Scheduling token refresh in ${Math.floor(refreshTime / 1000 / 60)} minutes`);
+            const timer = setTimeout(() => {
+                refreshSpotifyToken();
+            }, refreshTime);
+
+            return () => clearTimeout(timer);
+        }
+    }, [spotifyToken, tokenExpiration]);
+
     useEffect(() => {
         const hash = window.location.hash.substring(1);
         if (hash.includes('access_token')) {
             const params = new URLSearchParams(hash);
             const token = params.get('access_token');
             const refreshToken = params.get('refresh_token');
+            const expiresIn = params.get('expires_in');
 
             if (token) {
                 console.log('Tokens received from redirect');
@@ -98,6 +173,12 @@ function GrammysSection({
                 if (refreshToken) {
                     setSpotifyRefreshToken(refreshToken);
                     localStorage.setItem('spotify_refresh_token', refreshToken);
+                }
+
+                if (expiresIn) {
+                    const expiresAt = Date.now() + (expiresIn * 1000);
+                    setTokenExpiration(expiresAt);
+                    localStorage.setItem('spotify_token_expires_at', expiresAt);
                 }
 
                 window.history.replaceState({}, document.title, window.location.pathname);
@@ -115,37 +196,17 @@ function GrammysSection({
     };
 
     const handleTokenExpired = async () => {
-        if (!spotifyRefreshToken) {
-            console.log("No refresh token available. Clearing...");
-            clearSpotifyData();
-            return;
-        }
-
-        console.log("Token expired. Attempting refresh...");
-        try {
-            const response = await fetch(`/api/spotify/refresh_token?refresh_token=${spotifyRefreshToken}`);
-            if (response.ok) {
-                const data = await response.json();
-                console.log("Token refreshed successfully");
-                setSpotifyToken(data.access_token);
-                localStorage.setItem('spotify_token', data.access_token);
-                // Note: Refresh token usually doesn't change, but if it does, the backend should return it and we should update it.
-                // Standard Spotify flow often keeps the same refresh token.
-            } else {
-                console.error("Failed to refresh token");
-                clearSpotifyData();
-            }
-        } catch (error) {
-            console.error("Error refreshing token:", error);
-            clearSpotifyData();
-        }
+        console.log("Token expired (reported by Player). Attempting refresh...");
+        await refreshSpotifyToken();
     };
 
     const clearSpotifyData = () => {
         setSpotifyToken(null);
         setSpotifyRefreshToken(null);
+        setTokenExpiration(null);
         localStorage.removeItem('spotify_token');
         localStorage.removeItem('spotify_refresh_token');
+        localStorage.removeItem('spotify_token_expires_at');
     };
 
     return (
