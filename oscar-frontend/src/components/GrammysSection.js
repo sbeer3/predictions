@@ -294,7 +294,6 @@ function GrammysSection({
                                     className={`start-button ${isEditingPredictions ? 'edit-mode' : ''}`}
                                     disabled={isEditingPredictions && !gameSettings.allowEditing}
                                 >
-                                    <span className="button-icon">{isEditingPredictions ? '✏️' : '🎬'}</span>
                                     {isEditingPredictions
                                         ? (gameSettings.allowEditing ? 'Edit My Predictions' : 'Predictions Locked')
                                         : 'Make My Predictions'
