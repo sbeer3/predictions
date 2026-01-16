@@ -8,6 +8,7 @@ const leaderboardRoutes = require('./routes/leaderboard');
 const adminRoutes = require('./routes/admin');
 const spotifyRoutes = require('./routes/spotify');
 const spotlightRoutes = require('./routes/spotlight');
+const grammyBuilderRoutes = require('./routes/grammyBuilder');
 const http = require('http');
 const { Server } = require('socket.io');
 
@@ -38,6 +39,8 @@ app.use('/api/leaderboard', leaderboardRoutes.router);
 app.use('/api/admin', adminRoutes);
 app.use('/api/spotify', spotifyRoutes);
 app.use('/api/spotlight', spotlightRoutes);
+app.use('/api/grammyBuilder', grammyBuilderRoutes);
+
 
 // Serve the index.html file for all other requests
 app.get('*', (req, res) => {

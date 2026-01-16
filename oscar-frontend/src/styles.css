@@ -15,6 +15,7 @@
     --light: #d7f2ba;
     /* Tea Green */
     --dark: #2d3a2e;
+    --dark-olive: rgba(34, 43, 34);
     /* Dark Dusty Olive */
     --dark-gray: #3d4a3e;
     /* Slightly lighter dark */
@@ -91,24 +92,6 @@ body {
     min-height: 100vh;
 }
 
-
-/* Archived theme-specific backgrounds - uncomment if restoring multi-theme support
-body:has(.home-theme) {
-    background: linear-gradient(135deg, var(--home-dark) 0%, var(--home-dark-gray) 100%);
-    background-attachment: fixed;
-}
-
-body:has(.grammys-theme) {
-    background: linear-gradient(to bottom, var(--grammy-dark), var(--grammy-dark-gray));
-    background-attachment: fixed;
-}
-
-body:has(.oscars-theme) {
-    background: linear-gradient(to bottom, #080808, #121212);
-    background-attachment: fixed;
-}
-*/
-
 .container {
     width: 90%;
     max-width: 1200px;
@@ -118,7 +101,6 @@ body:has(.oscars-theme) {
     flex-direction: column;
 }
 
-/* Full-width container for home/name input page */
 .container.home-theme {
     width: 100%;
     max-width: none;
@@ -284,25 +266,6 @@ h2 {
     /* Full width within container */
 }
 
-.category-group {
-    margin-bottom: 35px;
-    padding: 25px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 0.3);
-}
-
-.category-title {
-    color: var(--accent);
-    font-size: 1.9em;
-    margin-top: 0;
-    margin-bottom: 20px;
-    border-bottom: 2px solid var(--accent);
-    padding-bottom: 8px;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    font-weight: 500;
-}
 
 .nominee-option {
     display: flex;
@@ -313,7 +276,7 @@ h2 {
 .nominee-option input[type="radio"] {
     margin-right: 12px;
     transform: scale(1.3);
-    accent-color: #ffc107;
+    accent-color: var(--accent);
     /* Gold radio button color */
 }
 
@@ -915,6 +878,10 @@ h2 {
     .tagline {
         font-size: 1.1rem;
     }
+
+    .nominee-option {
+        width: 100%;
+    }
 }
 
 @media (max-width: 480px) {
@@ -935,22 +902,13 @@ h2 {
     .hero-content {
         margin-bottom: 40px;
     }
+
+    .nominee-option {
+        width: 100%;
+    }
+
 }
 
-/* #name-input-section::before {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 40%;
-    background: linear-gradient(to top, 
-        rgba(139, 0, 0, 0.2) 0%, 
-        rgba(139, 0, 0, 0) 100%);
-    z-index: -1;
-} */
-
-/* User greeting section styles */
 #user-greeting-section {
     display: flex;
     justify-content: center;
@@ -958,17 +916,6 @@ h2 {
     min-height: 60vh;
     width: 100%;
 }
-
-/* .greeting-content {
-    background-color: rgba(0, 0, 0, 0.6);
-    border-radius: 10px;
-    padding: 40px;
-    text-align: center;
-    max-width: 600px;
-    width: 90%;
-    border: 1px solid rgba(212, 175, 55, 0.3);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-} */
 
 .oscar-icon-small {
     width: 50px;
@@ -1082,10 +1029,6 @@ h2 {
     transform: translateY(-2px);
 }
 
-.nominee-option.selected {
-    background-color: rgba(212, 175, 55, 0.1);
-    border-radius: 8px;
-}
 
 .logout-button-small {
     background: none;
@@ -1140,4 +1083,178 @@ h2 {
     color: var(--oscar-gold);
     font-family: 'Playfair Display', serif;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.predictions-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.category-group {
+    /* Layout */
+    margin-bottom: 25px;
+    padding: 25px;
+
+    /* Centering (Since you used 80vw, you likely want this centered) */
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80vw;
+    min-width: 80vw;
+    /* Tip: On huge monitors, 80vw might be too wide. Consider max-width: 1200px; */
+
+    border: 5px solid transparent;
+    border-radius: 8px;
+    background:
+        linear-gradient(var(--dark), var(--dark-olive)) padding-box,
+        linear-gradient(90deg,
+            var(--dark-gray) 0%,
+            var(--accent) 50%,
+            var(--dark-gray) 100%) border-box;
+
+    box-shadow: 0px 5px 10px 0 rgba(0, 0, 0, 0.2) inset;
+}
+
+.category-title {
+    color: var(--accent);
+    font-size: 1.9em;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.nominee-image-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+
+.nominee-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.play-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    transition: opacity 0.2s ease;
+}
+
+.nominee-image-container:hover .play-overlay {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.play-icon {
+    font-size: 2em;
+    color: white;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+    /* Let clicks pass through if needed, though container handles it */
+}
+
+.nominee-radio {
+    display: none;
+}
+
+/* .nominee-option.selected {
+    background-color: var(--dark);
+
+} */
+
+.nominee-option.selected {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)) padding-box,
+        linear-gradient(90deg, var(--dark) 0%, var(--oscar-gold) 50%, var(--dark) 100%) border-box;
+
+    /* Alternately, you can just overwrite it with a single gradient: */
+    /* background: linear-gradient(90deg, var(--dark) 0%, var(--oscar-gold) 50%, var(--dark) 100%) border-box; */
+
+    /* 2. Important: Flip the text color */
+    /* Since the background is now bright gold, white text might differ to read */
+    color: var(--dark-olive);
+    font-weight: bold;
+}
+
+.nominee-option.selected .nominee-name {
+    color: var(--dark-olive);
+}
+
+/* .nominee-info {
+    border: 5px solid var(--dark);
+} */
+
+.nominee-info {
+    /* Remove all borders and backgrounds */
+    border: none;
+    background: none;
+
+    /* Just styling for the text */
+    padding-left: 5px;
+}
+
+/* .nominee-option {
+    gap: 10px;
+    border: 5px solid var(--dark);
+    padding: 0;
+    padding-right: 20px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    min-width: 50vw;
+} */
+
+.nominee-option {
+    /* 1. Layout & Size */
+    display: inline-flex;
+    /* Ensures flex behavior works */
+    align-items: center;
+    gap: 10px;
+    min-width: 50vw;
+    padding: 0;
+    padding-right: 20px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    border: 2px solid transparent;
+    background:
+        linear-gradient(var(--dark-olive), var(--dark-olive)) padding-box,
+        linear-gradient(90deg,
+            var(--dark-gray) 0%,
+            var(--accent) 50%,
+            var(--dark-gray) 100%) border-box;
+}
+
+.nominees-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.return-button {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
 }

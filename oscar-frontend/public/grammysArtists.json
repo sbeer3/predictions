@@ -8,7 +8,9 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:4gvjmrtzydbMpyJaXUtwvP"
+                    "spotify_uri": "spotify:artist:4gvjmrtzydbMpyJaXUtwvP",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5eb8aaca79d5544dc02bea2b6b2",
+                    "spotify_url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
                 }
             ]
         },
@@ -18,7 +20,9 @@
                 {
                     "category": "Best Latin Pop Album",
                     "work": "¿Y ahora qué?",
-                    "spotify_uri": "spotify:album:2oBvsAEB09BYyv3Dnzn2Lb"
+                    "spotify_uri": "spotify:album:2oBvsAEB09BYyv3Dnzn2Lb",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732a622551973b8014e963232d",
+                    "spotify_url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
                 }
             ]
         },
@@ -28,7 +32,9 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:0fTSzq9jAh4c36UVb4V7CB"
+                    "spotify_uri": "spotify:artist:0fTSzq9jAh4c36UVb4V7CB",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5eb9175feab318f624eb4cc0bfe",
+                    "spotify_url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
                 }
             ]
         },
@@ -38,7 +44,9 @@
                 {
                     "category": "Best Rock Performance",
                     "work": "U Should Not Be Doing That",
-                    "spotify_uri": "spotify:track:6zfVBdPDopmP36NeHd4O2m"
+                    "spotify_uri": "spotify:track:6zfVBdPDopmP36NeHd4O2m",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27378edb934facb5c46ed42efea",
+                    "spotify_url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
                 }
             ]
         },
@@ -48,7 +56,9 @@
                 {
                     "category": "Best Dance/Electronic Recording",
                     "work": "No Cap (with Disclosure)",
-                    "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW"
+                    "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bcbe8fff3377b76ac16e9aad",
+                    "spotify_url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
                 }
             ]
         },
@@ -58,7 +68,9 @@
                 {
                     "category": "Best Latin Pop Album",
                     "work": "BOGOTÁ (DELUXE)",
-                    "spotify_uri": "spotify:album:4c6ohu9SHcvy5FUrPu3Q60"
+                    "spotify_uri": "spotify:album:4c6ohu9SHcvy5FUrPu3Q60",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735ea3b9dd61366bf82bd1ab96",
+                    "spotify_url": "https://open.spotify.com/album/4c6ohu9SHcvy5FUrPu3Q60"
                 }
             ]
         },
@@ -68,7 +80,9 @@
                 {
                     "category": "Best Global Music Performance",
                     "work": "JERUSALEMA",
-                    "spotify_uri": "spotify:track:0HcxM7O49XgSNbWVn5C8vi"
+                    "spotify_uri": "spotify:track:0HcxM7O49XgSNbWVn5C8vi",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273939a840c0cd9ff162352dd7f",
+                    "spotify_url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
                 }
             ]
         },
@@ -78,7 +92,9 @@
                 {
                     "category": "Best Global Music Performance",
                     "work": "Daybreak",
-                    "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N"
+                    "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e886538761ff732ac0645024",
+                    "spotify_url": "https://open.spotify.com/track/5yTsposXxnk1rJVETaXS4N"
                 }
             ]
         },
@@ -93,7 +109,9 @@
                 {
                     "category": "Best Compilation Soundtrack For Visual Media",
                     "work": "Wicked",
-                    "spotify_uri": "spotify:track:3i8fIJNV0yuC4kXT3SkVBZ"
+                    "spotify_uri": "spotify:track:3i8fIJNV0yuC4kXT3SkVBZ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c",
+                    "spotify_url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
                 }
             ]
         },
@@ -103,7 +121,9 @@
                 {
                     "category": "Best Latin Rock or Alternative Album",
                     "work": "Genes Rebeldes",
-                    "spotify_uri": "spotify:album:3bLNYtp9nMBnQrW85P3If6"
+                    "spotify_uri": "spotify:album:3bLNYtp9nMBnQrW85P3If6",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27365bd89a9ed479aad625a7dd4",
+                    "spotify_url": "https://open.spotify.com/album/3bLNYtp9nMBnQrW85P3If6"
                 }
             ]
         },
@@ -113,7 +133,9 @@
                 {
                     "category": "Best African Music Performance",
                     "work": "Gimme Dat",
-                    "spotify_uri": "spotify:track:1k51Q6GFWBbsaWlBB2gnzo"
+                    "spotify_uri": "spotify:track:1k51Q6GFWBbsaWlBB2gnzo",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736f08cb928797a4703ebd9b94",
+                    "spotify_url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
                 }
             ]
         },
@@ -123,27 +145,37 @@
                 {
                     "category": "Record Of The Year",
                     "work": "DtMF",
-                    "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+                    "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+                    "spotify_url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
                 },
                 {
                     "category": "Album Of The Year",
                     "work": "DeBÍ TIRAR MÁS FOTOS",
-                    "spotify_uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+                    "spotify_uri": "spotify:album:5K79FLRUCSysQnVESLcTdb",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+                    "spotify_url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "DtMF",
-                    "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+                    "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+                    "spotify_url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
                 },
                 {
                     "category": "Best Música Urbana Album",
                     "work": "DeBÍ TIRAR MÁS FOTOS",
-                    "spotify_uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+                    "spotify_uri": "spotify:album:5K79FLRUCSysQnVESLcTdb",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+                    "spotify_url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
                 },
                 {
                     "category": "Best Global Music Performance",
                     "work": "EoO",
-                    "spotify_uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+                    "spotify_uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+                    "spotify_url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
                 }
             ]
         },
@@ -153,7 +185,9 @@
                 {
                     "category": "Best Progressive R&B Album",
                     "work": "Adjust Brightness",
-                    "spotify_uri": "spotify:album:3ASLBiqcxSDBZA64JpXTVe"
+                    "spotify_uri": "spotify:album:3ASLBiqcxSDBZA64JpXTVe",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735a37934a2ca4a88769a89dfc",
+                    "spotify_url": "https://open.spotify.com/album/3ASLBiqcxSDBZA64JpXTVe"
                 }
             ]
         },
@@ -163,12 +197,16 @@
                 {
                     "category": "Record Of The Year",
                     "work": "WILDFLOWER",
-                    "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+                    "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+                    "spotify_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "WILDFLOWER",
-                    "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+                    "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+                    "spotify_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
                 }
             ]
         },
@@ -178,7 +216,9 @@
                 {
                     "category": "Best Latin Rock or Alternative Album",
                     "work": "ASTROPICAL",
-                    "spotify_uri": "spotify:album:21U3vjlzUXb642LW0Ventl"
+                    "spotify_uri": "spotify:album:21U3vjlzUXb642LW0Ventl",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732769d84d74fa75a74edaa41b",
+                    "spotify_url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
                 }
             ]
         },
@@ -188,12 +228,16 @@
                 {
                     "category": "Best Alternative Music Performance",
                     "work": "Everything Is Peaceful Love",
-                    "spotify_uri": "spotify:track:4XosapYiYaXGcxc83p3DD9"
+                    "spotify_uri": "spotify:track:4XosapYiYaXGcxc83p3DD9",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb",
+                    "spotify_url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
                 },
                 {
                     "category": "Best Alternative Music Album",
                     "work": "SABLE, FABLE",
-                    "spotify_uri": "spotify:album:3L3UjpXtom6T0Plt1j6l1T"
+                    "spotify_uri": "spotify:album:3L3UjpXtom6T0Plt1j6l1T",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb",
+                    "spotify_url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
                 }
             ]
         },
@@ -203,17 +247,23 @@
                 {
                     "category": "Record Of The Year",
                     "work": "APT. (with ROSÉ)",
-                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d661760facafbf301043e9fc",
+                    "spotify_url": "https://open.spotify.com/track/4oAr3efZaJrWQCkHlphC5q"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "APT. (with ROSÉ)",
-                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d661760facafbf301043e9fc",
+                    "spotify_url": "https://open.spotify.com/track/4oAr3efZaJrWQCkHlphC5q"
                 },
                 {
                     "category": "Best Pop Duo/Group Performance",
                     "work": "APT. (with ROSÉ)",
-                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d661760facafbf301043e9fc",
+                    "spotify_url": "https://open.spotify.com/track/4oAr3efZaJrWQCkHlphC5q"
                 }
             ]
         },
@@ -223,7 +273,9 @@
                 {
                     "category": "Best African Music Performance",
                     "work": "Love",
-                    "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck"
+                    "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731493b585a0a292671db326fc",
+                    "spotify_url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
                 }
             ]
         },
@@ -233,7 +285,9 @@
                 {
                     "category": "Best Latin Rock or Alternative Album",
                     "work": "BAÑO MARÍA",
-                    "spotify_uri": "spotify:album:1XX2taUAddEZQX4QinYxX2"
+                    "spotify_uri": "spotify:album:1XX2taUAddEZQX4QinYxX2",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fef5b866326e3451bde28ff2",
+                    "spotify_url": "https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2"
                 }
             ]
         },
@@ -243,7 +297,9 @@
                 {
                     "category": "Best Rap Performance",
                     "work": "Outside",
-                    "spotify_uri": "spotify:track:139nLHDFZNr3anx8CpUy7u"
+                    "spotify_uri": "spotify:track:139nLHDFZNr3anx8CpUy7u",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732dd15638161a3bf8f7053f11",
+                    "spotify_url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
                 }
             ]
         },
@@ -253,12 +309,16 @@
                 {
                     "category": "Record Of The Year",
                     "work": "The Subway",
-                    "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+                    "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+                    "spotify_url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
                 },
                 {
                     "category": "Best Pop Solo Performance",
                     "work": "The Subway",
-                    "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+                    "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+                    "spotify_url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
                 }
             ]
         },
@@ -268,7 +328,9 @@
                 {
                     "category": "Best Traditional Country Album",
                     "work": "Dollar A Day",
-                    "spotify_uri": "spotify:album:6PmqJIFZZseXq1a2XXgYPd"
+                    "spotify_uri": "spotify:album:6PmqJIFZZseXq1a2XXgYPd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27345aa80c38530a16b922b6256",
+                    "spotify_url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
                 }
             ]
         },
@@ -278,12 +340,16 @@
                 {
                     "category": "Best R&B Performance",
                     "work": "It Depends",
-                    "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+                    "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f3e9b76bb402edc64b2ed6b",
+                    "spotify_url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
                 },
                 {
                     "category": "Best R&B Song",
                     "work": "It Depends",
-                    "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+                    "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f3e9b76bb402edc64b2ed6b",
+                    "spotify_url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
                 }
             ]
         },
@@ -293,17 +359,23 @@
                 {
                     "category": "Best Country Solo Performance",
                     "work": "Bad As I Used To Be",
-                    "spotify_uri": "spotify:track:11AfHdYnWqd8ez0u3VHw6E"
+                    "spotify_uri": "spotify:track:11AfHdYnWqd8ez0u3VHw6E",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c63a12b4d7de1d527566e61c",
+                    "spotify_url": "https://open.spotify.com/track/11AfHdYnWqd8ez0u3VHw6E"
                 },
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "A Song To Sing (with Miranda Lambert)",
-                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ecb12721c88014ec0e689a74",
+                    "spotify_url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
                 },
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "Honky Tonk Hall Of Fame (with George Strait)",
-                    "spotify_uri": "spotify:track:5mFA1iOWP5GXdIEhN0ub40"
+                    "spotify_uri": "spotify:track:5mFA1iOWP5GXdIEhN0ub40",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273df528704497530d292a0255f",
+                    "spotify_url": "https://open.spotify.com/track/5mFA1iOWP5GXdIEhN0ub40"
                 }
             ]
         },
@@ -313,7 +385,9 @@
                 {
                     "category": "Best Global Music Performance",
                     "work": "Cantando en el Camino",
-                    "spotify_uri": "spotify:track:7vYkmIypQkqDfT2iEizz6X"
+                    "spotify_uri": "spotify:track:7vYkmIypQkqDfT2iEizz6X",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736be4e1a2921985df93645d23",
+                    "spotify_url": "https://open.spotify.com/track/7vYkmIypQkqDfT2iEizz6X"
                 }
             ]
         },
@@ -323,22 +397,30 @@
                 {
                     "category": "Album Of The Year",
                     "work": "Let God Sort Em Out",
-                    "spotify_uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ"
+                    "spotify_uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6",
+                    "spotify_url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
                 },
                 {
                     "category": "Best Rap Performance",
                     "work": "Chains & Whips",
-                    "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM"
+                    "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6",
+                    "spotify_url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
                 },
                 {
                     "category": "Best Rap Song",
                     "work": "The Birds Don't Sing",
-                    "spotify_uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG"
+                    "spotify_uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6",
+                    "spotify_url": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
                 },
                 {
                     "category": "Best Rap Album",
                     "work": "Let God Sort Em Out",
-                    "spotify_uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ"
+                    "spotify_uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6",
+                    "spotify_url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
                 }
             ]
         },
@@ -348,7 +430,9 @@
                 {
                     "category": "Best R&B Album",
                     "work": "Why Not More?",
-                    "spotify_uri": "spotify:album:3Q1P1nILtihXq0QbwmzQyl"
+                    "spotify_uri": "spotify:album:3Q1P1nILtihXq0QbwmzQyl",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b9dadd36596f8c0ab57e29f6",
+                    "spotify_url": "https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl"
                 }
             ]
         },
@@ -363,7 +447,9 @@
                 {
                     "category": "Best Compilation Soundtrack For Visual Media",
                     "work": "Wicked",
-                    "spotify_uri": "spotify:track:1hSbcsqNmTaLVOUQ340Flt"
+                    "spotify_uri": "spotify:track:1hSbcsqNmTaLVOUQ340Flt",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733a81e76442b1aa620895a211",
+                    "spotify_url": "https://open.spotify.com/track/1hSbcsqNmTaLVOUQ340Flt"
                 }
             ]
         },
@@ -373,7 +459,9 @@
                 {
                     "category": "Best African Music Performance",
                     "work": "With You",
-                    "spotify_uri": "spotify:track:5GyaXqMfcIGHfmTUITFacS"
+                    "spotify_uri": "spotify:track:5GyaXqMfcIGHfmTUITFacS",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731dee1b62d81e4b9249af483c",
+                    "spotify_url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
                 }
             ]
         },
@@ -383,7 +471,9 @@
                 {
                     "category": "Best Rock Album",
                     "work": "private music",
-                    "spotify_uri": "spotify:album:1gmWnG5TeRj91Tdm2lpEvJ"
+                    "spotify_uri": "spotify:album:1gmWnG5TeRj91Tdm2lpEvJ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317e4d3ab44b89f1b62dcc2d6",
+                    "spotify_url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
                 }
             ]
         },
@@ -393,7 +483,9 @@
                 {
                     "category": "Best Progressive R&B Album",
                     "work": "LOVE ON DIGITAL",
-                    "spotify_uri": "spotify:album:7ChitlgU5oFgKmjLtViJ8K"
+                    "spotify_uri": "spotify:album:7ChitlgU5oFgKmjLtViJ8K",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738e3c1b54fdbb67aee135dda9",
+                    "spotify_url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
                 }
             ]
         },
@@ -403,7 +495,9 @@
                 {
                     "category": "Best Dance/Electronic Recording",
                     "work": "No Cap (with Anderson .Paak)",
-                    "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW"
+                    "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bcbe8fff3377b76ac16e9aad",
+                    "spotify_url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
                 }
             ]
         },
@@ -413,22 +507,30 @@
                 {
                     "category": "Record Of The Year",
                     "work": "Anxiety",
-                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec",
+                    "spotify_url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "Anxiety",
-                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec",
+                    "spotify_url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
                 },
                 {
                     "category": "Best Rap Performance",
                     "work": "Anxiety",
-                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec",
+                    "spotify_url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
                 },
                 {
                     "category": "Best Rap Song",
                     "work": "Anxiety",
-                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+                    "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec",
+                    "spotify_url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
                 }
             ]
         },
@@ -438,7 +540,9 @@
                 {
                     "category": "Best Metal Performance",
                     "work": "Night Terror",
-                    "spotify_uri": "spotify:track:2eEY3SOjaDoZmx6mC2QTLU"
+                    "spotify_uri": "spotify:track:2eEY3SOjaDoZmx6mC2QTLU",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731ba3cfbc1cabb6f3211744a3",
+                    "spotify_url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
                 }
             ]
         },
@@ -448,17 +552,23 @@
                 {
                     "category": "Best Traditional R&B Performance",
                     "work": "Here We Are",
-                    "spotify_uri": "spotify:track:4w1QUiGOc6tz31SYoqQkRf"
+                    "spotify_uri": "spotify:track:4w1QUiGOc6tz31SYoqQkRf",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f",
+                    "spotify_url": "https://open.spotify.com/track/4w1QUiGOc6tz31SYoqQkRf"
                 },
                 {
                     "category": "Best R&B Song",
                     "work": "Overqualified",
-                    "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp"
+                    "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f",
+                    "spotify_url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
                 },
                 {
                     "category": "Best Progressive R&B Album",
                     "work": "BLOOM",
-                    "spotify_uri": "spotify:album:756LreEk5nDrKn0FyiVJNH"
+                    "spotify_uri": "spotify:album:756LreEk5nDrKn0FyiVJNH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f",
+                    "spotify_url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
                 }
             ]
         },
@@ -468,7 +578,9 @@
                 {
                     "category": "Best African Music Performance",
                     "work": "Hope & Love",
-                    "spotify_uri": "spotify:track:0UVcJBW1VTyZdatMIIZDSm"
+                    "spotify_uri": "spotify:track:0UVcJBW1VTyZdatMIIZDSm",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ca0ee6d8d3ef168336f3e975",
+                    "spotify_url": "https://open.spotify.com/track/0UVcJBW1VTyZdatMIIZDSm"
                 }
             ]
         },
@@ -478,7 +590,9 @@
                 {
                     "category": "Best Song Written For Visual Media",
                     "work": "Never Too Late",
-                    "spotify_uri": "spotify:track:2I0GqVo4ezonSOV8jSUURx"
+                    "spotify_uri": "spotify:track:2I0GqVo4ezonSOV8jSUURx",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1",
+                    "spotify_url": "https://open.spotify.com/track/2I0GqVo4ezonSOV8jSUURx"
                 }
             ]
         },
@@ -488,7 +602,9 @@
                 {
                     "category": "Best Contemporary Country Album",
                     "work": "Evangeline Vs. The Machine",
-                    "spotify_uri": "spotify:album:4wJxbo5ycw2j1cDM0LOiMl"
+                    "spotify_uri": "spotify:album:4wJxbo5ycw2j1cDM0LOiMl",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736b6e2a3e067c42a91fde14da",
+                    "spotify_url": "https://open.spotify.com/album/4wJxbo5ycw2j1cDM0LOiMl"
                 }
             ]
         },
@@ -498,7 +614,9 @@
                 {
                     "category": "Best Música Urbana Album",
                     "work": "FERXXO VOL X: Sagrado",
-                    "spotify_uri": "spotify:album:4Fa9OpneHJPjj5jsrCQuMC"
+                    "spotify_uri": "spotify:album:4Fa9OpneHJPjj5jsrCQuMC",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273333b871cdeba0a80ae5282e0",
+                    "spotify_url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
                 }
             ]
         },
@@ -508,7 +626,9 @@
                 {
                     "category": "Best Dance/Electronic Album",
                     "work": "EUSEXUA",
-                    "spotify_uri": "spotify:album:3o1TOhMkU5FFMSJMDhXfdF"
+                    "spotify_uri": "spotify:album:3o1TOhMkU5FFMSJMDhXfdF",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273755b26e3af91368d71a150ab",
+                    "spotify_url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
                 }
             ]
         },
@@ -518,7 +638,9 @@
                 {
                     "category": "Best Progressive R&B Album",
                     "work": "Access All Areas",
-                    "spotify_uri": "spotify:album:3wSWMuHQOJ2gU22t5sCouR"
+                    "spotify_uri": "spotify:album:3wSWMuHQOJ2gU22t5sCouR",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd7cdc79869f83f8b6daf49",
+                    "spotify_url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
                 }
             ]
         },
@@ -528,12 +650,16 @@
                 {
                     "category": "Best Dance/Electronic Recording",
                     "work": "Victory Lap",
-                    "spotify_uri": "spotify:track:1lbNgoJ5iMrMluCyhI4OQP"
+                    "spotify_uri": "spotify:track:1lbNgoJ5iMrMluCyhI4OQP",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ed96e511d87235ac3e767382",
+                    "spotify_url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
                 },
                 {
                     "category": "Best Dance/Electronic Album",
                     "work": "Ten Days",
-                    "spotify_uri": "spotify:album:3DQueEd1Ft9PHWgovDzPKh"
+                    "spotify_uri": "spotify:album:3DQueEd1Ft9PHWgovDzPKh",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736b8a4828e057b7dc1c4a4d39",
+                    "spotify_url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
                 }
             ]
         },
@@ -543,7 +669,9 @@
                 {
                     "category": "Best Melodic Rap Performance",
                     "work": "Proud Of Me",
-                    "spotify_uri": "spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ"
+                    "spotify_uri": "spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735449ff653721a7ad630ec0da",
+                    "spotify_url": "https://open.spotify.com/track/1ZEIchL5Gy4g5DYQaqEbzQ"
                 }
             ]
         },
@@ -553,7 +681,9 @@
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "Honky Tonk Hall Of Fame (with Chris Stapleton)",
-                    "spotify_uri": "spotify:track:5mFA1iOWP5GXdIEhN0ub40"
+                    "spotify_uri": "spotify:track:5mFA1iOWP5GXdIEhN0ub40",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273df528704497530d292a0255f",
+                    "spotify_url": "https://open.spotify.com/track/5mFA1iOWP5GXdIEhN0ub40"
                 }
             ]
         },
@@ -563,7 +693,9 @@
                 {
                     "category": "Best Metal Performance",
                     "work": "Lachryma",
-                    "spotify_uri": "spotify:track:0hw2CGX8jaIpS4jGDn3dfa"
+                    "spotify_uri": "spotify:track:0hw2CGX8jaIpS4jGDn3dfa",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733562af0c69b2b06295f02ff9",
+                    "spotify_url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
                 }
             ]
         },
@@ -573,7 +705,9 @@
                 {
                     "category": "Best R&B Album",
                     "work": "BELOVED",
-                    "spotify_uri": "spotify:album:7pcBXbl1g198PNAxt44bHQ"
+                    "spotify_uri": "spotify:album:7pcBXbl1g198PNAxt44bHQ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f949fecf209f5e20900c126d",
+                    "spotify_url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
                 }
             ]
         },
@@ -583,12 +717,16 @@
                 {
                     "category": "Best Rap Song",
                     "work": "TGIF",
-                    "spotify_uri": "spotify:track:2hKYtHbwYOSjvYQhVdUpdQ"
+                    "spotify_uri": "spotify:track:2hKYtHbwYOSjvYQhVdUpdQ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1c775aabd9f3ff0c4ed0b63",
+                    "spotify_url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
                 },
                 {
                     "category": "Best Rap Album",
                     "work": "GLORIOUS",
-                    "spotify_uri": "spotify:album:4dUAojdnh5Bcho1n8bPSO0"
+                    "spotify_uri": "spotify:album:4dUAojdnh5Bcho1n8bPSO0",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273083fbaed50f66e8849b264cc",
+                    "spotify_url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
                 }
             ]
         },
@@ -598,7 +736,9 @@
                 {
                     "category": "Best Rock Album",
                     "work": "I quit",
-                    "spotify_uri": "spotify:album:6bpglEwFypc0rfzYDyhf6i"
+                    "spotify_uri": "spotify:album:6bpglEwFypc0rfzYDyhf6i",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f0ba5a9b7d72e7af4f659fcd",
+                    "spotify_url": "https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i"
                 }
             ]
         },
@@ -608,22 +748,30 @@
                 {
                     "category": "Best Rock Performance",
                     "work": "Mirtazapine",
-                    "spotify_uri": "spotify:track:2FFXU4b8sIsiLiTo6EWO19"
+                    "spotify_uri": "spotify:track:2FFXU4b8sIsiLiTo6EWO19",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+                    "spotify_url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
                 },
                 {
                     "category": "Best Rock Song",
                     "work": "Glum",
-                    "spotify_uri": "spotify:track:0kpB9iZJ9eMPQiMU9W6ouD"
+                    "spotify_uri": "spotify:track:0kpB9iZJ9eMPQiMU9W6ouD",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ea8cb190d031939d1e430926",
+                    "spotify_url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
                 },
                 {
                     "category": "Best Alternative Music Performance",
                     "work": "Parachute",
-                    "spotify_uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J"
+                    "spotify_uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+                    "spotify_url": "https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J"
                 },
                 {
                     "category": "Best Alternative Music Album",
                     "work": "Ego Death At A Bachelorette Party",
-                    "spotify_uri": "spotify:album:3MROTtttK946gHaTkXeP8b"
+                    "spotify_uri": "spotify:album:3MROTtttK946gHaTkXeP8b",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+                    "spotify_url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
                 }
             ]
         },
@@ -633,17 +781,23 @@
                 {
                     "category": "Song Of The Year",
                     "work": "Golden",
-                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                    "spotify_url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
                 },
                 {
                     "category": "Best Pop Duo/Group Performance",
                     "work": "Golden",
-                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                    "spotify_url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
                 },
                 {
                     "category": "Best Song Written For Visual Media",
                     "work": "Golden",
-                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+                    "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                    "spotify_url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
                 }
             ]
         },
@@ -653,7 +807,9 @@
                 {
                     "category": "Best Música Urbana Album",
                     "work": "Mixteip",
-                    "spotify_uri": "spotify:album:5ZhcTmzBym8cwsVkNNrHgS"
+                    "spotify_uri": "spotify:album:5ZhcTmzBym8cwsVkNNrHgS",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bddf0628aa237031aaf5eb8e",
+                    "spotify_url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
                 }
             ]
         },
@@ -663,7 +819,9 @@
                 {
                     "category": "Best Song Written For Visual Media",
                     "work": "Pale, Pale Moon",
-                    "spotify_uri": "spotify:track:3gpofCUBcNhtLy2mN0ioE5"
+                    "spotify_uri": "spotify:track:3gpofCUBcNhtLy2mN0ioE5",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
+                    "spotify_url": "https://open.spotify.com/track/3gpofCUBcNhtLy2mN0ioE5"
                 }
             ]
         },
@@ -673,12 +831,16 @@
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "Amen (with Shaboozey)",
-                    "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV"
+                    "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736cdc9ddfb25bc1e4a852ed70",
+                    "spotify_url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
                 },
                 {
                     "category": "Best Contemporary Country Album",
                     "work": "Beautifully Broken",
-                    "spotify_uri": "spotify:album:2GW4VpFk9mbc6qYZ0zNuu3"
+                    "spotify_uri": "spotify:album:2GW4VpFk9mbc6qYZ0zNuu3",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773",
+                    "spotify_url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
                 }
             ]
         },
@@ -688,12 +850,16 @@
                 {
                     "category": "Best Melodic Rap Performance",
                     "work": "Wholeheartedly",
-                    "spotify_uri": "spotify:track:314sW8ZsMHGiYkn2fAOW9e"
+                    "spotify_uri": "spotify:track:314sW8ZsMHGiYkn2fAOW9e",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e",
+                    "spotify_url": "https://open.spotify.com/track/314sW8ZsMHGiYkn2fAOW9e"
                 },
                 {
                     "category": "Best Rap Album",
                     "work": "God Does Like Ugly",
-                    "spotify_uri": "spotify:album:2tU04u3hxtziB4sOVJKak3"
+                    "spotify_uri": "spotify:album:2tU04u3hxtziB4sOVJKak3",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e",
+                    "spotify_url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
                 }
             ]
         },
@@ -703,22 +869,30 @@
                 {
                     "category": "Album Of The Year",
                     "work": "SWAG",
-                    "spotify_uri": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ"
+                    "spotify_uri": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+                    "spotify_url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
                 },
                 {
                     "category": "Best Pop Solo Performance",
                     "work": "DAISIES",
-                    "spotify_uri": "spotify:track:7rcbwjIaZ5jEgyFk35Bqfj"
+                    "spotify_uri": "spotify:track:7rcbwjIaZ5jEgyFk35Bqfj",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b2d278666b1150e827de324d",
+                    "spotify_url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
                 },
                 {
                     "category": "Best Pop Vocal Album",
                     "work": "SWAG",
-                    "spotify_uri": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ"
+                    "spotify_uri": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+                    "spotify_url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
                 },
                 {
                     "category": "Best R&B Performance",
                     "work": "YUKON",
-                    "spotify_uri": "spotify:track:29iva9idM6rFCPUlu7Rhxl"
+                    "spotify_uri": "spotify:track:29iva9idM6rFCPUlu7Rhxl",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+                    "spotify_url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
                 }
             ]
         },
@@ -728,7 +902,9 @@
                 {
                     "category": "Best Latin Pop Album",
                     "work": "Tropicoqueta",
-                    "spotify_uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
+                    "spotify_uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+                    "spotify_url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
                 }
             ]
         },
@@ -738,12 +914,16 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:3c0gDdb9lhnHGFtP4prQpn"
+                    "spotify_uri": "spotify:artist:3c0gDdb9lhnHGFtP4prQpn",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5eb484e326315e09b3f382a7960",
+                    "spotify_url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
                 },
                 {
                     "category": "Best Pop Duo/Group Performance",
                     "work": "Gabriela",
-                    "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL"
+                    "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
+                    "spotify_url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
                 }
             ]
         },
@@ -753,12 +933,16 @@
                 {
                     "category": "Best Dance/Electronic Recording",
                     "work": "SPACE INVADER",
-                    "spotify_uri": "spotify:track:3fPW4EhpRR6BwLRPDThNeg"
+                    "spotify_uri": "spotify:track:3fPW4EhpRR6BwLRPDThNeg",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273944186fbec275a8a38690baf",
+                    "spotify_url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
                 },
                 {
                     "category": "Best Remixed Recording",
                     "work": "Don't Forget About Us (Remix)",
-                    "spotify_uri": "spotify:track:1NmC7qGL2jdqtFXzrrH3ui"
+                    "spotify_uri": "spotify:track:1NmC7qGL2jdqtFXzrrH3ui",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273698b7c4f172361a7cf1b4dbf",
+                    "spotify_url": "https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui"
                 }
             ]
         },
@@ -768,12 +952,16 @@
                 {
                     "category": "Best R&B Performance",
                     "work": "Folded",
-                    "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+                    "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
+                    "spotify_url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
                 },
                 {
                     "category": "Best R&B Song",
                     "work": "Folded",
-                    "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+                    "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
+                    "spotify_url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
                 }
             ]
         },
@@ -783,7 +971,9 @@
                 {
                     "category": "Best Contemporary Country Album",
                     "work": "Patterns",
-                    "spotify_uri": "spotify:album:0Py8hbFZ9QhI2gPEqzbla1"
+                    "spotify_uri": "spotify:album:0Py8hbFZ9QhI2gPEqzbla1",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273da7dd5ca2f02f074f7895834",
+                    "spotify_url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
                 }
             ]
         },
@@ -793,42 +983,58 @@
                 {
                     "category": "Record Of The Year",
                     "work": "luther (with SZA)",
-                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+                    "spotify_url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
                 },
                 {
                     "category": "Album Of The Year",
                     "work": "GNX",
-                    "spotify_uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW"
+                    "spotify_uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+                    "spotify_url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "luther (with SZA)",
-                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+                    "spotify_url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
                 },
                 {
                     "category": "Best Pop Duo/Group Performance",
                     "work": "30 For 30 (SZA with Kendrick Lamar)",
-                    "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO"
+                    "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca",
+                    "spotify_url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
                 },
                 {
                     "category": "Best Rap Performance",
                     "work": "tv off",
-                    "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+                    "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+                    "spotify_url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
                 },
                 {
                     "category": "Best Melodic Rap Performance",
                     "work": "luther (with SZA)",
-                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+                    "spotify_url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
                 },
                 {
                     "category": "Best Rap Song",
                     "work": "tv off",
-                    "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+                    "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+                    "spotify_url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
                 },
                 {
                     "category": "Best Rap Album",
                     "work": "GNX",
-                    "spotify_uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW"
+                    "spotify_uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+                    "spotify_url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
                 }
             ]
         },
@@ -838,32 +1044,44 @@
                 {
                     "category": "Record Of The Year",
                     "work": "Abracadabra",
-                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9",
+                    "spotify_url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
                 },
                 {
                     "category": "Album Of The Year",
                     "work": "MAYHEM",
-                    "spotify_uri": "spotify:album:2MHUaRi9OCyTN02SoyRRBJ"
+                    "spotify_uri": "spotify:album:2MHUaRi9OCyTN02SoyRRBJ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+                    "spotify_url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "Abracadabra",
-                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9",
+                    "spotify_url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
                 },
                 {
                     "category": "Best Pop Solo Performance",
                     "work": "Disease",
-                    "spotify_uri": "spotify:track:0T3Hw3kPj9T2E4UoaSXmfn"
+                    "spotify_uri": "spotify:track:0T3Hw3kPj9T2E4UoaSXmfn",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+                    "spotify_url": "https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn"
                 },
                 {
                     "category": "Best Pop Vocal Album",
                     "work": "MAYHEM",
-                    "spotify_uri": "spotify:album:2MHUaRi9OCyTN02SoyRRBJ"
+                    "spotify_uri": "spotify:album:2MHUaRi9OCyTN02SoyRRBJ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+                    "spotify_url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
                 },
                 {
                     "category": "Best Dance Pop Recording",
                     "work": "Abracadabra",
-                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+                    "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9",
+                    "spotify_url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
                 }
             ]
         },
@@ -873,7 +1091,9 @@
                 {
                     "category": "Best Traditional R&B Performance",
                     "work": "UPTOWN",
-                    "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb"
+                    "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736037f814fed6a4e88427d27a",
+                    "spotify_url": "https://open.spotify.com/track/4ci0wq2PIsAayCmUFd4XAb"
                 }
             ]
         },
@@ -883,12 +1103,16 @@
                 {
                     "category": "Best Country Solo Performance",
                     "work": "Somewhere Over Laredo",
-                    "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+                    "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27323e80692ba952f929bf38dc0",
+                    "spotify_url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
                 },
                 {
                     "category": "Best Country Song",
                     "work": "Somewhere Over Laredo",
-                    "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+                    "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27323e80692ba952f929bf38dc0",
+                    "spotify_url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
                 }
             ]
         },
@@ -898,12 +1122,16 @@
                 {
                     "category": "Best Traditional R&B Performance",
                     "work": "LOVE YOU TOO",
-                    "spotify_uri": "spotify:track:6EjPDxrSXu2RcNctj6n0r1"
+                    "spotify_uri": "spotify:track:6EjPDxrSXu2RcNctj6n0r1",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273435101cf49d2ac19b3c1fa81",
+                    "spotify_url": "https://open.spotify.com/track/6EjPDxrSXu2RcNctj6n0r1"
                 },
                 {
                     "category": "Best R&B Album",
                     "work": "The Crown",
-                    "spotify_uri": "spotify:album:64a2yWLGIWj9MlHIcaav9e"
+                    "spotify_uri": "spotify:album:64a2yWLGIWj9MlHIcaav9e",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27353b4a8afb4efa65b8084e6e3",
+                    "spotify_url": "https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e"
                 }
             ]
         },
@@ -913,32 +1141,44 @@
                 {
                     "category": "Album Of The Year",
                     "work": "MUTT",
-                    "spotify_uri": "spotify:album:0SzoksypeognxYJJOJEYip"
+                    "spotify_uri": "spotify:album:0SzoksypeognxYJJOJEYip",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814",
+                    "spotify_url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
                 },
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:0nnBZ8FXWjG9wZgM2cpfeb"
+                    "spotify_uri": "spotify:artist:0nnBZ8FXWjG9wZgM2cpfeb",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
+                    "spotify_url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
                 },
                 {
                     "category": "Best R&B Performance",
                     "work": "MUTT (Live)",
-                    "spotify_uri": "spotify:track:4UmYPgm2DDLH3UiSMxnwpJ"
+                    "spotify_uri": "spotify:track:4UmYPgm2DDLH3UiSMxnwpJ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273923887b7945fa633c464f756",
+                    "spotify_url": "https://open.spotify.com/track/4UmYPgm2DDLH3UiSMxnwpJ"
                 },
                 {
                     "category": "Best Traditional R&B Performance",
                     "work": "VIBES DON'T LIE",
-                    "spotify_uri": "spotify:track:1WwrfoGe0K33z1tVI6mevJ"
+                    "spotify_uri": "spotify:track:1WwrfoGe0K33z1tVI6mevJ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814",
+                    "spotify_url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
                 },
                 {
                     "category": "Best R&B Song",
                     "work": "YES IT IS",
-                    "spotify_uri": "spotify:track:2iksjpqL3eraxCBKqNHuqd"
+                    "spotify_uri": "spotify:track:2iksjpqL3eraxCBKqNHuqd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814",
+                    "spotify_url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
                 },
                 {
                     "category": "Best R&B Album",
                     "work": "MUTT",
-                    "spotify_uri": "spotify:album:0SzoksypeognxYJJOJEYip"
+                    "spotify_uri": "spotify:album:0SzoksypeognxYJJOJEYip",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814",
+                    "spotify_url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
                 }
             ]
         },
@@ -948,12 +1188,16 @@
                 {
                     "category": "Best Rock Performance",
                     "work": "The Emptiness Machine",
-                    "spotify_uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A"
+                    "spotify_uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917",
+                    "spotify_url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
                 },
                 {
                     "category": "Best Rock Album",
                     "work": "From Zero",
-                    "spotify_uri": "spotify:album:4R6FV9NSzhPihHR0h4pI93"
+                    "spotify_uri": "spotify:album:4R6FV9NSzhPihHR0h4pI93",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b11a5489e8cb11dd22b930a0",
+                    "spotify_url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
                 }
             ]
         },
@@ -963,12 +1207,16 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:67FB4n52MgexGQIG8s0yUH"
+                    "spotify_uri": "spotify:artist:67FB4n52MgexGQIG8s0yUH",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5eb4831bc7f3017aae35b175d23",
+                    "spotify_url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                 },
                 {
                     "category": "Best Pop Solo Performance",
                     "work": "Messy",
-                    "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
+                    "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a0cb974834e04f46b63b99a8",
+                    "spotify_url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
                 }
             ]
         },
@@ -978,7 +1226,9 @@
                 {
                     "category": "Best Latin Rock or Alternative Album",
                     "work": "ALGORHYTHM",
-                    "spotify_uri": "spotify:album:1wxG8CSeaKdeFVVus4DYF7"
+                    "spotify_uri": "spotify:album:1wxG8CSeaKdeFVVus4DYF7",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27356c804c534f43a44e424a00a",
+                    "spotify_url": "https://open.spotify.com/album/1wxG8CSeaKdeFVVus4DYF7"
                 }
             ]
         },
@@ -988,7 +1238,9 @@
                 {
                     "category": "Best Traditional Country Album",
                     "work": "American Romance",
-                    "spotify_uri": "spotify:album:2rBZC5I5tXgWH2a4mE3L2h"
+                    "spotify_uri": "spotify:album:2rBZC5I5tXgWH2a4mE3L2h",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27336160bfd7bc1cca68fc4cd2c",
+                    "spotify_url": "https://open.spotify.com/album/2rBZC5I5tXgWH2a4mE3L2h"
                 }
             ]
         },
@@ -998,12 +1250,16 @@
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "Love Me Like You Used To Do (with Tyler Childers)",
-                    "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+                    "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736dadc317c71112acb77250f3",
+                    "spotify_url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
                 },
                 {
                     "category": "Best Traditional Country Album",
                     "work": "Hard Headed Woman",
-                    "spotify_uri": "spotify:album:1q03d1hYDfMWALV5t8Rbaw"
+                    "spotify_uri": "spotify:album:1q03d1hYDfMWALV5t8Rbaw",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736dadc317c71112acb77250f3",
+                    "spotify_url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
                 }
             ]
         },
@@ -1013,7 +1269,9 @@
                 {
                     "category": "Best Song Written For Visual Media",
                     "work": "I Lied to You",
-                    "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt"
+                    "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
+                    "spotify_url": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt"
                 }
             ]
         },
@@ -1023,7 +1281,9 @@
                 {
                     "category": "Best Pop Vocal Album",
                     "work": "Something Beautiful",
-                    "spotify_uri": "spotify:album:7h7smPzBYx8LOLI3ncM3vQ"
+                    "spotify_uri": "spotify:album:7h7smPzBYx8LOLI3ncM3vQ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0",
+                    "spotify_url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
                 }
             ]
         },
@@ -1033,17 +1293,23 @@
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "A Song To Sing (with Chris Stapleton)",
-                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ecb12721c88014ec0e689a74",
+                    "spotify_url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
                 },
                 {
                     "category": "Best Country Song",
                     "work": "A Song To Sing",
-                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+                    "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ecb12721c88014ec0e689a74",
+                    "spotify_url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
                 },
                 {
                     "category": "Best Contemporary Country Album",
                     "work": "Postcards From Texas",
-                    "spotify_uri": "spotify:album:2c12Spm8XcLAT2xYtQdgGK"
+                    "spotify_uri": "spotify:album:2c12Spm8XcLAT2xYtQdgGK",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b7010f2e7e715bf4c8422f3f",
+                    "spotify_url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
                 }
             ]
         },
@@ -1053,7 +1319,9 @@
                 {
                     "category": "Best Latin Pop Album",
                     "work": "Cancionera",
-                    "spotify_uri": "spotify:album:4gqGuqjdi0io8D0vgMPczu"
+                    "spotify_uri": "spotify:album:4gqGuqjdi0io8D0vgMPczu",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a80e971581614f7b4a58e489",
+                    "spotify_url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
                 }
             ]
         },
@@ -1063,7 +1331,9 @@
                 {
                     "category": "Best Música Urbana Album",
                     "work": "ΝΑΙΚΙ",
-                    "spotify_uri": "spotify:album:4EeOwzI5OcHYrETtQqkmQk"
+                    "spotify_uri": "spotify:album:4EeOwzI5OcHYrETtQqkmQk",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734ede5846f241e965b95a86e6",
+                    "spotify_url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
                 }
             ]
         },
@@ -1073,12 +1343,16 @@
                 {
                     "category": "Best Rock Song",
                     "work": "As Alive As You Need Me To Be",
-                    "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z"
+                    "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317ff2581a6b924fb3a704395",
+                    "spotify_url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
                 },
                 {
                     "category": "Best Song Written For Visual Media",
                     "work": "As Alive As You Need Me To Be",
-                    "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z"
+                    "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317ff2581a6b924fb3a704395",
+                    "spotify_url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
                 }
             ]
         },
@@ -1088,7 +1362,9 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
+                    "spotify_uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+                    "spotify_url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
                 }
             ]
         },
@@ -1098,7 +1374,9 @@
                 {
                     "category": "Best Melodic Rap Performance",
                     "work": "SOMEBODY LOVES ME",
-                    "spotify_uri": "spotify:track:2kZoOj1n5vk9BuF0sih58M"
+                    "spotify_uri": "spotify:track:2kZoOj1n5vk9BuF0sih58M",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+                    "spotify_url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
                 }
             ]
         },
@@ -1108,12 +1386,16 @@
                 {
                     "category": "Best Dance Pop Recording",
                     "work": "Illegal",
-                    "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+                    "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e",
+                    "spotify_url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
                 },
                 {
                     "category": "Best Dance/Electronic Album",
                     "work": "Fancy That",
-                    "spotify_uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                    "spotify_uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e",
+                    "spotify_url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
                 }
             ]
         },
@@ -1123,7 +1405,9 @@
                 {
                     "category": "Best Latin Pop Album",
                     "work": "Cosa Nuestra",
-                    "spotify_uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA"
+                    "spotify_uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+                    "spotify_url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
                 }
             ]
         },
@@ -1133,7 +1417,9 @@
                 {
                     "category": "Best Song Written For Visual Media",
                     "work": "Sinners",
-                    "spotify_uri": "spotify:track:0OyWRjMMbPKwnBtWdLg4Ws"
+                    "spotify_uri": "spotify:track:0OyWRjMMbPKwnBtWdLg4Ws",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273be5f44667d4f3e59fd375589",
+                    "spotify_url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
                 }
             ]
         },
@@ -1143,17 +1429,23 @@
                 {
                     "category": "Record Of The Year",
                     "work": "APT. (with Bruno Mars)",
-                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d661760facafbf301043e9fc",
+                    "spotify_url": "https://open.spotify.com/track/4oAr3efZaJrWQCkHlphC5q"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "APT. (with Bruno Mars)",
-                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d661760facafbf301043e9fc",
+                    "spotify_url": "https://open.spotify.com/track/4oAr3efZaJrWQCkHlphC5q"
                 },
                 {
                     "category": "Best Pop Duo/Group Performance",
                     "work": "APT. (with Bruno Mars)",
-                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q"
+                    "spotify_uri": "spotify:track:4oAr3efZaJrWQCkHlphC5q",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d661760facafbf301043e9fc",
+                    "spotify_url": "https://open.spotify.com/track/4oAr3efZaJrWQCkHlphC5q"
                 }
             ]
         },
@@ -1163,7 +1455,9 @@
                 {
                     "category": "Best Dance/Electronic Album",
                     "work": "Inhale/Exhale",
-                    "spotify_uri": "spotify:album:3Fda4vhPP0Clk3EQNVipUP"
+                    "spotify_uri": "spotify:album:3Fda4vhPP0Clk3EQNVipUP",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732b09de2f89ef8cb4a117511e",
+                    "spotify_url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
                 }
             ]
         },
@@ -1173,27 +1467,37 @@
                 {
                     "category": "Record Of The Year",
                     "work": "Manchild",
-                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
+                    "spotify_url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
                 },
                 {
                     "category": "Album Of The Year",
                     "work": "Man's Best Friend",
-                    "spotify_uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+                    "spotify_uri": "spotify:album:1aqg30bNvLSWgShZgX4oop",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                    "spotify_url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "Manchild",
-                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
+                    "spotify_url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
                 },
                 {
                     "category": "Best Pop Solo Performance",
                     "work": "Manchild",
-                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+                    "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
+                    "spotify_url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
                 },
                 {
                     "category": "Best Pop Vocal Album",
                     "work": "Man's Best Friend",
-                    "spotify_uri": "spotify:album:1aqg30bNvLSWgShZgX4oop"
+                    "spotify_uri": "spotify:album:1aqg30bNvLSWgShZgX4oop",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+                    "spotify_url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
                 }
             ]
         },
@@ -1203,7 +1507,9 @@
                 {
                     "category": "Best Dance Pop Recording",
                     "work": "Bluest Flame",
-                    "spotify_uri": "spotify:track:6vuVCtwukUA57ioTnKKeuL"
+                    "spotify_uri": "spotify:track:6vuVCtwukUA57ioTnKKeuL",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27302479f0a8f30875dce4a35be",
+                    "spotify_url": "https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL"
                 }
             ]
         },
@@ -1213,17 +1519,23 @@
                 {
                     "category": "Best Country Solo Performance",
                     "work": "Good News",
-                    "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+                    "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390",
+                    "spotify_url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
                 },
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "Amen (with Jelly Roll)",
-                    "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV"
+                    "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736cdc9ddfb25bc1e4a852ed70",
+                    "spotify_url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
                 },
                 {
                     "category": "Best Country Song",
                     "work": "Good News",
-                    "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+                    "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390",
+                    "spotify_url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
                 }
             ]
         },
@@ -1233,7 +1545,9 @@
                 {
                     "category": "Best Global Music Performance",
                     "work": "Shrini's Dream",
-                    "spotify_uri": "spotify:track:6llehsN0Mgms7vs6J88zTX"
+                    "spotify_uri": "spotify:track:6llehsN0Mgms7vs6J88zTX",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f89f692a2c0921e254795064",
+                    "spotify_url": "https://open.spotify.com/track/6llehsN0Mgms7vs6J88zTX"
                 }
             ]
         },
@@ -1243,12 +1557,16 @@
                 {
                     "category": "Best Dance/Electronic Recording",
                     "work": "VOLTAGE",
-                    "spotify_uri": "spotify:track:227u7P0lZxYfBH9KjT1gsf"
+                    "spotify_uri": "spotify:track:227u7P0lZxYfBH9KjT1gsf",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e568031d60a3f7266337167a",
+                    "spotify_url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
                 },
                 {
                     "category": "Best Dance/Electronic Album",
                     "work": "$F**$ U SKRILLEX...",
-                    "spotify_uri": "spotify:album:784znju28Nz5zSuRuthPcO"
+                    "spotify_uri": "spotify:album:784znju28Nz5zSuRuthPcO",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e568031d60a3f7266337167a",
+                    "spotify_url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
                 }
             ]
         },
@@ -1258,12 +1576,16 @@
                 {
                     "category": "Best Metal Performance",
                     "work": "Emergence",
-                    "spotify_uri": "spotify:track:5NRpxJxtR6JkUhQS4F0um6"
+                    "spotify_uri": "spotify:track:5NRpxJxtR6JkUhQS4F0um6",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738da7083b2e034d220a89b4be",
+                    "spotify_url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
                 },
                 {
                     "category": "Best Rock Song",
                     "work": "Caramel",
-                    "spotify_uri": "spotify:track:3AdXwuFn7j21HNiFMXvZXt"
+                    "spotify_uri": "spotify:track:3AdXwuFn7j21HNiFMXvZXt",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27327c7a5bc90883323e1fe06be",
+                    "spotify_url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
                 }
             ]
         },
@@ -1273,7 +1595,9 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:4G9NDjRyZFDlJKMRL8hx3S"
+                    "spotify_uri": "spotify:artist:4G9NDjRyZFDlJKMRL8hx3S",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
+                    "spotify_url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
                 }
             ]
         },
@@ -1283,7 +1607,9 @@
                 {
                     "category": "Best Metal Performance",
                     "work": "Soft Spine",
-                    "spotify_uri": "spotify:track:3t5GlWUzGSt2lPuiSEPBFG"
+                    "spotify_uri": "spotify:track:3t5GlWUzGSt2lPuiSEPBFG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734d0915c7f90f32a75bfbf4b5",
+                    "spotify_url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
                 }
             ]
         },
@@ -1293,12 +1619,16 @@
                 {
                     "category": "Best R&B Performance",
                     "work": "Heart Of A Woman",
-                    "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+                    "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736d53dedc947bc07676d61634",
+                    "spotify_url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
                 },
                 {
                     "category": "Best R&B Song",
                     "work": "Heart Of A Woman",
-                    "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+                    "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736d53dedc947bc07676d61634",
+                    "spotify_url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
                 }
             ]
         },
@@ -1308,27 +1638,37 @@
                 {
                     "category": "Record Of The Year",
                     "work": "luther (with Kendrick Lamar)",
-                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+                    "spotify_url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
                 },
                 {
                     "category": "Song Of The Year",
                     "work": "luther (with Kendrick Lamar)",
-                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+                    "spotify_url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
                 },
                 {
                     "category": "Best Pop Duo/Group Performance",
                     "work": "30 For 30 (with Kendrick Lamar)",
-                    "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO"
+                    "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca",
+                    "spotify_url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
                 },
                 {
                     "category": "Best Traditional R&B Performance",
                     "work": "Crybaby",
-                    "spotify_uri": "spotify:track:1g7pFO1WtclKCuIQiS8sNM"
+                    "spotify_uri": "spotify:track:1g7pFO1WtclKCuIQiS8sNM",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca",
+                    "spotify_url": "https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM"
                 },
                 {
                     "category": "Best Melodic Rap Performance",
                     "work": "luther (with Kendrick Lamar)",
-                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd"
+                    "spotify_uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+                    "spotify_url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
                 }
             ]
         },
@@ -1338,7 +1678,9 @@
                 {
                     "category": "Best Dance/Electronic Recording",
                     "work": "End Of Summer",
-                    "spotify_uri": "spotify:track:1Iw5iLfAwDvS6frI82gMoV"
+                    "spotify_uri": "spotify:track:1Iw5iLfAwDvS6frI82gMoV",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d4146e655142ac47608e6032",
+                    "spotify_url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
                 }
             ]
         },
@@ -1348,7 +1690,9 @@
                 {
                     "category": "Best Dance Pop Recording",
                     "work": "Just Keep Watching",
-                    "spotify_uri": "spotify:track:2yWlGEgEfPot0lv3OAjuG3"
+                    "spotify_uri": "spotify:track:2yWlGEgEfPot0lv3OAjuG3",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27396e4cfdd4c3aa8088685b262",
+                    "spotify_url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
                 }
             ]
         },
@@ -1358,7 +1702,9 @@
                 {
                     "category": "Best Pop Vocal Album",
                     "work": "I've Tried Everything But Therapy (Part 2)",
-                    "spotify_uri": "spotify:album:6kvSdLjli85tMwW4jlCN0o"
+                    "spotify_uri": "spotify:album:6kvSdLjli85tMwW4jlCN0o",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27370b88fc5a2e13bc5440d947c",
+                    "spotify_url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
                 }
             ]
         },
@@ -1368,12 +1714,16 @@
                 {
                     "category": "Best Progressive R&B Album",
                     "work": "Come As You Are",
-                    "spotify_uri": "spotify:album:2WA4zGU2bZdmyQ8tOrNMVJ"
+                    "spotify_uri": "spotify:album:2WA4zGU2bZdmyQ8tOrNMVJ",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273972bb252ac2ce465a5b734d4",
+                    "spotify_url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
                 },
                 {
                     "category": "Best Melodic Rap Performance",
                     "work": "WeMaj",
-                    "spotify_uri": "spotify:track:01WDhc8gxD59xkrUDqCe5t"
+                    "spotify_uri": "spotify:track:01WDhc8gxD59xkrUDqCe5t",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273972bb252ac2ce465a5b734d4",
+                    "spotify_url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
                 }
             ]
         },
@@ -1383,7 +1733,9 @@
                 {
                     "category": "Best R&B Album",
                     "work": "Escape Room",
-                    "spotify_uri": "spotify:album:7Aya7D6bm5P2iRrlnNsFQf"
+                    "spotify_uri": "spotify:album:7Aya7D6bm5P2iRrlnNsFQf",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27378d5447d860af525f56399a6",
+                    "spotify_url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
                 }
             ]
         },
@@ -1393,7 +1745,9 @@
                 {
                     "category": "Best New Artist",
                     "work": null,
-                    "spotify_uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+                    "spotify_uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+                    "spotify_image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+                    "spotify_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
                 }
             ]
         },
@@ -1403,7 +1757,9 @@
                 {
                     "category": "Best Compilation Soundtrack For Visual Media",
                     "work": "A Complete Unknown",
-                    "spotify_uri": "spotify:track:47xQwrip8UriPhFPUjSRQ7"
+                    "spotify_uri": "spotify:track:47xQwrip8UriPhFPUjSRQ7",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273debfcad0ee7706bbd601460c",
+                    "spotify_url": "https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7"
                 }
             ]
         },
@@ -1413,7 +1769,9 @@
                 {
                     "category": "Best Música Urbana Album",
                     "work": "EUB DELUXE",
-                    "spotify_uri": "spotify:album:1XCqLkq4DKi1rfcVWG5PY0"
+                    "spotify_uri": "spotify:album:1XCqLkq4DKi1rfcVWG5PY0",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f7b61ff309da53aa1d0b01e",
+                    "spotify_url": "https://open.spotify.com/album/1XCqLkq4DKi1rfcVWG5PY0"
                 }
             ]
         },
@@ -1423,27 +1781,37 @@
                 {
                     "category": "Best Rock Performance",
                     "work": "NEVER ENOUGH",
-                    "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+                    "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732ec7851c38fcc0d6c55f5b6d",
+                    "spotify_url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
                 },
                 {
                     "category": "Best Metal Performance",
                     "work": "BIRDS",
-                    "spotify_uri": "spotify:track:0k9JIBszlCqCa4SpXI353F"
+                    "spotify_uri": "spotify:track:0k9JIBszlCqCa4SpXI353F",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730415d8e544c8a6640836067e",
+                    "spotify_url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
                 },
                 {
                     "category": "Best Rock Song",
                     "work": "NEVER ENOUGH",
-                    "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+                    "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732ec7851c38fcc0d6c55f5b6d",
+                    "spotify_url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
                 },
                 {
                     "category": "Best Rock Album",
                     "work": "NEVER ENOUGH",
-                    "spotify_uri": "spotify:album:52yD51X7yDinwlg6tbCtpP"
+                    "spotify_uri": "spotify:album:52yD51X7yDinwlg6tbCtpP",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738386e4a4fb9d20e5008f4d71",
+                    "spotify_url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
                 },
                 {
                     "category": "Best Alternative Music Performance",
                     "work": "SEEIN' STARS",
-                    "spotify_uri": "spotify:track:0vbdCsYHg1by09QKOGO4PR"
+                    "spotify_uri": "spotify:track:0vbdCsYHg1by09QKOGO4PR",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730415d8e544c8a6640836067e",
+                    "spotify_url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
                 }
             ]
         },
@@ -1453,7 +1821,9 @@
                 {
                     "category": "Best African Music Performance",
                     "work": "PUSH 2 START",
-                    "spotify_uri": "spotify:track:1Cbl3Yq8rHo7hhDQmLQagU"
+                    "spotify_uri": "spotify:track:1Cbl3Yq8rHo7hhDQmLQagU",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273db2c8e2a302d5147ad7f0fa0",
+                    "spotify_url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
                 }
             ]
         },
@@ -1463,22 +1833,30 @@
                 {
                     "category": "Best Country Solo Performance",
                     "work": "Nose On The Grindstone",
-                    "spotify_uri": "spotify:track:41qeQaiSa09dPsGzgechek"
+                    "spotify_uri": "spotify:track:41qeQaiSa09dPsGzgechek",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735106d1504e52d30ba2c73155",
+                    "spotify_url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
                 },
                 {
                     "category": "Best Country Duo/Group Performance",
                     "work": "Love Me Like You Used To Do (with Margo Price)",
-                    "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+                    "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736dadc317c71112acb77250f3",
+                    "spotify_url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
                 },
                 {
                     "category": "Best Country Song",
                     "work": "Bitin' List",
-                    "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq"
+                    "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e47f3451435776271b3d43da",
+                    "spotify_url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
                 },
                 {
                     "category": "Best Contemporary Country Album",
                     "work": "Snipe Hunter",
-                    "spotify_uri": "spotify:album:00rssxYxFqqdbuO1lz1Gxa"
+                    "spotify_uri": "spotify:album:00rssxYxFqqdbuO1lz1Gxa",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e47f3451435776271b3d43da",
+                    "spotify_url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
                 }
             ]
         },
@@ -1488,27 +1866,37 @@
                 {
                     "category": "Album Of The Year",
                     "work": "CHROMAKOPIA",
-                    "spotify_uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH"
+                    "spotify_uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+                    "spotify_url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
                 },
                 {
                     "category": "Best Alternative Music Album",
                     "work": "DON'T TAP THE GLASS",
-                    "spotify_uri": "spotify:album:1jzv3jwZbt8lYfEtMjiD1R"
+                    "spotify_uri": "spotify:album:1jzv3jwZbt8lYfEtMjiD1R",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346",
+                    "spotify_url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
                 },
                 {
                     "category": "Best Rap Performance",
                     "work": "Darling, I",
-                    "spotify_uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk"
+                    "spotify_uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+                    "spotify_url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
                 },
                 {
                     "category": "Best Rap Song",
                     "work": "Sticky",
-                    "spotify_uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R"
+                    "spotify_uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+                    "spotify_url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
                 },
                 {
                     "category": "Best Rap Album",
                     "work": "CHROMAKOPIA",
-                    "spotify_uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH"
+                    "spotify_uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+                    "spotify_url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
                 }
             ]
         },
@@ -1518,7 +1906,9 @@
                 {
                     "category": "Best Traditional Country Album",
                     "work": "Oh What A Beautiful World",
-                    "spotify_uri": "spotify:album:7C2rtzfeP135vyNyzsmhfV"
+                    "spotify_uri": "spotify:album:7C2rtzfeP135vyNyzsmhfV",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27371077bf499cca865f08ddb11",
+                    "spotify_url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
                 }
             ]
         },
@@ -1528,7 +1918,9 @@
                 {
                     "category": "Best Música Urbana Album",
                     "work": "SINFÓNICO (En Vivo)",
-                    "spotify_uri": "spotify:album:6qBMMQeQLfUxEs47lK085F"
+                    "spotify_uri": "spotify:album:6qBMMQeQLfUxEs47lK085F",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27301e224946de0a6d5ff748173",
+                    "spotify_url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
                 }
             ]
         },
@@ -1538,7 +1930,9 @@
                 {
                     "category": "Best Global Music Performance",
                     "work": "Inmigrante Y Que?",
-                    "spotify_uri": "spotify:track:6nURLhNteM0qkL8opkefEk"
+                    "spotify_uri": "spotify:track:6nURLhNteM0qkL8opkefEk",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739b728298fc0c31ea467da91e",
+                    "spotify_url": "https://open.spotify.com/track/6nURLhNteM0qkL8opkefEk"
                 }
             ]
         },
@@ -1548,17 +1942,23 @@
                 {
                     "category": "Best Rock Performance",
                     "work": "Changes",
-                    "spotify_uri": "spotify:track:5yriBaBAgiRDoTVVWazMuv"
+                    "spotify_uri": "spotify:track:5yriBaBAgiRDoTVVWazMuv",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eb61baca7314789cb6b69333",
+                    "spotify_url": "https://open.spotify.com/track/5yriBaBAgiRDoTVVWazMuv"
                 },
                 {
                     "category": "Best Rock Song",
                     "work": "Zombie",
-                    "spotify_uri": "spotify:track:7DQotDUGnJkXgNJv363GXF"
+                    "spotify_uri": "spotify:track:7DQotDUGnJkXgNJv363GXF",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730de31ca011231a31662faef0",
+                    "spotify_url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
                 },
                 {
                     "category": "Best Rock Album",
                     "work": "Idols",
-                    "spotify_uri": "spotify:album:19PD2IPfceDn9fLAa05TFE"
+                    "spotify_uri": "spotify:album:19PD2IPfceDn9fLAa05TFE",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737808f0d7992027b6b10254dd",
+                    "spotify_url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
                 }
             ]
         },
@@ -1568,17 +1968,23 @@
                 {
                     "category": "Best Country Solo Performance",
                     "work": "I Never Lie",
-                    "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+                    "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eff0aba5b84f925e09f70b29",
+                    "spotify_url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
                 },
                 {
                     "category": "Best Country Song",
                     "work": "I Never Lie",
-                    "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+                    "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eff0aba5b84f925e09f70b29",
+                    "spotify_url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
                 },
                 {
                     "category": "Best Traditional Country Album",
                     "work": "Ain't In It For My Health",
-                    "spotify_uri": "spotify:album:5q893GwwooRNMeDHmPXYi7"
+                    "spotify_uri": "spotify:album:5q893GwwooRNMeDHmPXYi7",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b273cb6d32e0dc1b1f363de561e7",
+                    "spotify_url": "https://open.spotify.com/album/5q893GwwooRNMeDHmPXYi7"
                 }
             ]
         },
@@ -1588,7 +1994,9 @@
                 {
                     "category": "Best Dance Pop Recording",
                     "work": "Midnight Sun",
-                    "spotify_uri": "spotify:track:37UCSVSqiPGdR1DijOFyYY"
+                    "spotify_uri": "spotify:track:37UCSVSqiPGdR1DijOFyYY",
+                    "spotify_image": "https://i.scdn.co/image/ab67616d0000b27339905bfc6729b13ec7a7fead",
+                    "spotify_url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
                 }
             ]
         }

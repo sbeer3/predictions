@@ -12,50 +12,50 @@
             {
               "artist": "Bad Bunny",
               "work": "DtMF",
-              "search_query": "DtMF Bad Bunny",
-              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
             },
             {
               "artist": "Sabrina Carpenter",
               "work": "Manchild",
-              "search_query": "Manchild Sabrina Carpenter",
-              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b"
             },
             {
               "artist": "Doechii",
               "work": "Anxiety",
-              "search_query": "Anxiety Doechii",
-              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec"
             },
             {
               "artist": "Billie Eilish",
               "work": "WILDFLOWER",
-              "search_query": "WILDFLOWER Billie Eilish",
-              "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+              "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
             },
             {
               "artist": "Lady Gaga",
               "work": "Abracadabra",
-              "search_query": "Abracadabra Lady Gaga",
-              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9"
             },
             {
-              "artist": "Kendrick Lamar With SZA",
+              "artist": "Kendrick Lamar",
               "work": "luther",
-              "search_query": "luther Kendrick Lamar SZA",
-              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             },
             {
               "artist": "Chappell Roan",
               "work": "The Subway",
-              "search_query": "The Subway Chappell Roan",
-              "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+              "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442"
             },
             {
-              "artist": "ROSÉ, Bruno Mars",
+              "artist": "ROSÉ",
               "work": "APT.",
-              "search_query": "APT. ROSÉ Bruno Mars",
-              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197"
             }
           ]
         },
@@ -66,50 +66,50 @@
             {
               "artist": "Bad Bunny",
               "work": "DeBÍ TIRAR MÁS FOTOS",
-              "search_query": "DeBÍ TIRAR MÁS FOTOS Bad Bunny",
-              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
             },
             {
               "artist": "Justin Bieber",
               "work": "SWAG",
-              "search_query": "SWAG Justin Bieber",
-              "spotify_uri": "spotify:track:3WQ5w7ruC3c861lHXF9Gs2"
+              "spotify_uri": "spotify:track:3WQ5w7ruC3c861lHXF9Gs2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b"
             },
             {
               "artist": "Sabrina Carpenter",
               "work": "Man's Best Friend",
-              "search_query": "Man's Best Friend Sabrina Carpenter",
-              "spotify_uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9"
+              "spotify_uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947"
             },
             {
               "artist": "Clipse",
               "work": "Let God Sort Em Out",
-              "search_query": "Let God Sort Em Out Clipse",
-              "spotify_uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX"
+              "spotify_uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6"
             },
             {
               "artist": "Lady Gaga",
               "work": "MAYHEM",
-              "search_query": "MAYHEM Lady Gaga",
-              "spotify_uri": "spotify:track:2LHNTC9QZxsL3nWpt8iaSR"
+              "spotify_uri": "spotify:track:2LHNTC9QZxsL3nWpt8iaSR",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c"
             },
             {
               "artist": "Kendrick Lamar",
               "work": "GNX",
-              "search_query": "GNX Kendrick Lamar",
-              "spotify_uri": "spotify:track:3aZptNYC6Z1YoumeqZcDcQ"
+              "spotify_uri": "spotify:track:3aZptNYC6Z1YoumeqZcDcQ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             },
             {
               "artist": "Leon Thomas",
               "work": "MUTT",
-              "search_query": "MUTT Leon Thomas",
-              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27382a5b97ffaf87e21ce6fdf4a"
             },
             {
               "artist": "Tyler, The Creator",
-              "work": "CHROMAKOPIA",
-              "search_query": "CHROMAKOPIA Tyler, The Creator",
-              "spotify_uri": "spotify:track:6jbYpRPTEFl1HFKHk1IC0m"
+              "work": "CHROMΜΑΚΟΡΙΑ",
+              "spotify_uri": "spotify:track:1QoyuMHNBe7lg3YW4Qtll4",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014"
             }
           ]
         },
@@ -120,50 +120,50 @@
             {
               "artist": "Lady Gaga",
               "work": "Abracadabra",
-              "search_query": "Abracadabra Lady Gaga",
-              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9"
             },
             {
               "artist": "Doechii",
               "work": "Anxiety",
-              "search_query": "Anxiety Doechii",
-              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec"
             },
             {
-              "artist": "ROSÉ, Bruno Mars",
+              "artist": "ROSÉ",
               "work": "APT.",
-              "search_query": "APT. ROSÉ Bruno Mars",
-              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197"
             },
             {
               "artist": "Bad Bunny",
               "work": "DtMF",
-              "search_query": "DtMF Bad Bunny",
-              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
             },
             {
               "artist": "HUNTR/X",
               "work": "Golden",
-              "search_query": "Golden HUNTR/X",
-              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
             },
             {
-              "artist": "Kendrick Lamar With SZA",
+              "artist": "Kendrick Lamar",
               "work": "luther",
-              "search_query": "luther Kendrick Lamar",
-              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             },
             {
               "artist": "Sabrina Carpenter",
               "work": "Manchild",
-              "search_query": "Manchild Sabrina Carpenter",
-              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b"
             },
             {
               "artist": "Billie Eilish",
               "work": "WILDFLOWER",
-              "search_query": "WILDFLOWER Billie Eilish",
-              "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h"
+              "spotify_uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
             }
           ]
         },
@@ -173,123 +173,43 @@
           "nominees": [
             {
               "artist": "Olivia Dean",
-              "work": null,
-              "search_query": "Olivia Dean",
-              "spotify_uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX"
+              "spotify_uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e3d69e17dde129037a1f09e2"
             },
             {
               "artist": "KATSEYE",
-              "work": null,
-              "search_query": "KATSEYE",
-              "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL"
+              "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29"
             },
             {
               "artist": "The Marias",
-              "work": null,
-              "search_query": "The Marias",
-              "spotify_uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5"
+              "spotify_uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b19ac38a59cddd80da3cedcb"
             },
             {
               "artist": "Addison Rae",
-              "work": null,
-              "search_query": "Addison Rae",
-              "spotify_uri": "spotify:track:7B3BwNecBhKvNwSMOOl7Gk"
+              "spotify_uri": "spotify:track:7B3BwNecBhKvNwSMOOl7Gk",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
             },
             {
               "artist": "sombr",
-              "work": null,
-              "search_query": "sombr",
-              "spotify_uri": "spotify:track:0FTmksd2dxiE5e3rWyJXs6"
+              "spotify_uri": "spotify:track:0FTmksd2dxiE5e3rWyJXs6",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739d24f74c1e2d8a12b1e591ec"
             },
             {
               "artist": "Leon Thomas",
-              "work": null,
-              "search_query": "Leon Thomas",
-              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27382a5b97ffaf87e21ce6fdf4a"
             },
             {
               "artist": "Alex Warren",
-              "work": null,
-              "search_query": "Alex Warren",
-              "spotify_uri": "spotify:track:6qqrTXSdwiJaq8SO0X2lSe"
+              "spotify_uri": "spotify:track:6qqrTXSdwiJaq8SO0X2lSe",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fa2bcf3df669bde08b2e7d36"
             },
             {
               "artist": "Lola Young",
-              "work": null,
-              "search_query": "Lola Young",
-              "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "name": "Producer Of The Year, Non-Classical",
-          "nominees": [
-            {
-              "artist": "Dan Auerbach",
-              "work": null,
-              "search_query": "Dan Auerbach",
-              "spotify_uri": "spotify:track:6nWLyTkbR9xsmmY1jioPTV"
-            },
-            {
-              "artist": "Cirkut",
-              "work": null,
-              "search_query": "Cirkut",
-              "spotify_uri": "spotify:track:3S6QpYmrJuQsGNQTNSfnp0"
-            },
-            {
-              "artist": "Dijon",
-              "work": null,
-              "search_query": "Dijon producer",
-              "spotify_uri": "spotify:track:0pmnotebEQGqiynzxG8OKE"
-            },
-            {
-              "artist": "Blake Mills",
-              "work": null,
-              "search_query": "Blake Mills",
-              "spotify_uri": "spotify:track:0VTBsLV9fLSPX6D5K3k3L4"
-            },
-            {
-              "artist": "Sounwave",
-              "work": null,
-              "search_query": "Sounwave",
-              "spotify_uri": "spotify:track:5UHjWOJA6MDl1g3x2HC68V"
-            }
-          ]
-        },
-        {
-          "id": "6",
-          "name": "Songwriter Of The Year, Non-Classical",
-          "nominees": [
-            {
-              "artist": "Amy Allen",
-              "work": null,
-              "search_query": "Amy Allen songwriter",
-              "spotify_uri": "spotify:track:0vtMsYCRyjzWuTNggxExn6"
-            },
-            {
-              "artist": "Edgar Barrera",
-              "work": null,
-              "search_query": "Edgar Barrera",
-              "spotify_uri": "spotify:track:08fgd6DmAUq3TtEjt4WpGP"
-            },
-            {
-              "artist": "Jessie Jo Dillon",
-              "work": null,
-              "search_query": "Jessie Jo Dillon",
-              "spotify_uri": "spotify:track:2ipRCu2sIWHGY0pohwhCjx"
-            },
-            {
-              "artist": "Tobias Jesso Jr.",
-              "work": null,
-              "search_query": "Tobias Jesso Jr.",
-              "spotify_uri": "spotify:track:4LtR2SCM4T4jXxLmdmMN5t"
-            },
-            {
-              "artist": "Laura Veltz",
-              "work": null,
-              "search_query": "Laura Veltz",
-              "spotify_uri": "spotify:track:5KmXFYMJYQi5FekE3WmtEg"
+              "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a0cb974834e04f46b63b99a8"
             }
           ]
         }
@@ -305,32 +225,32 @@
             {
               "artist": "Justin Bieber",
               "work": "DAISIES",
-              "search_query": "DAISIES Justin Bieber",
-              "spotify_uri": "spotify:track:7rcbwjIaZ5jEgyFk35Bqfj"
+              "spotify_uri": "spotify:track:7rcbwjIaZ5jEgyFk35Bqfj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b2d278666b1150e827de324d"
             },
             {
               "artist": "Sabrina Carpenter",
               "work": "Manchild",
-              "search_query": "Manchild Sabrina Carpenter",
-              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1"
+              "spotify_uri": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b"
             },
             {
               "artist": "Lady Gaga",
               "work": "Disease",
-              "search_query": "Disease Lady Gaga",
-              "spotify_uri": "spotify:track:0T3Hw3kPj9T2E4UoaSXmfn"
+              "spotify_uri": "spotify:track:0T3Hw3kPj9T2E4UoaSXmfn",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c"
             },
             {
               "artist": "Chappell Roan",
               "work": "The Subway",
-              "search_query": "The Subway Chappell Roan",
-              "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq"
+              "spotify_uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442"
             },
             {
               "artist": "Lola Young",
               "work": "Messy",
-              "search_query": "Messy Lola Young",
-              "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2"
+              "spotify_uri": "spotify:track:3SKH53SPQbEnZR4cJPVaz2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a0cb974834e04f46b63b99a8"
             }
           ]
         },
@@ -339,34 +259,34 @@
           "name": "Best Pop Duo/Group Performance",
           "nominees": [
             {
-              "artist": "Cynthia Erivo & Ariana Grande",
+              "artist": "Cynthia Erivo",
               "work": "Defying Gravity",
-              "search_query": "Defying Gravity Cynthia Erivo Ariana Grande",
-              "spotify_uri": "spotify:track:5QMrH5nszZZR3nefIj6Mar"
+              "spotify_uri": "spotify:track:5QMrH5nszZZR3nefIj6Mar",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c"
             },
             {
               "artist": "HUNTR/X",
               "work": "Golden",
-              "search_query": "Golden HUNTR/X",
-              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
             },
             {
               "artist": "KATSEYE",
               "work": "Gabriela",
-              "search_query": "Gabriela KATSEYE",
-              "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL"
+              "spotify_uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29"
             },
             {
-              "artist": "ROSÉ, Bruno Mars",
+              "artist": "ROSÉ",
               "work": "APT.",
-              "search_query": "APT. ROSÉ Bruno Mars",
-              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+              "spotify_uri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197"
             },
             {
-              "artist": "SZA With Kendrick Lamar",
+              "artist": "SZA",
               "work": "30 For 30",
-              "search_query": "30 For 30 SZA Kendrick Lamar",
-              "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO"
+              "spotify_uri": "spotify:track:3aSWXU6owkZeVhh94XxEWO",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca"
             }
           ]
         },
@@ -377,32 +297,32 @@
             {
               "artist": "Justin Bieber",
               "work": "SWAG",
-              "search_query": "SWAG Justin Bieber",
-              "spotify_uri": "spotify:track:3WQ5w7ruC3c861lHXF9Gs2"
+              "spotify_uri": "spotify:track:3WQ5w7ruC3c861lHXF9Gs2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b"
             },
             {
               "artist": "Sabrina Carpenter",
               "work": "Man's Best Friend",
-              "search_query": "Man's Best Friend Sabrina Carpenter",
-              "spotify_uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9"
+              "spotify_uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947"
             },
             {
               "artist": "Miley Cyrus",
               "work": "Something Beautiful",
-              "search_query": "Something Beautiful Miley Cyrus",
-              "spotify_uri": "spotify:track:1FYXNzi1u1vAl8aUC9TcdO"
+              "spotify_uri": "spotify:track:1FYXNzi1u1vAl8aUC9TcdO",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0"
             },
             {
               "artist": "Lady Gaga",
               "work": "MAYHEM",
-              "search_query": "MAYHEM Lady Gaga",
-              "spotify_uri": "spotify:track:2LHNTC9QZxsL3nWpt8iaSR"
+              "spotify_uri": "spotify:track:2LHNTC9QZxsL3nWpt8iaSR",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c"
             },
             {
               "artist": "Teddy Swims",
-              "work": "I've Tried Everything But Therapy (Part 2)",
-              "search_query": "I've Tried Everything But Therapy Teddy Swims",
-              "spotify_uri": "spotify:track:17phhZDn6oGtzMe56NuWvj"
+              "work": "I've Tried Everything But Therapy",
+              "spotify_uri": "spotify:track:17phhZDn6oGtzMe56NuWvj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace"
             }
           ]
         },
@@ -411,34 +331,34 @@
           "name": "Best Dance/Electronic Recording",
           "nominees": [
             {
-              "artist": "Disclosure & Anderson .Paak",
+              "artist": "Disclosure",
               "work": "No Cap",
-              "search_query": "No Cap Disclosure Anderson .Paak",
-              "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW"
+              "spotify_uri": "spotify:track:6zaeVCwnf3A9S8R7QfDHQW",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bcbe8fff3377b76ac16e9aad"
             },
             {
               "artist": "Fred again..",
               "work": "Victory Lap",
-              "search_query": "Victory Lap Fred again..",
-              "spotify_uri": "spotify:track:1lbNgoJ5iMrMluCyhI4OQP"
+              "spotify_uri": "spotify:track:1lbNgoJ5iMrMluCyhI4OQP",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ed96e511d87235ac3e767382"
             },
             {
               "artist": "KAYTRANADA",
               "work": "SPACE INVADER",
-              "search_query": "SPACE INVADER KAYTRANADA",
-              "spotify_uri": "spotify:track:3fPW4EhpRR6BwLRPDThNeg"
+              "spotify_uri": "spotify:track:3fPW4EhpRR6BwLRPDThNeg",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273944186fbec275a8a38690baf"
             },
             {
               "artist": "Skrillex",
               "work": "VOLTAGE",
-              "search_query": "VOLTAGE Skrillex",
-              "spotify_uri": "spotify:track:227u7P0lZxYfBH9KjT1gsf"
+              "spotify_uri": "spotify:track:227u7P0lZxYfBH9KjT1gsf",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e568031d60a3f7266337167a"
             },
             {
               "artist": "Tame Impala",
               "work": "End Of Summer",
-              "search_query": "End Of Summer Tame Impala",
-              "spotify_uri": "spotify:track:1Iw5iLfAwDvS6frI82gMoV"
+              "spotify_uri": "spotify:track:1Iw5iLfAwDvS6frI82gMoV",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d4146e655142ac47608e6032"
             }
           ]
         },
@@ -447,34 +367,34 @@
           "name": "Best Dance Pop Recording",
           "nominees": [
             {
-              "artist": "Selena Gomez & benny blanco",
+              "artist": "Selena Gomez",
               "work": "Bluest Flame",
-              "search_query": "Bluest Flame Selena Gomez",
-              "spotify_uri": "spotify:track:6vuVCtwukUA57ioTnKKeuL"
+              "spotify_uri": "spotify:track:41goAg1ZxePWjXXfZ7PhG7",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735c99217c0a33291dcd4e0242"
             },
             {
               "artist": "Lady Gaga",
               "work": "Abracadabra",
-              "search_query": "Abracadabra Lady Gaga",
-              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI"
+              "spotify_uri": "spotify:track:5ZLUm9eab8y3tqQ1OhQSHI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9"
             },
             {
               "artist": "Zara Larsson",
               "work": "Midnight Sun",
-              "search_query": "Midnight Sun Zara Larsson",
-              "spotify_uri": "spotify:track:37UCSVSqiPGdR1DijOFyYY"
+              "spotify_uri": "spotify:track:37UCSVSqiPGdR1DijOFyYY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27339905bfc6729b13ec7a7fead"
             },
             {
               "artist": "Tate McRae",
               "work": "Just Keep Watching",
-              "search_query": "Just Keep Watching Tate McRae",
-              "spotify_uri": "spotify:track:2yWlGEgEfPot0lv3OAjuG3"
+              "spotify_uri": "spotify:track:2yWlGEgEfPot0lv3OAjuG3",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27396e4cfdd4c3aa8088685b262"
             },
             {
-              "artist": "Pink Pantheress",
+              "artist": "PinkPantheress",
               "work": "Illegal",
-              "search_query": "Illegal Pink Pantheress",
-              "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+              "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e"
             }
           ]
         },
@@ -485,32 +405,32 @@
             {
               "artist": "FKA twigs",
               "work": "EUSEXUA",
-              "search_query": "EUSEXUA FKA twigs",
-              "spotify_uri": "spotify:track:6TeKbncyK62smlAvPy1dNa"
+              "spotify_uri": "spotify:track:6TeKbncyK62smlAvPy1dNa",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273755b26e3af91368d71a150ab"
             },
             {
               "artist": "Fred again..",
               "work": "Ten Days",
-              "search_query": "Ten Days Fred again..",
-              "spotify_uri": "spotify:track:6twB0uYXJYW9t5GHfYaQ3i"
+              "spotify_uri": "spotify:track:6twB0uYXJYW9t5GHfYaQ3i",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736b8a4828e057b7dc1c4a4d39"
             },
             {
               "artist": "PinkPantheress",
               "work": "Fancy That",
-              "search_query": "Fancy That PinkPantheress",
-              "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+              "spotify_uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e"
             },
             {
               "artist": "RÜFÜS DU SOL",
               "work": "Inhale/Exhale",
-              "search_query": "Inhale/Exhale RÜFÜS DU SOL",
-              "spotify_uri": "spotify:track:3JGvqlIZr8pvabWHmZwPsU"
+              "spotify_uri": "spotify:track:3JGvqlIZr8pvabWHmZwPsU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27343a5d9ed0a6fd39af3e7f917"
             },
             {
               "artist": "Skrillex",
-              "work": "$F**$ U SKRILLEX...",
-              "search_query": "SKRILLEX YOU THINK UR ANDY WARHOL",
-              "spotify_uri": "spotify:track:3KVNGp2Qf1Y5eI2cAq5YHA"
+              "work": "SKRILLEX",
+              "spotify_uri": "spotify:track:1t2WHyU3nogcZ8tuJpbTBI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731dce27b9a09cb7445f7cf414"
             }
           ]
         },
@@ -520,40 +440,40 @@
           "nominees": [
             {
               "artist": "Gesaffelstein",
-              "work": "Abracadabra (Remix)",
-              "search_query": "Abracadabra Gesaffelstein Remix",
-              "spotify_uri": "spotify:track:17sOAutZqK3xM5O6Cc2pMj"
+              "work": "Abracadabra Remix",
+              "spotify_uri": "spotify:track:17sOAutZqK3xM5O6Cc2pMj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d2eac78fe700b81886caacc6"
             },
             {
               "artist": "KAYTRANADA",
-              "work": "Don't Forget About Us (Remix)",
-              "search_query": "Don't Forget About Us KAYTRANADA",
-              "spotify_uri": "spotify:track:1NmC7qGL2jdqtFXzrrH3ui"
+              "work": "Don't Forget About Us",
+              "spotify_uri": "spotify:track:1NmC7qGL2jdqtFXzrrH3ui",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273698b7c4f172361a7cf1b4dbf"
             },
             {
               "artist": "Ron Trent",
-              "work": "A Dreams A Dream (Remix)",
-              "search_query": "A Dreams A Dream Ron Trent",
-              "spotify_uri": "spotify:track:7mecqGkZOsu6XKvvZftOkn"
+              "work": "A Dreams A Dream",
+              "spotify_uri": "spotify:track:7mecqGkZOsu6XKvvZftOkn",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c6f88a0cf4e4beff189bd50d"
             },
             {
               "artist": "Chris Lake",
-              "work": "Galvanize (Remix)",
-              "search_query": "Galvanize Chris Lake",
-              "spotify_uri": "spotify:track:7Ki6lQlcAW565EsHfP8U7S"
+              "work": "Galvanize",
+              "spotify_uri": "spotify:track:7Ki6lQlcAW565EsHfP8U7S",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733e20caed83591ec532dcea8c"
             },
             {
               "artist": "David Guetta",
-              "work": "Golden (Remix)",
-              "search_query": "Golden David Guetta REM/X",
-              "spotify_uri": "spotify:track:5tVnzVWIKrmmuOPGbXUbT4"
+              "work": "Golden REM/X",
+              "spotify_uri": "spotify:track:1wC7MYycfqqyMqPBINWCaI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731cf7cd782eb7dc75a8d181fc"
             }
           ]
         }
       ]
     },
     {
-      "field_name": "Rock, Metal & Alternative",
+      "field_name": "Rock, Metal & Alternative Music",
       "categories": [
         {
           "id": "14",
@@ -562,32 +482,32 @@
             {
               "artist": "Amyl and The Sniffers",
               "work": "U Should Not Be Doing That",
-              "search_query": "U Should Not Be Doing That Amyl and The Sniffers",
-              "spotify_uri": "spotify:track:6zfVBdPDopmP36NeHd4O2m"
+              "spotify_uri": "spotify:track:6zfVBdPDopmP36NeHd4O2m",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27378edb934facb5c46ed42efea"
             },
             {
               "artist": "Linkin Park",
               "work": "The Emptiness Machine",
-              "search_query": "The Emptiness Machine Linkin Park",
-              "spotify_uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A"
+              "spotify_uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917"
             },
             {
               "artist": "Turnstile",
               "work": "NEVER ENOUGH",
-              "search_query": "NEVER ENOUGH Turnstile",
-              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732ec7851c38fcc0d6c55f5b6d"
             },
             {
               "artist": "Hayley Williams",
               "work": "Mirtazapine",
-              "search_query": "Mirtazapine Hayley Williams",
-              "spotify_uri": "spotify:track:2FFXU4b8sIsiLiTo6EWO19"
+              "spotify_uri": "spotify:track:2FFXU4b8sIsiLiTo6EWO19",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af"
             },
             {
               "artist": "YUNGBLUD",
               "work": "Changes",
-              "search_query": "Changes YUNGBLUD",
-              "spotify_uri": "spotify:track:5yriBaBAgiRDoTVVWazMuv"
+              "spotify_uri": "spotify:track:5yriBaBAgiRDoTVVWazMuv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eb61baca7314789cb6b69333"
             }
           ]
         },
@@ -598,32 +518,32 @@
             {
               "artist": "Dream Theater",
               "work": "Night Terror",
-              "search_query": "Night Terror Dream Theater",
-              "spotify_uri": "spotify:track:2eEY3SOjaDoZmx6mC2QTLU"
+              "spotify_uri": "spotify:track:2eEY3SOjaDoZmx6mC2QTLU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731ba3cfbc1cabb6f3211744a3"
             },
             {
               "artist": "Ghost",
               "work": "Lachryma",
-              "search_query": "Lachryma Ghost",
-              "spotify_uri": "spotify:track:0hw2CGX8jaIpS4jGDn3dfa"
+              "spotify_uri": "spotify:track:0hw2CGX8jaIpS4jGDn3dfa",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733562af0c69b2b06295f02ff9"
             },
             {
               "artist": "Sleep Token",
               "work": "Emergence",
-              "search_query": "Emergence Sleep Token",
-              "spotify_uri": "spotify:track:5NRpxJxtR6JkUhQS4F0um6"
+              "spotify_uri": "spotify:track:5NRpxJxtR6JkUhQS4F0um6",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738da7083b2e034d220a89b4be"
             },
             {
               "artist": "Spiritbox",
               "work": "Soft Spine",
-              "search_query": "Soft Spine Spiritbox",
-              "spotify_uri": "spotify:track:3t5GlWUzGSt2lPuiSEPBFG"
+              "spotify_uri": "spotify:track:3t5GlWUzGSt2lPuiSEPBFG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734d0915c7f90f32a75bfbf4b5"
             },
             {
               "artist": "Turnstile",
               "work": "BIRDS",
-              "search_query": "BIRDS Turnstile",
-              "spotify_uri": "spotify:track:0k9JIBszlCqCa4SpXI353F"
+              "spotify_uri": "spotify:track:0k9JIBszlCqCa4SpXI353F",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730415d8e544c8a6640836067e"
             }
           ]
         },
@@ -634,32 +554,32 @@
             {
               "artist": "Nine Inch Nails",
               "work": "As Alive As You Need Me To Be",
-              "search_query": "As Alive As You Need Me To Be Nine Inch Nails",
-              "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z"
+              "spotify_uri": "spotify:track:1xsEHo7mtGZLEG94vFX11z",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317ff2581a6b924fb3a704395"
             },
             {
               "artist": "Sleep Token",
               "work": "Caramel",
-              "search_query": "Caramel Sleep Token",
-              "spotify_uri": "spotify:track:3AdXwuFn7j21HNiFMXvZXt"
+              "spotify_uri": "spotify:track:3AdXwuFn7j21HNiFMXvZXt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27327c7a5bc90883323e1fe06be"
             },
             {
               "artist": "Hayley Williams",
               "work": "Glum",
-              "search_query": "Glum Hayley Williams",
-              "spotify_uri": "spotify:track:0kpB9iZJ9eMPQiMU9W6ouD"
+              "spotify_uri": "spotify:track:0kpB9iZJ9eMPQiMU9W6ouD",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ea8cb190d031939d1e430926"
             },
             {
               "artist": "Turnstile",
               "work": "NEVER ENOUGH",
-              "search_query": "NEVER ENOUGH Turnstile",
-              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732ec7851c38fcc0d6c55f5b6d"
             },
             {
               "artist": "YUNGBLUD",
               "work": "Zombie",
-              "search_query": "Zombie YUNGBLUD",
-              "spotify_uri": "spotify:track:7DQotDUGnJkXgNJv363GXF"
+              "spotify_uri": "spotify:track:7DQotDUGnJkXgNJv363GXF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730de31ca011231a31662faef0"
             }
           ]
         },
@@ -670,32 +590,32 @@
             {
               "artist": "Deftones",
               "work": "private music",
-              "search_query": "private music Deftones",
-              "spotify_uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM"
+              "spotify_uri": "spotify:track:3txlvthoUa9vWvG1zr2Lnr",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317e4d3ab44b89f1b62dcc2d6"
             },
             {
               "artist": "HAIM",
               "work": "I quit",
-              "search_query": "I quit HAIM",
-              "spotify_uri": "spotify:track:1FlDLGaTsr9HH1zfJiq6is"
+              "spotify_uri": "spotify:track:1FlDLGaTsr9HH1zfJiq6is",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f0ba5a9b7d72e7af4f659fcd"
             },
             {
               "artist": "Linkin Park",
               "work": "From Zero",
-              "search_query": "From Zero Linkin Park",
-              "spotify_uri": "spotify:track:5IL3VPDy5siXiptYHF2aLS"
+              "spotify_uri": "spotify:track:1r8qywTSOGQvFxQnzcyiBj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b829b621e43a1f5b72cc4388"
             },
             {
               "artist": "Turnstile",
               "work": "NEVER ENOUGH",
-              "search_query": "NEVER ENOUGH Turnstile",
-              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH"
+              "spotify_uri": "spotify:track:6ONyZXRIEiZWWnAA1F5YvH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732ec7851c38fcc0d6c55f5b6d"
             },
             {
               "artist": "YUNGBLUD",
               "work": "Idols",
-              "search_query": "Idols YUNGBLUD",
-              "spotify_uri": "spotify:track:0R90EAdBEEwe1t9TsicWPo"
+              "spotify_uri": "spotify:track:42GKyvz5KBsHTBaLpo3cqJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737808f0d7992027b6b10254dd"
             }
           ]
         },
@@ -706,32 +626,32 @@
             {
               "artist": "Bon Iver",
               "work": "Everything Is Peaceful Love",
-              "search_query": "Everything Is Peaceful Love Bon Iver",
-              "spotify_uri": "spotify:track:4XosapYiYaXGcxc83p3DD9"
+              "spotify_uri": "spotify:track:4XosapYiYaXGcxc83p3DD9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb"
             },
             {
               "artist": "The Cure",
               "work": "Alone",
-              "search_query": "Alone The Cure",
-              "spotify_uri": "spotify:track:7zHhP0CHO4cONkImJ0Oau6"
+              "spotify_uri": "spotify:track:7zHhP0CHO4cONkImJ0Oau6",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27364fb9b5e16aff35fdc573054"
             },
             {
               "artist": "Turnstile",
               "work": "SEEIN' STARS",
-              "search_query": "SEEIN' STARS Turnstile",
-              "spotify_uri": "spotify:track:0vbdCsYHg1by09QKOGO4PR"
+              "spotify_uri": "spotify:track:0vbdCsYHg1by09QKOGO4PR",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730415d8e544c8a6640836067e"
             },
             {
               "artist": "Wet Leg",
               "work": "mangetout",
-              "search_query": "mangetout Wet Leg",
-              "spotify_uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT"
+              "spotify_uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732f9e981ef2f67e481a6bac03"
             },
             {
               "artist": "Hayley Williams",
               "work": "Parachute",
-              "search_query": "Parachute Hayley Williams",
-              "spotify_uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J"
+              "spotify_uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af"
             }
           ]
         },
@@ -742,39 +662,39 @@
             {
               "artist": "Bon Iver",
               "work": "SABLE, FABLE",
-              "search_query": "SABLE FABLE Bon Iver",
-              "spotify_uri": "spotify:track:4FeYX8QKpNA1Nof6XLsMnv"
+              "spotify_uri": "spotify:track:4FeYX8QKpNA1Nof6XLsMnv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb"
             },
             {
               "artist": "The Cure",
               "work": "Songs Of A Lost World",
-              "search_query": "Songs Of A Lost World The Cure",
-              "spotify_uri": "spotify:track:4i5a73hGNtTXXmxEUW2esC"
+              "spotify_uri": "spotify:track:4i5a73hGNtTXXmxEUW2esC",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738613a922e2b503736fb2f91f"
             },
             {
               "artist": "Tyler, The Creator",
               "work": "DON'T TAP THE GLASS",
-              "search_query": "DON'T TAP THE GLASS Tyler The Creator",
-              "spotify_uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj"
+              "spotify_uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346"
             },
             {
               "artist": "Wet Leg",
               "work": "moisturizer",
-              "search_query": "moisturizer Wet Leg",
-              "spotify_uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT"
+              "spotify_uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732f9e981ef2f67e481a6bac03"
             },
             {
               "artist": "Hayley Williams",
               "work": "Ego Death At A Bachelorette Party",
-              "search_query": "Ego Death At A Bachelorette Party Hayley Williams",
-              "spotify_uri": "spotify:track:2SXqiLAwgmCpyrftaz1YgW"
+              "spotify_uri": "spotify:track:2SXqiLAwgmCpyrftaz1YgW",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af"
             }
           ]
         }
       ]
     },
     {
-      "field_name": "R&B, Rap & Spoken Word",
+      "field_name": "R&B, Rap & Spoken Word Poetry",
       "categories": [
         {
           "id": "20",
@@ -783,32 +703,32 @@
             {
               "artist": "Justin Bieber",
               "work": "YUKON",
-              "search_query": "YUKON Justin Bieber",
-              "spotify_uri": "spotify:track:29iva9idM6rFCPUlu7Rhxl"
+              "spotify_uri": "spotify:track:29iva9idM6rFCPUlu7Rhxl",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b"
             },
             {
               "artist": "Chris Brown",
               "work": "It Depends",
-              "search_query": "It Depends Chris Brown",
-              "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+              "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f3e9b76bb402edc64b2ed6b"
             },
             {
               "artist": "Kehlani",
               "work": "Folded",
-              "search_query": "Folded Kehlani",
-              "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+              "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141"
             },
             {
               "artist": "Leon Thomas",
-              "work": "MUTT (Live)",
-              "search_query": "MUTT Leon Thomas",
-              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+              "work": "MUTT",
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27382a5b97ffaf87e21ce6fdf4a"
             },
             {
               "artist": "Summer Walker",
               "work": "Heart Of A Woman",
-              "search_query": "Heart Of A Woman Summer Walker",
-              "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+              "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736d53dedc947bc07676d61634"
             }
           ]
         },
@@ -819,32 +739,32 @@
             {
               "artist": "Durand Bernarr",
               "work": "Here We Are",
-              "search_query": "Here We Are Durand Bernarr",
-              "spotify_uri": "spotify:track:4w1QUiGOc6tz31SYoqQkRf"
+              "spotify_uri": "spotify:track:4w1QUiGOc6tz31SYoqQkRf",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f"
             },
             {
               "artist": "Lalah Hathaway",
               "work": "UPTOWN",
-              "search_query": "UPTOWN Lalah Hathaway",
-              "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb"
+              "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736037f814fed6a4e88427d27a"
             },
             {
               "artist": "Ledisi",
               "work": "LOVE YOU TOO",
-              "search_query": "LOVE YOU TOO Ledisi",
-              "spotify_uri": "spotify:track:6EjPDxrSXu2RcNctj6n0r1"
+              "spotify_uri": "spotify:track:6EjPDxrSXu2RcNctj6n0r1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273435101cf49d2ac19b3c1fa81"
             },
             {
               "artist": "SZA",
               "work": "Crybaby",
-              "search_query": "Crybaby SZA",
-              "spotify_uri": "spotify:track:1g7pFO1WtclKCuIQiS8sNM"
+              "spotify_uri": "spotify:track:1g7pFO1WtclKCuIQiS8sNM",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca"
             },
             {
               "artist": "Leon Thomas",
               "work": "VIBES DON'T LIE",
-              "search_query": "VIBES DON'T LIE Leon Thomas",
-              "spotify_uri": "spotify:track:1WwrfoGe0K33z1tVI6mevJ"
+              "spotify_uri": "spotify:track:1WwrfoGe0K33z1tVI6mevJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814"
             }
           ]
         },
@@ -855,32 +775,32 @@
             {
               "artist": "Kehlani",
               "work": "Folded",
-              "search_query": "Folded Kehlani",
-              "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA"
+              "spotify_uri": "spotify:track:0bxPRWprUVpQK0UFcddkrA",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141"
             },
             {
               "artist": "Summer Walker",
               "work": "Heart Of A Woman",
-              "search_query": "Heart Of A Woman Summer Walker",
-              "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z"
+              "spotify_uri": "spotify:track:2oVVaVY0LkzwAYYcyzon6Z",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736d53dedc947bc07676d61634"
             },
             {
               "artist": "Chris Brown",
               "work": "It Depends",
-              "search_query": "It Depends Chris Brown",
-              "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH"
+              "spotify_uri": "spotify:track:0t3pcqgBjuAVBgY2oEUIlH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f3e9b76bb402edc64b2ed6b"
             },
             {
               "artist": "Durand Bernarr",
               "work": "Overqualified",
-              "search_query": "Overqualified Durand Bernarr",
-              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp"
+              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f"
             },
             {
               "artist": "Leon Thomas",
               "work": "YES IT IS",
-              "search_query": "YES IT IS Leon Thomas",
-              "spotify_uri": "spotify:track:2iksjpqL3eraxCBKqNHuqd"
+              "spotify_uri": "spotify:track:2iksjpqL3eraxCBKqNHuqd",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814"
             }
           ]
         },
@@ -891,32 +811,32 @@
             {
               "artist": "Durand Bernarr",
               "work": "BLOOM",
-              "search_query": "BLOOM Durand Bernarr",
-              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp"
+              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f"
             },
             {
               "artist": "Bilal",
               "work": "Adjust Brightness",
-              "search_query": "Adjust Brightness Bilal",
-              "spotify_uri": "spotify:track:5MUM2tJMXetWXktLcXA7ze"
+              "spotify_uri": "spotify:track:5MUM2tJMXetWXktLcXA7ze",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735a37934a2ca4a88769a89dfc"
             },
             {
               "artist": "Destin Conrad",
               "work": "LOVE ON DIGITAL",
-              "search_query": "LOVE ON DIGITAL Destin Conrad",
-              "spotify_uri": "spotify:track:6sJR82bgpwFPjzB1DHzGw8"
+              "spotify_uri": "spotify:track:6sJR82bgpwFPjzB1DHzGw8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738e3c1b54fdbb67aee135dda9"
             },
             {
               "artist": "FLO",
               "work": "Access All Areas",
-              "search_query": "Access All Areas FLO",
-              "spotify_uri": "spotify:track:49uWjZ0INI41gLJVi8DxIf"
+              "spotify_uri": "spotify:track:49uWjZ0INI41gLJVi8DxIf",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e75c9471fd68f29812e89f68"
             },
             {
-              "artist": "Terrace Martin & Kenyon Dixon",
+              "artist": "Terrace Martin",
               "work": "Come As You Are",
-              "search_query": "Come As You Are Terrace Martin",
-              "spotify_uri": "spotify:track:6pNrdoEgWVcHvKxrsvHMKL"
+              "spotify_uri": "spotify:track:6pNrdoEgWVcHvKxrsvHMKL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273972bb252ac2ce465a5b734d4"
             }
           ]
         },
@@ -927,32 +847,32 @@
             {
               "artist": "GIVEON",
               "work": "BELOVED",
-              "search_query": "BELOVED GIVEON",
-              "spotify_uri": "spotify:track:3HYUSkSJ0iQfocqdJmJqKw"
+              "spotify_uri": "spotify:track:3HYUSkSJ0iQfocqdJmJqKw",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f949fecf209f5e20900c126d"
             },
             {
               "artist": "Coco Jones",
               "work": "Why Not More?",
-              "search_query": "Why Not More Coco Jones",
-              "spotify_uri": "spotify:track:5ShqaLCQm38x3Y1K4kQDqm"
+              "spotify_uri": "spotify:track:5ShqaLCQm38x3Y1K4kQDqm",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b9dadd36596f8c0ab57e29f6"
             },
             {
               "artist": "Ledisi",
               "work": "The Crown",
-              "search_query": "The Crown Ledisi",
-              "spotify_uri": "spotify:track:5WMcZ8QtBCVMfM1DSqxxdE"
+              "spotify_uri": "spotify:track:4ci0wq2PIsAayCmUFd4XAb",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736037f814fed6a4e88427d27a"
             },
             {
               "artist": "Teyana Taylor",
               "work": "Escape Room",
-              "search_query": "Escape Room Teyana Taylor",
-              "spotify_uri": "spotify:track:6ykfyiNkupYNQqcgym28Ak"
+              "spotify_uri": "spotify:track:6ykfyiNkupYNQqcgym28Ak",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27378d5447d860af525f56399a6"
             },
             {
               "artist": "Leon Thomas",
               "work": "MUTT",
-              "search_query": "MUTT Leon Thomas",
-              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1"
+              "spotify_uri": "spotify:track:1mh9eHVRdNhzryG43PXdW1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27382a5b97ffaf87e21ce6fdf4a"
             }
           ]
         },
@@ -963,32 +883,32 @@
             {
               "artist": "Cardi B",
               "work": "Outside",
-              "search_query": "Outside Cardi B",
-              "spotify_uri": "spotify:track:139nLHDFZNr3anx8CpUy7u"
+              "spotify_uri": "spotify:track:139nLHDFZNr3anx8CpUy7u",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732dd15638161a3bf8f7053f11"
             },
             {
-              "artist": "Clipse, Pusha T & Malice",
+              "artist": "Clipse",
               "work": "Chains & Whips",
-              "search_query": "Chains & Whips Clipse",
-              "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM"
+              "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6"
             },
             {
               "artist": "Doechii",
               "work": "Anxiety",
-              "search_query": "Anxiety Doechii",
-              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec"
             },
             {
               "artist": "Kendrick Lamar",
               "work": "tv off",
-              "search_query": "tv off Kendrick Lamar",
-              "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+              "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             },
             {
               "artist": "Tyler, The Creator",
               "work": "Darling, I",
-              "search_query": "Darling, I Tyler The Creator",
-              "spotify_uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk"
+              "spotify_uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014"
             }
           ]
         },
@@ -999,32 +919,32 @@
             {
               "artist": "Fridayy",
               "work": "Proud Of Me",
-              "search_query": "Proud Of Me Fridayy",
-              "spotify_uri": "spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ"
+              "spotify_uri": "spotify:track:1ZEIchL5Gy4g5DYQaqEbzQ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735449ff653721a7ad630ec0da"
             },
             {
               "artist": "JID",
               "work": "Wholeheartedly",
-              "search_query": "Wholeheartedly JID",
-              "spotify_uri": "spotify:track:314sW8ZsMHGiYkn2fAOW9e"
+              "spotify_uri": "spotify:track:314sW8ZsMHGiYkn2fAOW9e",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e"
             },
             {
-              "artist": "Kendrick Lamar With SZA",
+              "artist": "Kendrick Lamar",
               "work": "luther",
-              "search_query": "luther Kendrick Lamar SZA",
-              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+              "spotify_uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             },
             {
               "artist": "Terrace Martin",
               "work": "WeMaj",
-              "search_query": "WeMaj Terrace Martin",
-              "spotify_uri": "spotify:track:01WDhc8gxD59xkrUDqCe5t"
+              "spotify_uri": "spotify:track:01WDhc8gxD59xkrUDqCe5t",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273972bb252ac2ce465a5b734d4"
             },
             {
-              "artist": "PARTYNEXTDOOR & Drake",
+              "artist": "PARTYNEXTDOOR",
               "work": "SOMEBODY LOVES ME",
-              "search_query": "SOMEBODY LOVES ME PARTYNEXTDOOR",
-              "spotify_uri": "spotify:track:2kZoOj1n5vk9BuF0sih58M"
+              "spotify_uri": "spotify:track:2kZoOj1n5vk9BuF0sih58M",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59"
             }
           ]
         },
@@ -1035,32 +955,32 @@
             {
               "artist": "Doechii",
               "work": "Anxiety",
-              "search_query": "Anxiety Doechii",
-              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9"
+              "spotify_uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733de7e97b3e5aa3eaccfc19ec"
             },
             {
               "artist": "Clipse",
               "work": "The Birds Don't Sing",
-              "search_query": "The Birds Don't Sing Clipse",
-              "spotify_uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG"
+              "spotify_uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6"
             },
             {
               "artist": "Tyler, The Creator",
               "work": "Sticky",
-              "search_query": "Sticky Tyler The Creator",
-              "spotify_uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R"
+              "spotify_uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014"
             },
             {
               "artist": "GloRilla",
               "work": "TGIF",
-              "search_query": "TGIF GloRilla",
-              "spotify_uri": "spotify:track:2hKYtHbwYOSjvYQhVdUpdQ"
+              "spotify_uri": "spotify:track:2hKYtHbwYOSjvYQhVdUpdQ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1c775aabd9f3ff0c4ed0b63"
             },
             {
               "artist": "Kendrick Lamar",
               "work": "tv off",
-              "search_query": "tv off Kendrick Lamar",
-              "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG"
+              "spotify_uri": "spotify:track:0aB0v4027ukVziUGwVGYpG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             }
           ]
         },
@@ -1071,32 +991,409 @@
             {
               "artist": "Clipse",
               "work": "Let God Sort Em Out",
-              "search_query": "Let God Sort Em Out Clipse",
-              "spotify_uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX"
+              "spotify_uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6"
             },
             {
               "artist": "GloRilla",
               "work": "GLORIOUS",
-              "search_query": "GLORIOUS GloRilla",
-              "spotify_uri": "spotify:track:5xeSd4HgzrYpNLEf3LfYLK"
+              "spotify_uri": "spotify:track:3znSvEwBq09We4cxxmwlZM",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6"
             },
             {
               "artist": "JID",
               "work": "God Does Like Ugly",
-              "search_query": "God Does Like Ugly JID",
-              "spotify_uri": "spotify:track:2m2AbCpeWgms32FdLfBBdk"
+              "spotify_uri": "spotify:track:2m2AbCpeWgms32FdLfBBdk",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e"
             },
             {
               "artist": "Kendrick Lamar",
               "work": "GNX",
-              "search_query": "GNX Kendrick Lamar",
-              "spotify_uri": "spotify:track:3aZptNYC6Z1YoumeqZcDcQ"
+              "spotify_uri": "spotify:track:3aZptNYC6Z1YoumeqZcDcQ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
             },
             {
               "artist": "Tyler, The Creator",
-              "work": "CHROMAKOPIA",
-              "search_query": "CHROMAKOPIA Tyler The Creator",
-              "spotify_uri": "spotify:track:6jbYpRPTEFl1HFKHk1IC0m"
+              "work": "CHROΜΑΚΟΡΙΑ",
+              "spotify_uri": "spotify:track:1QoyuMHNBe7lg3YW4Qtll4",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "name": "Best Spoken Word Poetry Album",
+          "nominees": [
+            {
+              "artist": "Queen Sheba",
+              "work": "A Hurricane in Heels",
+              "spotify_uri": "spotify:track:1hkBbqLkPF5uPx4eP6c8qS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273739d9f193a3f6e60e43a2cf1"
+            },
+            {
+              "artist": "Marc Marcel",
+              "work": "Black Shaman",
+              "spotify_uri": "spotify:track:3XSfSY8HQj0AvFEvPLNB9z",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27309d5360d318d6b24a24522e3"
+            },
+            {
+              "artist": "Omari Hardwick",
+              "work": "Pages",
+              "spotify_uri": "spotify:track:6LY5rEIlVzmu7OrJU8BGFs",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737dd43f1d1862f2ec1910d6fb"
+            },
+            {
+              "artist": "Saul Williams",
+              "work": "Saul Williams meets Carlos Niño",
+              "spotify_uri": "spotify:track:4e4PF6ydIOI1hzYTtQF76Q",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d35388b2a22c338c9f51bb70"
+            },
+            {
+              "artist": "Mad Skillz",
+              "work": "Words For Days",
+              "spotify_uri": "spotify:track:3gBLakdx3UEG6EsZvesYPP",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27348aa0aa36a4fb3c6ce947636"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Jazz & Musical Theater",
+      "categories": [
+        {
+          "id": "30",
+          "name": "Best Jazz Performance",
+          "nominees": [
+            {
+              "artist": "Lakecia Benjamin",
+              "work": "Noble Rise",
+              "spotify_uri": "spotify:track:7kOnH2ED3kRizKBCEhvLq1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273019d5d4d6293458b16a04aee"
+            },
+            {
+              "artist": "Chick Corea",
+              "work": "Windows",
+              "spotify_uri": "spotify:track:0f6Fb3g0DRpCIbhljotYwO",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273164e2d6f045dbf3118174a2f"
+            },
+            {
+              "artist": "Samara Joy",
+              "work": "Peace Of Mind",
+              "spotify_uri": "spotify:track:4vqcg0387QObN1RQYdFiig",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732dd54d331a2f25be00e87920"
+            },
+            {
+              "artist": "Michael Mayo",
+              "work": "Four",
+              "spotify_uri": "spotify:track:4lRAemYqmqH4B5sMWmeRpg",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735aa52c110f17551ab66c3d2b"
+            },
+            {
+              "artist": "Nicole Zuraitis",
+              "work": "All Stars Lead To You",
+              "spotify_uri": "spotify:track:6qcCYdYuvpx1yznRKbnB8x",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731919cfba2bf6d67590b1532e"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "name": "Best Jazz Vocal Album",
+          "nominees": [
+            {
+              "artist": "Dee Dee Bridgewater",
+              "work": "Elemental",
+              "spotify_uri": "spotify:track:5n8BrXcUatfQ6KRogwLx66",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732a325ee89a6067dad6cb6928"
+            },
+            {
+              "artist": "Terri Lyne Carrington",
+              "work": "We Insist 2025!",
+              "spotify_uri": "spotify:track:5KpCKUZAtQ47udFS7iL2GG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734164b72284ac1386b0c9a49d"
+            },
+            {
+              "artist": "Samara Joy",
+              "work": "Portrait",
+              "spotify_uri": "spotify:track:3DuhJLZhVHh00kZ3UcR02c",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732dd54d331a2f25be00e87920"
+            },
+            {
+              "artist": "Michael Mayo",
+              "work": "Fly",
+              "spotify_uri": "spotify:track:2hTRFIb8fFCAyiDsuk88Da",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273636688536fdadbf58c806e9a"
+            },
+            {
+              "artist": "Nicole Zuraitis",
+              "work": "Live at Vic's",
+              "spotify_uri": "spotify:track:6qcCYdYuvpx1yznRKbnB8x",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731919cfba2bf6d67590b1532e"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "name": "Best Jazz Instrumental Album",
+          "nominees": [
+            {
+              "artist": "Chick Corea",
+              "work": "Trilogy 3",
+              "spotify_uri": "spotify:track:5WggZwpECPFpVZpYp5rAPN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731e62b580ae51bd84601b510f"
+            },
+            {
+              "artist": "Sullivan Fortner",
+              "work": "Southern Nights",
+              "spotify_uri": "spotify:track:2PDCFuRlvJx3vo2LDiTVDS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273336ed72565af2eb861952e8e"
+            },
+            {
+              "artist": "Branford Marsalis",
+              "work": "Belonging",
+              "spotify_uri": "spotify:track:3KS77AQmhE72yTKT9ftfS6",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735f2f198123d9f55f19a85c17"
+            },
+            {
+              "artist": "John Patitucci",
+              "work": "Spirit Fall",
+              "spotify_uri": "spotify:track:23dVAQTW1HWL5aEBlsPyMH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739f0faddfb55c9ebd54da8fd4"
+            },
+            {
+              "artist": "Yellowjackets",
+              "work": "Fasten Up",
+              "spotify_uri": "spotify:track:7rfhMSXFz7y6Q7RWTyfe5L",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fb8b3b9c239074c620136c02"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "name": "Best Large Jazz Ensemble Album",
+          "nominees": [
+            {
+              "artist": "8-Bit Big Band",
+              "work": "Orchestrator Emulator",
+              "spotify_uri": "spotify:track:6EX7yO8fXebdwFKpIjhk5S",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273606416a5675f9915feba889b"
+            },
+            {
+              "artist": "Christian McBride",
+              "work": "Without Further Ado",
+              "spotify_uri": "spotify:track:4i4DlSWLzWcfWRsvuY3UJg",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732d6c2f607eb0110dbec3f9f2"
+            },
+            {
+              "artist": "Danilo Pérez",
+              "work": "Lumen",
+              "spotify_uri": "spotify:track:3m37AYwxMBfo9hyN5eLQfq",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fe4982576d8d08c886f667f5"
+            },
+            {
+              "artist": "Deborah Silver",
+              "work": "Basie Rocks!",
+              "spotify_uri": "spotify:track:458Opc0Q54nIzxRhAlyg0r",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fdfd5fc1d65bf9ebe2f21a16"
+            },
+            {
+              "artist": "Sun Ra Arkestra",
+              "work": "Lights on a Satellite",
+              "spotify_uri": "spotify:track:6CampWRRmM3aN7ie33yv6H",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273290053d6e87ee9f872ad48c6"
+            },
+            {
+              "artist": "Kenny Wheeler",
+              "work": "Some Days Are Better",
+              "spotify_uri": "spotify:track:619SkDeoaXnvT5anFuJdob",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732a138d0e1158ab3b130d22a7"
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "name": "Best Latin Jazz Album",
+          "nominees": [
+            {
+              "artist": "Paquito D'Rivera",
+              "work": "La Fleur de Cayenne",
+              "spotify_uri": "spotify:track:6SBDd2d6pNSPhSDh0PZzk0",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27396fae82ff4177d1325fae6d3"
+            },
+            {
+              "artist": "Arturo O'Farrill",
+              "work": "Original Influencers",
+              "spotify_uri": "spotify:track:4R72YPbdbICOpgfvzDoXz5",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273cc21e2b39dbe1e0fc284d56d"
+            },
+            {
+              "artist": "Arturo O'Farrill",
+              "work": "Mundoagua",
+              "spotify_uri": "spotify:track:4syqEjvs7zWaSX4wL8pDrb",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27326552b0789a5ae343e7ad820"
+            },
+            {
+              "artist": "Gonzalo Rubalcaba",
+              "work": "Tribute to Benny Moré",
+              "spotify_uri": "spotify:track:2kn3OFoVuAPdwrDYHdxGzv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27360b945d9b545e3d640082f8a"
+            },
+            {
+              "artist": "Miguel Zenón",
+              "work": "Vanguardia Subterránea",
+              "spotify_uri": "spotify:track:3EWSFnEmCRN5VSisgGKT6L",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273174b09fcac3745bfad2c7aea"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "name": "Best Alternative Jazz Album",
+          "nominees": [
+            {
+              "artist": "Ambrose Akinmusire",
+              "work": "honey from a winter stone",
+              "spotify_uri": "spotify:track:6bemf7VsRoh9eI2L2lLWM2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273aaea65108d2dddb8d7ccddc1"
+            },
+            {
+              "artist": "Robert Glasper",
+              "work": "Keys To The City",
+              "spotify_uri": "spotify:track:2tGruyXi5FsyP9c5yGh9gz",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731e3f3da1724bb23832d213cb"
+            },
+            {
+              "artist": "Brad Mehldau",
+              "work": "Ride into the Sun",
+              "spotify_uri": "spotify:track:4sXssVKPjxK0RBo27apLpu",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273df11efbadb2f726dc437bdf2"
+            },
+            {
+              "artist": "Nate Smith",
+              "work": "LIVE-ACTION",
+              "spotify_uri": "spotify:track:5fwKEMTyS0FqLk7KVdGQwl",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273428432a6ab2043a7c6eb2d95"
+            },
+            {
+              "artist": "Immanuel Wilkins",
+              "work": "Blues Blood",
+              "spotify_uri": "spotify:track:3fMJfPbcDfB66B4S3YL1z9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733e19adef2d56c691bcba607b"
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "name": "Best Traditional Pop Vocal Album",
+          "nominees": [
+            {
+              "artist": "Laila Biali",
+              "work": "Wintersongs",
+              "spotify_uri": "spotify:track:0ISEHZTAfcfrfs6v9H2vqN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f2de719a6425cf85f1054f23"
+            },
+            {
+              "artist": "Jennifer Hudson",
+              "work": "The Gift Of Love",
+              "spotify_uri": "spotify:track:76Fz89H0J6Q3nNaQ4EnfqP",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730ff56b0db5625ea8d821c9a5"
+            },
+            {
+              "artist": "Elton John",
+              "work": "Who Believes In Angels?",
+              "spotify_uri": "spotify:track:1TaWo5hydbHe1ryeRgaZQb",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273810903e9b0f9c6f74dcc9aff"
+            },
+            {
+              "artist": "Lady Gaga",
+              "work": "Harlequin",
+              "spotify_uri": "spotify:track:5DQIZ8XC0EP7cfRFrtzY5h",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668"
+            },
+            {
+              "artist": "Laufey",
+              "work": "A Matter Of Time",
+              "spotify_uri": "spotify:track:1fUp9sWmy3EiZzPGbJmR4W",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
+            },
+            {
+              "artist": "Barbra Streisand",
+              "work": "Secret Of Life",
+              "spotify_uri": "spotify:track:1curYMeQxNiidUr2jjSRhG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317722c8dba43c1ca04e9be2a"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "name": "Best Contemporary Instrumental Album",
+          "nominees": [
+            {
+              "artist": "ARKAI",
+              "work": "Brightside",
+              "spotify_uri": "spotify:track:2hy5fUxnzCZkA5MjnrTp6F",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f3454bf8893ec60318e2b377"
+            },
+            {
+              "artist": "Gerald Clayton",
+              "work": "Ones & Twos",
+              "spotify_uri": "spotify:track:4xqXQ0uxRxluGxOYG7aa9C",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734643f5b152df49fc731e5a91"
+            },
+            {
+              "artist": "Béla Fleck",
+              "work": "BEATrio",
+              "spotify_uri": "spotify:track:2V5TR2NkI29foggEFzgNvd",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a9f542bed6d6a25f6d964cd5"
+            },
+            {
+              "artist": "Bob James",
+              "work": "Just Us",
+              "spotify_uri": "spotify:track:39VzYc43kGePZ9yXZOMuMR",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733494ae1d5e2f1c75f69a8628"
+            },
+            {
+              "artist": "Charu Suri",
+              "work": "Shayan",
+              "spotify_uri": "spotify:track:6HBEQwQSijLczQXxKFoD2L",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b26fb92e63a8b05b65912697"
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "name": "Best Musical Theater Album",
+          "nominees": [
+            {
+              "artist": "Broadway Cast",
+              "work": "Buena Vista Social Club",
+              "spotify_uri": "spotify:track:5OEYFRrMcmULTLGkf0VgOF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e82204f43f3c89e316593779"
+            },
+            {
+              "artist": "Broadway Cast",
+              "work": "Death Becomes Her",
+              "spotify_uri": "spotify:track:4SfDlcSwoCeY7dLgpXoUWf",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27396ec530699b3e1363918c60b"
+            },
+            {
+              "artist": "Broadway Cast",
+              "work": "Gypsy",
+              "spotify_uri": "spotify:track:0VCqanO64Shc6RKBCuPfr1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c82b0a5e8c8360ba35ef2f6e"
+            },
+            {
+              "artist": "Broadway Cast",
+              "work": "Just In Time",
+              "spotify_uri": "spotify:track:4xktP9GRAJOu3yvE5YfvrU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736bac7f2d7313f711a09dcd77"
+            },
+            {
+              "artist": "Broadway Cast",
+              "work": "Maybe Happy Ending",
+              "spotify_uri": "spotify:track:0JpUwZFX0wDJEangcWDKUN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273adc88ef9cb37183cca266747"
             }
           ]
         }
@@ -1112,32 +1409,32 @@
             {
               "artist": "Tyler Childers",
               "work": "Nose On The Grindstone",
-              "search_query": "Nose On The Grindstone Tyler Childers",
-              "spotify_uri": "spotify:track:41qeQaiSa09dPsGzgechek"
+              "spotify_uri": "spotify:track:41qeQaiSa09dPsGzgechek",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735106d1504e52d30ba2c73155"
             },
             {
               "artist": "Shaboozey",
               "work": "Good News",
-              "search_query": "Good News Shaboozey",
-              "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+              "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390"
             },
             {
               "artist": "Chris Stapleton",
               "work": "Bad As I Used To Be",
-              "search_query": "Bad As I Used To Be Chris Stapleton",
-              "spotify_uri": "spotify:track:11AfHdYnWqd8ez0u3VHw6E"
+              "spotify_uri": "spotify:track:11AfHdYnWqd8ez0u3VHw6E",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c63a12b4d7de1d527566e61c"
             },
             {
               "artist": "Zach Top",
               "work": "I Never Lie",
-              "search_query": "I Never Lie Zach Top",
-              "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+              "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eff0aba5b84f925e09f70b29"
             },
             {
               "artist": "Lainey Wilson",
               "work": "Somewhere Over Laredo",
-              "search_query": "Somewhere Over Laredo Lainey Wilson",
-              "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+              "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27323e80692ba952f929bf38dc0"
             }
           ]
         },
@@ -1146,34 +1443,34 @@
           "name": "Best Country Duo/Group Performance",
           "nominees": [
             {
-              "artist": "Miranda Lambert And Chris Stapleton",
+              "artist": "Miranda Lambert",
               "work": "A Song To Sing",
-              "search_query": "A Song To Sing Miranda Lambert Chris Stapleton",
-              "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+              "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ecb12721c88014ec0e689a74"
             },
             {
-              "artist": "Reba McEntire, Miranda Lambert, Lainey Wilson",
+              "artist": "Reba McEntire",
               "work": "Trailblazer",
-              "search_query": "Trailblazer Reba McEntire",
-              "spotify_uri": "spotify:track:5CJwFd0iqn3s48pFBoNCma"
+              "spotify_uri": "spotify:track:5CJwFd0iqn3s48pFBoNCma",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731e0e6a8090384efaac7996f9"
             },
             {
-              "artist": "Margo Price & Tyler Childers",
-              "work": "Love Me Like You Used To Do",
-              "search_query": "Love Me Like You Used To Do Margo Price",
-              "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+              "artist": "Margo Price",
+              "work": "Love Me Like You Used To",
+              "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736dadc317c71112acb77250f3"
             },
             {
-              "artist": "Shaboozey & Jelly Roll",
+              "artist": "Shaboozey",
               "work": "Amen",
-              "search_query": "Amen Shaboozey Jelly Roll",
-              "spotify_uri": "spotify:track:3anaHXs7z8NwLUatPxqJlE"
+              "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736cdc9ddfb25bc1e4a852ed70"
             },
             {
-              "artist": "George Strait, Chris Stapleton",
+              "artist": "George Strait",
               "work": "Honky Tonk Hall Of Fame",
-              "search_query": "Honky Tonk Hall Of Fame George Strait",
-              "spotify_uri": "spotify:track:3ETCVKhAVXx0a8ohAeSP7d"
+              "spotify_uri": "spotify:track:3ETCVKhAVXx0a8ohAeSP7d",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739d1973e54e7821d044e00b33"
             }
           ]
         },
@@ -1184,32 +1481,32 @@
             {
               "artist": "Tyler Childers",
               "work": "Bitin' List",
-              "search_query": "Bitin' List Tyler Childers",
-              "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq"
+              "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e47f3451435776271b3d43da"
             },
             {
               "artist": "Shaboozey",
               "work": "Good News",
-              "search_query": "Good News Shaboozey",
-              "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt"
+              "spotify_uri": "spotify:track:54p6vNJwGkt4FTaM8SCsxt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390"
             },
             {
               "artist": "Zach Top",
               "work": "I Never Lie",
-              "search_query": "I Never Lie Zach Top",
-              "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc"
+              "spotify_uri": "spotify:track:3t6gUcGYLrUuqwpXjOFWQc",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eff0aba5b84f925e09f70b29"
             },
             {
               "artist": "Lainey Wilson",
               "work": "Somewhere Over Laredo",
-              "search_query": "Somewhere Over Laredo Lainey Wilson",
-              "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU"
+              "spotify_uri": "spotify:track:0aGIy8kll4HYDnNTDlf2vU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27323e80692ba952f929bf38dc0"
             },
             {
-              "artist": "Miranda Lambert And Chris Stapleton",
+              "artist": "Miranda Lambert",
               "work": "A Song To Sing",
-              "search_query": "A Song To Sing Miranda Lambert",
-              "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX"
+              "spotify_uri": "spotify:track:7L9N5bxblTyzTknaxo7duX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ecb12721c88014ec0e689a74"
             }
           ]
         },
@@ -1220,32 +1517,32 @@
             {
               "artist": "Charley Crockett",
               "work": "Dollar A Day",
-              "search_query": "Dollar A Day Charley Crockett",
-              "spotify_uri": "spotify:track:7sxsVZz3ngXIE5tZ1ea0qa"
+              "spotify_uri": "spotify:track:7sxsVZz3ngXIE5tZ1ea0qa",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27345aa80c38530a16b922b6256"
             },
             {
               "artist": "Lukas Nelson",
               "work": "American Romance",
-              "search_query": "American Romance Lukas Nelson",
-              "spotify_uri": "spotify:track:5u7VFBKUWMmvUqsPV818Uz"
+              "spotify_uri": "spotify:track:5u7VFBKUWMmvUqsPV818Uz",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27336160bfd7bc1cca68fc4cd2c"
             },
             {
               "artist": "Willie Nelson",
-              "work": "Oh What A Beautiful World",
-              "search_query": "Oh What A Beautiful World Willie Nelson",
-              "spotify_uri": "spotify:track:7ml1acXUTiwSm2WjtXYFbZ"
+              "work": "Beautiful World",
+              "spotify_uri": "spotify:track:7ml1acXUTiwSm2WjtXYFbZ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27371077bf499cca865f08ddb11"
             },
             {
               "artist": "Margo Price",
               "work": "Hard Headed Woman",
-              "search_query": "Hard Headed Woman Margo Price",
-              "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG"
+              "spotify_uri": "spotify:track:28520OoA1qXG46koPHUcSG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736dadc317c71112acb77250f3"
             },
             {
               "artist": "Zach Top",
-              "work": "Ain't In It For My Health",
-              "search_query": "Ain't In It For My Health Zach Top",
-              "spotify_uri": "spotify:track:0hc2s7sbPTomegDXpIySok"
+              "work": "Health",
+              "spotify_uri": "spotify:track:0hc2s7sbPTomegDXpIySok",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273cb6d32e0dc1b1f363de561e7"
             }
           ]
         },
@@ -1256,39 +1553,548 @@
             {
               "artist": "Kelsea Ballerini",
               "work": "Patterns",
-              "search_query": "Patterns Kelsea Ballerini",
-              "spotify_uri": "spotify:track:0YC7DEF6UKaFVXIV9EMiG5"
+              "spotify_uri": "spotify:track:0YC7DEF6UKaFVXIV9EMiG5",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273da7dd5ca2f02f074f7895834"
             },
             {
               "artist": "Tyler Childers",
               "work": "Snipe Hunter",
-              "search_query": "Snipe Hunter Tyler Childers",
-              "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq"
+              "spotify_uri": "spotify:track:0x5wJ0cDp7miv49jSMTSkq",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e47f3451435776271b3d43da"
             },
             {
               "artist": "Eric Church",
-              "work": "Evangeline Vs. The Machine",
-              "search_query": "Evangeline Vs. The Machine Eric Church",
-              "spotify_uri": "spotify:track:4CGymdYq09LloNTbWPmfyz"
+              "work": "Evangeline Vs. Machine",
+              "spotify_uri": "spotify:track:4CGymdYq09LloNTbWPmfyz",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736b6e2a3e067c42a91fde14da"
             },
             {
               "artist": "Jelly Roll",
               "work": "Beautifully Broken",
-              "search_query": "Beautifully Broken Jelly Roll",
-              "spotify_uri": "spotify:track:0llPOBVoJYDAtdmVlNE41A"
+              "spotify_uri": "spotify:track:4Q8JkGO6EnyAz0GHugMigw",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e068e76ee270e307dc6225e3"
             },
             {
               "artist": "Miranda Lambert",
               "work": "Postcards From Texas",
-              "search_query": "Postcards From Texas Miranda Lambert",
-              "spotify_uri": "spotify:track:12AEBgTTELBhtAthd5dRqH"
+              "spotify_uri": "spotify:track:12AEBgTTELBhtAthd5dRqH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b7010f2e7e715bf4c8422f3f"
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "name": "Best American Roots Performance",
+          "nominees": [
+            {
+              "artist": "Jon Batiste",
+              "work": "LONELY AVENUE",
+              "spotify_uri": "spotify:track:2SDdqNjIAxVL9UwxetH5vW",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27385261aab7c1598e49c7e5d67"
+            },
+            {
+              "artist": "I'm With Her",
+              "work": "Ancient Light",
+              "spotify_uri": "spotify:track:7zW1oZZy5m8zpJZfRfwGKv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e1917e26e66f38eac61be589"
+            },
+            {
+              "artist": "Jason Isbell",
+              "work": "Crimson And Clay",
+              "spotify_uri": "spotify:track:60gQmNkGCHQEb4TaJC9IwC",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730c8bba78844e13dfb423d0d4"
+            },
+            {
+              "artist": "Alison Krauss",
+              "work": "Richmond",
+              "spotify_uri": "spotify:track:0xSyT5drjetDctC8DZuW89",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735522b4744501b30251c69dd1"
+            },
+            {
+              "artist": "Mavis Staples",
+              "work": "Beautiful Strangers",
+              "spotify_uri": "spotify:track:3JCNSJUl4zyugzIdf6y71n",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27306f66604593294e5c831fa9c"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "name": "Best Americana Performance",
+          "nominees": [
+            {
+              "artist": "Sierra Hull",
+              "work": "Boom",
+              "spotify_uri": "spotify:track:1PSxmtJuaZ3PofRUetR4pR",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef0d6a87e9d0fafbeaa6efc1"
+            },
+            {
+              "artist": "Maggie Rose",
+              "work": "Poison In My Well",
+              "spotify_uri": "spotify:track:5sTW2d86vNwfiJ2VNjUsrq",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27331c4db407ea3101620b0ed4a"
+            },
+            {
+              "artist": "Mavis Staples",
+              "work": "Godspeed",
+              "spotify_uri": "spotify:track:694VUc1P1VUhgQ0KGfkjVD",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27306f66604593294e5c831fa9c"
+            },
+            {
+              "artist": "Molly Tuttle",
+              "work": "Mark",
+              "spotify_uri": "spotify:track:3kz5XjngoS57hV9rU2gRH6",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f14a62c116ae3015ac746413"
+            },
+            {
+              "artist": "Jesse Welles",
+              "work": "Horses",
+              "spotify_uri": "spotify:track:2xvIz18sQhhNWsjnVTo8OS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27314dde2548579cd2390b52b8b"
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "name": "Best American Roots Song",
+          "nominees": [
+            {
+              "artist": "I'm With Her",
+              "work": "Ancient Light",
+              "spotify_uri": "spotify:track:7zW1oZZy5m8zpJZfRfwGKv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e1917e26e66f38eac61be589"
+            },
+            {
+              "artist": "Jon Batiste",
+              "work": "BIG MONEY",
+              "spotify_uri": "spotify:track:55Xw7I5I01M0Bs4QW1MNR2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e7098e3dff335324824961a7"
+            },
+            {
+              "artist": "Jason Isbell",
+              "work": "Foxes In The Snow",
+              "spotify_uri": "spotify:track:5zz6QUSbVsIbyZUJhGdO0T",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730c8bba78844e13dfb423d0d4"
+            },
+            {
+              "artist": "Jesse Welles",
+              "work": "Middle",
+              "spotify_uri": "spotify:track:2mK94jSZ6BM4QLI3S5w9LL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27314dde2548579cd2390b52b8b"
+            },
+            {
+              "artist": "Sierra Hull",
+              "work": "Spitfire",
+              "spotify_uri": "spotify:track:0olDwkEdSzDByATcy0wDD9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef0d6a87e9d0fafbeaa6efc1"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "name": "Best Americana Album",
+          "nominees": [
+            {
+              "artist": "Jon Batiste",
+              "work": "BIG MONEY",
+              "spotify_uri": "spotify:track:55Xw7I5I01M0Bs4QW1MNR2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e7098e3dff335324824961a7"
+            },
+            {
+              "artist": "Larkin Poe",
+              "work": "Bloom",
+              "spotify_uri": "spotify:track:3lHwn0uVcDUXusIKOoBVHp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739ea37a683bcf3f56b9f42a9f"
+            },
+            {
+              "artist": "Willie Nelson",
+              "work": "Last Leaf",
+              "spotify_uri": "spotify:track:6bJUmhxFdZaFv2tIH9iEu3",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f69562f8514d5f91b1d4e086"
+            },
+            {
+              "artist": "Molly Tuttle",
+              "work": "Sunshine",
+              "spotify_uri": "spotify:track:0lL6aruZNHj9NdWEVni3MX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f14a62c116ae3015ac746413"
+            },
+            {
+              "artist": "Jesse Welles",
+              "work": "Middle",
+              "spotify_uri": "spotify:track:2mK94jSZ6BM4QLI3S5w9LL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27314dde2548579cd2390b52b8b"
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "name": "Best Bluegrass Album",
+          "nominees": [
+            {
+              "artist": "Michael Cleveland",
+              "work": "Carter & Cleveland",
+              "spotify_uri": "spotify:track:581v1AvV12KWsrOtD2GLgT",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c87240127a4e00822ed6408c"
+            },
+            {
+              "artist": "Sierra Hull",
+              "work": "High Wire",
+              "spotify_uri": "spotify:track:1PSxmtJuaZ3PofRUetR4pR",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef0d6a87e9d0fafbeaa6efc1"
+            },
+            {
+              "artist": "Alison Krauss",
+              "work": "Arcadia",
+              "spotify_uri": "spotify:track:4Yw2zhsCsAVkKKcVJPDrmy",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735522b4744501b30251c69dd1"
+            },
+            {
+              "artist": "Steeldrivers",
+              "work": "Outrun",
+              "spotify_uri": "spotify:track:5cvNI64eTEGfSqkAcPSoAn",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739323c81ce1fa78769308e968"
+            },
+            {
+              "artist": "Billy Strings",
+              "work": "Highway Prayers",
+              "spotify_uri": "spotify:track:181YsWsKwhTmoHYZ4xtiuZ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730483773240c11877177e48f1"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "name": "Best Traditional Blues Album",
+          "nominees": [
+            {
+              "artist": "Buddy Guy",
+              "work": "Ain't Done",
+              "spotify_uri": "spotify:track:58fNv64oeBSZdAsYipR5pj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c6336d29c7f3c2dce8d98aa3"
+            },
+            {
+              "artist": "Taj Mahal",
+              "work": "Porch",
+              "spotify_uri": "spotify:track:0H1wDrRjC8VBO0mQNwQM9l",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ddd4d459abadcf1ff6da8241"
+            },
+            {
+              "artist": "Maria Muldaur",
+              "work": "One Hour Mama",
+              "spotify_uri": "spotify:track:2LU99oXaRoVX0Ia3th7199",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27305e1192a55ca03e97118156a"
+            },
+            {
+              "artist": "Charlie Musselwhite",
+              "work": "Highway",
+              "spotify_uri": "spotify:track:0NdwgaCaQKWxvGLKF0IGnk",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27363dcfed48c1bf72606c80a34"
+            },
+            {
+              "artist": "Kenny Wayne Shepherd",
+              "work": "Young Fashioned Ways",
+              "spotify_uri": "spotify:track:1vVdPBhhh6GV8D4NC5JbjE",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b45b91c49fb691b37f7165ba"
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "name": "Best Contemporary Blues Album",
+          "nominees": [
+            {
+              "artist": "Joe Bonamassa",
+              "work": "Breakthrough",
+              "spotify_uri": "spotify:track:78JHuHaQP0or5BUMiimgn3",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273baf403cdde91f5faf6e34cc3"
+            },
+            {
+              "artist": "Samantha Fish",
+              "work": "Paper Doll",
+              "spotify_uri": "spotify:track:2RBrx1H3wutvaWj0vdoR1R",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273245ad09bbb16409d90348c46"
+            },
+            {
+              "artist": "Eric Gales",
+              "work": "Tribute to LJK",
+              "spotify_uri": "spotify:track:3U35O0EdGo2tZQ1Gk5BoM2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a3ef91ad47be79c0b986bc61"
+            },
+            {
+              "artist": "Robert Randolph",
+              "work": "Preacher Kids",
+              "spotify_uri": "spotify:track:3gb4jKjy2PG4d5N7kl1qe3",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f9560cf7664563dd6da1454d"
+            },
+            {
+              "artist": "Southern Avenue",
+              "work": "Family",
+              "spotify_uri": "spotify:track:7fArKeQ64ounmvV2dDkR1g",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c6cee6c57364f66ab36f3789"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "name": "Best Folk Album",
+          "nominees": [
+            {
+              "artist": "Rhiannon Giddens",
+              "work": "Blackbird",
+              "spotify_uri": "spotify:track:1vZwn9shBmyZfoorT4zxi4",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273df2cca1185b7c6134830b47f"
+            },
+            {
+              "artist": "Patty Griffin",
+              "work": "Crown Of Roses",
+              "spotify_uri": "spotify:track:3AHAY0IDnyQ0Gie5Y8RGBv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27353b3c25e0f83b488bba25e67"
+            },
+            {
+              "artist": "I'm With Her",
+              "work": "Wild Clear Blue",
+              "spotify_uri": "spotify:track:6OIvQ2YzNJ2tckkVkUqieI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e1917e26e66f38eac61be589"
+            },
+            {
+              "artist": "Jason Isbell",
+              "work": "Foxes In The Snow",
+              "spotify_uri": "spotify:track:5zz6QUSbVsIbyZUJhGdO0T",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730c8bba78844e13dfb423d0d4"
+            },
+            {
+              "artist": "Jesse Welles",
+              "work": "Powerlines",
+              "spotify_uri": "spotify:track:3w1RHdAU07V8QAw0Bwvlee",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735178100d9f71639b706009c6"
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "name": "Best Regional Roots Music Album",
+          "nominees": [
+            {
+              "artist": "Corey Henry",
+              "work": "Vaughan's",
+              "spotify_uri": "spotify:track:1VLMmZfTCHLbhD7GHbbnKb",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273aba8fe75e1e5c470f77b3bb3"
+            },
+            {
+              "artist": "Preservation Brass",
+              "work": "Fat Man",
+              "spotify_uri": "spotify:track:1DogeQJg0tWMxcFODP3mur",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f86f523876db6208c7318a35"
+            },
+            {
+              "artist": "Kyle Roussel",
+              "work": "Church Of New Orleans",
+              "spotify_uri": "spotify:track:318qVnZZHS7twxPovw3is9",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27365253acad32ffb73adc81489"
+            },
+            {
+              "artist": "Trombone Shorty",
+              "work": "Sunday",
+              "spotify_uri": "spotify:track:0pt4dmsmMSmJVokF5H9HqL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27321eea41d0cd08b45b53adff7"
+            },
+            {
+              "artist": "Various",
+              "work": "King Of Zydeco",
+              "spotify_uri": "spotify:track:3e5dzvRUa536dwIgST2ryZ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c65afbbe40aa51d9ab5fed4e"
             }
           ]
         }
       ]
     },
     {
-      "field_name": "Latin, Global, Reggae & New Age",
+      "field_name": "Gospel & Christian Music",
+      "categories": [
+        {
+          "id": "53",
+          "name": "Best Gospel Performance/Song",
+          "nominees": [
+            {
+              "artist": "Kirk Franklin",
+              "work": "Do It Again",
+              "spotify_uri": "spotify:track:6ZYrfrxalPRcUdSieUCkdM",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e6af06538b6e41fd91b8604f"
+            },
+            {
+              "artist": "Tasha Cobbs Leonard",
+              "work": "Church",
+              "spotify_uri": "spotify:track:4FQXeaugZnVS5XfIwBLJ7T",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734a2985ba977d82a2e942b905"
+            },
+            {
+              "artist": "Jonathan McReynolds",
+              "work": "Still",
+              "spotify_uri": "spotify:track:5Da2Lp145edSaxq5l5zDF7",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b90452e8f75f56567986f626"
+            },
+            {
+              "artist": "Pastor Mike Jr.",
+              "work": "Amen",
+              "spotify_uri": "spotify:track:2iSfSJrho5XkU2NmAnZ9ZV",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736cdc9ddfb25bc1e4a852ed70"
+            },
+            {
+              "artist": "CeCe Winans",
+              "work": "Come Jesus Come",
+              "spotify_uri": "spotify:track:6WHe4Ilqwx9H5cY8V9glhr",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273868d43ea8ca5ae2490061dc4"
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "name": "Best CCM Performance/Song",
+          "nominees": [
+            {
+              "artist": "Elevation Worship",
+              "work": "I Know A Name",
+              "spotify_uri": "spotify:track:4TXK7iqOnXCr8XWyj3b4dJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273301111305554b3cf03ce8484"
+            },
+            {
+              "artist": "Forrest Frank",
+              "work": "YOUR WAY'S BETTER",
+              "spotify_uri": "spotify:track:4qrbjoNP9NZwe79Rg9IlFU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732de552406fe83116cc9eb4d5"
+            },
+            {
+              "artist": "Brandon Lake",
+              "work": "Hallelujah",
+              "spotify_uri": "spotify:track:6ye2zG3DhdwDf6VRVyj4jx",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fd2457f19b0eb2cae535e457"
+            },
+            {
+              "artist": "Lecrae",
+              "work": "Headphones",
+              "spotify_uri": "spotify:track:7pMJ2uIwF5C04AY5ZNdWOF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730de493800357b71994b6792d"
+            },
+            {
+              "artist": "Darrel Walls",
+              "work": "Amazing",
+              "spotify_uri": "spotify:track:790NrKNQsXBi3pLrR1O6mN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733907588e98af775be9a77107"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "name": "Best Gospel Album",
+          "nominees": [
+            {
+              "artist": "Yolanda Adams",
+              "work": "Sunny Days",
+              "spotify_uri": "spotify:track:3VAE2YiVcelxBYPhDvYFzN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734f3ea9a53e8bafd0b6d6b8b2"
+            },
+            {
+              "artist": "Tasha Cobbs Leonard",
+              "work": "Tasha",
+              "spotify_uri": "spotify:track:6CDRgl9dpXRV8yaUPi931k",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273585a457e8b8d31cb07239602"
+            },
+            {
+              "artist": "Tamela Mann",
+              "work": "Live Breathe Fight",
+              "spotify_uri": "spotify:track:2B1mKaseBbCnN99Gl1bOPv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d6d01d0d6d2e5f01d64c7f67"
+            },
+            {
+              "artist": "Tye Tribbett",
+              "work": "Road",
+              "spotify_uri": "spotify:track:6nn9pfbOHHmaQAYxn6H7WO",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27342d3c594864fe3659a907712"
+            },
+            {
+              "artist": "Darrel Walls",
+              "work": "Heart Of Mine",
+              "spotify_uri": "spotify:track:70SRS0XExmP7kmLLiQF6kn",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731f71446346a6dabc2c32aff1"
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "name": "Best CCM Album",
+          "nominees": [
+            {
+              "artist": "Forrest Frank",
+              "work": "CHILD OF GOD II",
+              "spotify_uri": "spotify:track:1hRNPO5VMUdIXijSs2DAgt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738d1c0d7c2426551d15caa6de"
+            },
+            {
+              "artist": "Israel & New Breed",
+              "work": "Coritos",
+              "spotify_uri": "spotify:track:0KKmrw8sL7MDGt5pzCBi2d",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fb7c7827c3b61088500cecfd"
+            },
+            {
+              "artist": "Brandon Lake",
+              "work": "King Of Hearts",
+              "spotify_uri": "spotify:track:53OAAIHd2q0lz5tmtpVndI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eee6478cc2c3bc3c2e69bcb8"
+            },
+            {
+              "artist": "Lecrae",
+              "work": "Reconstruction",
+              "spotify_uri": "spotify:track:2GaG6BK2TUlz7LXQtHKSdl",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2730de493800357b71994b6792d"
+            },
+            {
+              "artist": "Tauren Wells",
+              "work": "Let The Church Sing",
+              "spotify_uri": "spotify:track:7Anygo62MNwOsASBpIzWYr",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273deedd77199f7ad23627110ca"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "name": "Best Roots Gospel Album",
+          "nominees": [
+            {
+              "artist": "Brooklyn Tabernacle Choir",
+              "work": "Not Be Moved",
+              "spotify_uri": "spotify:track:5yji6x35uKVNk9DlXxe5fH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735544bcc3f3c4e290b97a2720"
+            },
+            {
+              "artist": "Gaither Vocal Band",
+              "work": "Morning",
+              "spotify_uri": "spotify:track:65U9OftPKogtjLgCS7CcBK",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273472812cf1c9a963c70e7b2a8"
+            },
+            {
+              "artist": "Isaacs",
+              "work": "Praise & Worship",
+              "spotify_uri": "spotify:track:1cLNkDDL2eBaOk4T3I9Ypm",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f87b778ccba99e223a76ee09"
+            },
+            {
+              "artist": "Karen Peck",
+              "work": "Good Answers",
+              "spotify_uri": "spotify:track:01lkLn6h6dltmQIBq55Exd",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27301f0520b8ce36931616a4ac7"
+            },
+            {
+              "artist": "Candi Staton",
+              "work": "Roots",
+              "spotify_uri": "spotify:track:3mFugdT6aXPfFBvt2qvvsc",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273067bf01e48177620478794ac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Latin & Global Music",
       "categories": [
         {
           "id": "58",
@@ -1297,32 +2103,32 @@
             {
               "artist": "Rauw Alejandro",
               "work": "Cosa Nuestra",
-              "search_query": "Cosa Nuestra Rauw Alejandro",
-              "spotify_uri": "spotify:track:5UxEKpzvvLnjoC10XoogN3"
+              "spotify_uri": "spotify:track:5UxEKpzvvLnjoC10XoogN3",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b"
             },
             {
               "artist": "Andrés Cepeda",
-              "work": "BOGOTÁ (DELUXE)",
-              "search_query": "BOGOTÁ Andrés Cepeda",
-              "spotify_uri": "spotify:track:42xEJ2PHDrVa8lGRr8DIci"
+              "work": "BOGOTÁ",
+              "spotify_uri": "spotify:track:42xEJ2PHDrVa8lGRr8DIci",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27303241b0f5eecd4653ba9a157"
             },
             {
               "artist": "KAROL G",
               "work": "Tropicoqueta",
-              "search_query": "Tropicoqueta KAROL G",
-              "spotify_uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS"
+              "spotify_uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f"
             },
             {
               "artist": "Natalia Lafourcade",
               "work": "Cancionera",
-              "search_query": "Cancionera Natalia Lafourcade",
-              "spotify_uri": "spotify:track:7AP1sa56qsVnM86g10VRvv"
+              "spotify_uri": "spotify:track:7AP1sa56qsVnM86g10VRvv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a80e971581614f7b4a58e489"
             },
             {
               "artist": "Alejandro Sanz",
-              "work": "¿Y ahora qué?",
-              "search_query": "Y ahora qué Alejandro Sanz",
-              "spotify_uri": "spotify:track:3ayVKsrwK44VEdD7BdnDD7"
+              "work": "Y ahora qué?",
+              "spotify_uri": "spotify:track:7hUJOJ6aF45Y7kbx9Xf0qX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738ef9ac0829a9217b3a6167ee"
             }
           ]
         },
@@ -1333,74 +2139,146 @@
             {
               "artist": "Bad Bunny",
               "work": "DeBÍ TIRAR MÁS FOTOS",
-              "search_query": "DeBÍ TIRAR MÁS FOTOS Bad Bunny",
-              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+              "spotify_uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
             },
             {
               "artist": "J Balvin",
               "work": "Mixteip",
-              "search_query": "Mixteip J Balvin",
-              "spotify_uri": "spotify:track:1qRWRxr2FTJjAfqxf99Bdm"
+              "spotify_uri": "spotify:track:1qRWRxr2FTJjAfqxf99Bdm",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bddf0628aa237031aaf5eb8e"
             },
             {
               "artist": "Feid",
-              "work": "FERXXO VOL X: Sagrado",
-              "search_query": "FERXXO VOL X Feid",
-              "spotify_uri": "spotify:track:5vy9pkOukk2FQEfdr73MXY"
+              "work": "FERXXO VOL X",
+              "spotify_uri": "spotify:track:5vy9pkOukk2FQEfdr73MXY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273333b871cdeba0a80ae5282e0"
             },
             {
               "artist": "Nicki Nicole",
               "work": "ΝΑΙΚΙ",
-              "search_query": "ΝΑΙΚΙ Nicki Nicole",
-              "spotify_uri": "spotify:track:0P3K3oluS2pxWGp9TRtjTt"
+              "spotify_uri": "spotify:track:0P3K3oluS2pxWGp9TRtjTt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273627cabda45269fde58f8d2e1"
             },
             {
               "artist": "Trueno",
               "work": "EUB DELUXE",
-              "search_query": "EUB DELUXE Trueno",
-              "spotify_uri": "spotify:track:4B0KfCBOqXzgDItQNZthqE"
+              "spotify_uri": "spotify:track:4B0KfCBOqXzgDItQNZthqE",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f7b61ff309da53aa1d0b01e"
             },
             {
               "artist": "Yandel",
-              "work": "SINFÓNICO (En Vivo)",
-              "search_query": "SINFÓNICO Yandel",
-              "spotify_uri": "spotify:track:19WYlQK2T29jD9UlbsalkO"
+              "work": "SINFÓNICO",
+              "spotify_uri": "spotify:track:2up69Rho7swRdP1MHqzX3n",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273164977f6bc8a8105f3b77d4c"
             }
           ]
         },
         {
           "id": "60",
-          "name": "Best Latin Rock or Alternative Album",
+          "name": "Best Latin Rock Album",
           "nominees": [
             {
               "artist": "Aterciopelados",
               "work": "Genes Rebeldes",
-              "search_query": "Genes Rebeldes Aterciopelados",
-              "spotify_uri": "spotify:track:21Wc5F2CLsh9fngtepqnGF"
+              "spotify_uri": "spotify:track:21Wc5F2CLsh9fngtepqnGF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27365bd89a9ed479aad625a7dd4"
             },
             {
               "artist": "Bomba Estéreo",
               "work": "ASTROPICAL",
-              "search_query": "ASTROPICAL Bomba Estéreo",
-              "spotify_uri": "spotify:track:63ZVyUi9weRwuMf1QsbDnY"
+              "spotify_uri": "spotify:track:63ZVyUi9weRwuMf1QsbDnY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732769d84d74fa75a74edaa41b"
             },
             {
-              "artist": "CA7RIEL & Paco Amoroso",
-              "work": "BAÑO MARÍA",
-              "search_query": "BAÑO MARÍA CA7RIEL",
-              "spotify_uri": "spotify:track:2Fi6RtngvStwsjskvwabVT"
+              "artist": "CAZRIEL",
+              "work": "PAPOTA",
+              "spotify_uri": "spotify:track:2RAKwOzLiXA8AgA1pFIuFe",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bc685f62e450d0384f9cb2e0"
             },
             {
               "artist": "Los Wizzards",
               "work": "ALGORHYTHM",
-              "search_query": "ALGORHYTHM Los Wizzards",
-              "spotify_uri": "spotify:track:5JfMKwWavYIDApCriztRqZ"
+              "spotify_uri": "spotify:track:5JfMKwWavYIDApCriztRqZ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27356c804c534f43a44e424a00a"
             },
             {
               "artist": "Fito Paez",
               "work": "Novela",
-              "search_query": "Novela Fito Paez",
-              "spotify_uri": "spotify:track:1o7HnuQ87p2yEC64rCpPNt"
+              "spotify_uri": "spotify:track:1o7HnuQ87p2yEC64rCpPNt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27317e5e6356d91d1cd7ae89b01"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "name": "Best Música Mexicana Album",
+          "nominees": [
+            {
+              "artist": "Fuerza Regida",
+              "work": "MALA MÍA",
+              "spotify_uri": "spotify:track:3D24ErT1MMmUfXWotSj2A2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27304874856f3c501181d060128"
+            },
+            {
+              "artist": "Grupo Frontera",
+              "work": "Y Lo Que Viene",
+              "spotify_uri": "spotify:track:5fRTTmsTkXFar6iKaqiPzK",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27359e57705596ed3c5c7b49161"
+            },
+            {
+              "artist": "Paola Jara",
+              "work": "Sin Rodeos",
+              "spotify_uri": "spotify:track:1I88XGUqtzp4GhlxkeSMQr",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273786b954335bdcf001012402c"
+            },
+            {
+              "artist": "Carín León",
+              "work": "Palabra De To's",
+              "spotify_uri": "spotify:track:3TBZeHcQXNPyXbsqzNgcYm",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737cbf214a462056895cdac24e"
+            },
+            {
+              "artist": "Bobby Pulido",
+              "work": "Una Tuya Y Una Mía",
+              "spotify_uri": "spotify:track:4U3pbbjrFtyLUIfiYZvuv2",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273094188f51acf4341d4972c53"
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "name": "Best Tropical Latin Album",
+          "nominees": [
+            {
+              "artist": "Rubén Blades",
+              "work": "Fotografías",
+              "spotify_uri": "spotify:track:488ebozC7zLK9syFesprpO",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f8cc7e1ee01238437bdbc89e"
+            },
+            {
+              "artist": "Gloria Estefan",
+              "work": "Raíces",
+              "spotify_uri": "spotify:track:22L4fN7eeoLuNP6MHAB77e",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d4633aabba7df076cc25ed29"
+            },
+            {
+              "artist": "Grupo Niche",
+              "work": "Clásicos",
+              "spotify_uri": "spotify:track:3Em4X4dWNxYeUz6fs2vXFB",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273de471e78d381f88719ad6c9b"
+            },
+            {
+              "artist": "Alain Pérez",
+              "work": "Bingo",
+              "spotify_uri": "spotify:track:3ONPa3YEXHiXC5NoyOvRky",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e77b122718a6c25c76b622df"
+            },
+            {
+              "artist": "Gilberto Santa Rosa",
+              "work": "Debut",
+              "spotify_uri": "spotify:track:69CPTg088C9uUrIMpQe5nY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f5953a1473dd898f018b1ad3"
             }
           ]
         },
@@ -1411,38 +2289,38 @@
             {
               "artist": "Bad Bunny",
               "work": "EoO",
-              "search_query": "EoO Bad Bunny",
-              "spotify_uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+              "spotify_uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
             },
             {
               "artist": "Ciro Hurtado",
-              "work": "Cantando en el Camino",
-              "search_query": "Cantando en el Camino Ciro Hurtado",
-              "spotify_uri": "spotify:track:7vYkmIypQkqDfT2iEizz6X"
+              "work": "Cantando",
+              "spotify_uri": "spotify:track:7vYkmIypQkqDfT2iEizz6X",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736be4e1a2921985df93645d23"
             },
             {
               "artist": "Angélique Kidjo",
               "work": "JERUSALEMA",
-              "search_query": "JERUSALEMA Angélique Kidjo",
-              "spotify_uri": "spotify:track:0HcxM7O49XgSNbWVn5C8vi"
+              "spotify_uri": "spotify:track:0HcxM7O49XgSNbWVn5C8vi",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273939a840c0cd9ff162352dd7f"
             },
             {
               "artist": "Yeisy Rojas",
-              "work": "Inmigrante Y Que?",
-              "search_query": "Inmigrante Y Que Yeisy Rojas",
-              "spotify_uri": "spotify:track:6nURLhNteM0qkL8opkefEk"
+              "work": "Inmigrante",
+              "spotify_uri": "spotify:track:6nURLhNteM0qkL8opkefEk",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739b728298fc0c31ea467da91e"
             },
             {
               "artist": "Shakti",
               "work": "Shrini's Dream",
-              "search_query": "Shrini's Dream Shakti",
-              "spotify_uri": "spotify:track:6llehsN0Mgms7vs6J88zTX"
+              "spotify_uri": "spotify:track:6llehsN0Mgms7vs6J88zTX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f89f692a2c0921e254795064"
             },
             {
               "artist": "Anoushka Shankar",
               "work": "Daybreak",
-              "search_query": "Daybreak Anoushka Shankar",
-              "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N"
+              "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e886538761ff732ac0645024"
             }
           ]
         },
@@ -1453,115 +2331,934 @@
             {
               "artist": "Burna Boy",
               "work": "Love",
-              "search_query": "Love Burna Boy",
-              "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck"
+              "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731493b585a0a292671db326fc"
             },
             {
               "artist": "Davido",
               "work": "With You",
-              "search_query": "With You Davido",
-              "spotify_uri": "spotify:track:5GyaXqMfcIGHfmTUITFacS"
+              "spotify_uri": "spotify:track:5GyaXqMfcIGHfmTUITFacS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731dee1b62d81e4b9249af483c"
             },
             {
               "artist": "Eddy Kenzo",
               "work": "Hope & Love",
-              "search_query": "Hope & Love Eddy Kenzo",
-              "spotify_uri": "spotify:track:0UVcJBW1VTyZdatMIIZDSm"
+              "spotify_uri": "spotify:track:0UVcJBW1VTyZdatMIIZDSm",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ca0ee6d8d3ef168336f3e975"
             },
             {
               "artist": "Ayra Starr",
               "work": "Gimme Dat",
-              "search_query": "Gimme Dat Ayra Starr",
-              "spotify_uri": "spotify:track:1k51Q6GFWBbsaWlBB2gnzo"
+              "spotify_uri": "spotify:track:1k51Q6GFWBbsaWlBB2gnzo",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736f08cb928797a4703ebd9b94"
             },
             {
               "artist": "Tyla",
               "work": "PUSH 2 START",
-              "search_query": "PUSH 2 START Tyla",
-              "spotify_uri": "spotify:track:1Cbl3Yq8rHo7hhDQmLQagU"
+              "spotify_uri": "spotify:track:1Cbl3Yq8rHo7hhDQmLQagU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273db2c8e2a302d5147ad7f0fa0"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "name": "Best Global Music Album",
+          "nominees": [
+            {
+              "artist": "Siddhant Bhatia",
+              "work": "Kumbha",
+              "spotify_uri": "spotify:track:4gS89qIiXDXkOgTBM68ULw",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738af445ec6696e37240c9e080"
+            },
+            {
+              "artist": "Burna Boy",
+              "work": "Weakness",
+              "spotify_uri": "spotify:track:4ACbff3fw2FkJ0xtJWilck",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731493b585a0a292671db326fc"
+            },
+            {
+              "artist": "Youssou N'Dour",
+              "work": "Eclairer",
+              "spotify_uri": "spotify:track:6e04ppXc55WfiqmCgdCsO8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c8c20552b8f3bb6d26988f51"
+            },
+            {
+              "artist": "Shakti",
+              "work": "Mind Explosion",
+              "spotify_uri": "spotify:track:7fwRE3zX1qGYmDphSu3MPe",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27338e7e5c67ca0d582d1450439"
+            },
+            {
+              "artist": "Anoushka Shankar",
+              "work": "Chapter III",
+              "spotify_uri": "spotify:track:5yTsposXxnk1rJVETaXS4N",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e886538761ff732ac0645024"
+            },
+            {
+              "artist": "Caetano Veloso",
+              "work": "Ao Vivo",
+              "spotify_uri": "spotify:track:02a8cGumnKuEPgoCzmalJp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732374e6c8bada807a45cc4b00"
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "name": "Best Reggae Album",
+          "nominees": [
+            {
+              "artist": "Lila Iké",
+              "work": "Self Love",
+              "spotify_uri": "spotify:track:5t273TViREJdH5RtHtupyY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e108b2bed1eda0b91dfeea4b"
+            },
+            {
+              "artist": "Vybz Kartel",
+              "work": "Heart & Soul",
+              "spotify_uri": "spotify:track:64rBwXVPmV7i5PXPCIDgbU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f7c6b7b133b49c9f19cc646d"
+            },
+            {
+              "artist": "Keznamdi",
+              "work": "FYAH",
+              "spotify_uri": "spotify:track:4EPXfugV9mM66inwJIyLaU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27365c669c0147910dfa96f63e8"
+            },
+            {
+              "artist": "Mortimer",
+              "work": "Within",
+              "spotify_uri": "spotify:track:64P1xVksSoDC1d6OgEMd3F",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731ee5b7ee39966342cbfd9b83"
+            },
+            {
+              "artist": "Jesse Royal",
+              "work": "No Place",
+              "spotify_uri": "spotify:track:53fSnmm6zLRSNKtfUP40M8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e8d77474c3a58c4c2240923e"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "name": "Best New Age Album",
+          "nominees": [
+            {
+              "artist": "Kirsten Agresta-Copely",
+              "work": "Kuruvinda",
+              "spotify_uri": "spotify:track:31SeIitBPBQGeXcsYVmkYp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738f0f2951a4fd69aaf41487ce"
+            },
+            {
+              "artist": "Cheryl B. Engelhardt",
+              "work": "Moon",
+              "spotify_uri": "spotify:track:0uNfSnDndcHRj6k7KoDtq5",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738136715d11c52b5f4b23403e"
+            },
+            {
+              "artist": "Jahnavi Harrison",
+              "work": "Forest",
+              "spotify_uri": "spotify:track:1S2pCc6lzajKF5c40Fb3Ai",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d2598b0902133ff6f198c189"
+            },
+            {
+              "artist": "Carla Patullo",
+              "work": "Nomadica",
+              "spotify_uri": "spotify:track:0UPlXtJfiZ2lT6jZvOhJCF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735e37d3c9a58fd7fb3c44193a"
+            },
+            {
+              "artist": "Chris Redding",
+              "work": "Colors",
+              "spotify_uri": "spotify:track:4qfqTr8aqZiUUD9wsi1lAY",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f6b2462ea6514ebde97f18ef"
             }
           ]
         }
       ]
     },
     {
-      "field_name": "Visual Media",
+      "field_name": "Visual Media & Comedy",
       "categories": [
         {
+          "id": "68",
+          "name": "Best Children's Album",
+          "nominees": [
+            {
+              "artist": "Joanie Leeds",
+              "work": "Ageless",
+              "spotify_uri": "spotify:track:5zqct7ktdNNqZaLEfbsKza",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736f4fb9938b2b7a77b8dee13d"
+            },
+            {
+              "artist": "Mega Ran",
+              "work": "Tree House",
+              "spotify_uri": "spotify:track:5Z6r91qTPWfCgUi32Lv6ya",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737dc7006672992b3b67c75cbe"
+            },
+            {
+              "artist": "FYÜTCH",
+              "work": "Harmony",
+              "spotify_uri": "spotify:track:0MqT7pgRJlU1BUA1DNNu2L",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27364298d762270f6c3862b2c60"
+            },
+            {
+              "artist": "Flor Bromley",
+              "work": "Herstory",
+              "spotify_uri": "spotify:track:0Soko2wHgKna0rB7mYUNw1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731f47897e17ad2132e80dffb1"
+            },
+            {
+              "artist": "Tori Amos",
+              "work": "Tori",
+              "spotify_uri": "spotify:track:1300POeOaj8qho30FRHjgf",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733e925ce40de481ef6f936897"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "name": "Best Comedy Album",
+          "nominees": [
+            {
+              "artist": "Bill Burr",
+              "work": "Drop Dead",
+              "spotify_uri": "spotify:track:7m2HOS8JCdKomGX8QKSs36",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b23d14f1b12037302b66506c"
+            },
+            {
+              "artist": "Sarah Silverman",
+              "work": "PostMortem",
+              "spotify_uri": "spotify:track:3EGEi0x5ZWYBmNL8Q9WssG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c6dfd0062b6145cf12139483"
+            },
+            {
+              "artist": "Ali Wong",
+              "work": "Single Lady",
+              "spotify_uri": "spotify:track:3jg3YGJWb9nb8ZQmC0USTH",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a73556b27f6446b0da3bfa8f"
+            },
+            {
+              "artist": "Jamie Foxx",
+              "work": "Happened",
+              "spotify_uri": "spotify:track:6BIeMM4lJYzeVlYP289uDp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731184b51bb2ddf0c7cbc7980f"
+            },
+            {
+              "artist": "Nate Bargatze",
+              "work": "Your Friend",
+              "spotify_uri": "spotify:track:7nITmbwBSt9JDSZppECio0",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d22a2fb70a9b6dc84a947f18"
+            }
+          ]
+        },
+        {
           "id": "71",
-          "name": "Best Compilation Soundtrack For Visual Media",
+          "name": "Best Compilation Soundtrack",
           "nominees": [
             {
               "artist": "Timothée Chalamet",
-              "work": "A Complete Unknown",
-              "search_query": "A Complete Unknown Soundtrack",
-              "spotify_uri": "spotify:track:47xQwrip8UriPhFPUjSRQ7"
+              "work": "Unknown",
+              "spotify_uri": "spotify:track:47xQwrip8UriPhFPUjSRQ7",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273debfcad0ee7706bbd601460c"
             },
             {
-              "artist": "Various Artists",
-              "work": "F1 The Album",
-              "search_query": "F1 The Album",
-              "spotify_uri": "spotify:track:02BcXEH1zJYbXSabPtNlKf"
+              "artist": "Various",
+              "work": "F1",
+              "spotify_uri": "spotify:track:2E4jWSsT0aE8GbyT2y0Hqm",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ed1f5e60e1316d160652e30c"
             },
             {
-              "artist": "Various Artists",
-              "work": "KPop Demon Hunters",
-              "search_query": "KPop Demon Hunters Soundtrack",
-              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+              "artist": "Various",
+              "work": "KPop Hunters",
+              "spotify_uri": "spotify:track:2yRz78W5lsQz20Oq1OsMcx",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735e906ad70d4eef75bf595018"
             },
             {
-              "artist": "Various Artists",
+              "artist": "Various",
               "work": "Sinners",
-              "search_query": "Sinners Soundtrack",
-              "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt"
+              "spotify_uri": "spotify:track:1mhTQhpUbnU0wXTW4pmVa7",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a787dd6a6f354e1454f9dd87"
             },
             {
-              "artist": "Cynthia Erivo, Ariana Grande",
+              "artist": "Wicked Cast",
               "work": "Wicked",
-              "search_query": "Wicked Soundtrack",
-              "spotify_uri": "spotify:track:5QMrH5nszZZR3nefIj6Mar"
+              "spotify_uri": "spotify:track:6RO76UK0g0r1BJqpk3VwXJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733a81e76442b1aa620895a211"
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "name": "Best Score Soundtrack",
+          "nominees": [
+            {
+              "artist": "John Powell",
+              "work": "Dragon",
+              "spotify_uri": "spotify:track:2QTDuJIGKUjR7E2Q6KupIh",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273164edf20ddc765dff82d95cd"
+            },
+            {
+              "artist": "Theodore Shapiro",
+              "work": "Severance",
+              "spotify_uri": "spotify:track:2dssT0G1eXmqLoNIzKEuxN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273441bc2ca2f87dd0f7840c7a0"
+            },
+            {
+              "artist": "Ludwig Göransson",
+              "work": "Sinners",
+              "spotify_uri": "spotify:track:1mhTQhpUbnU0wXTW4pmVa7",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a787dd6a6f354e1454f9dd87"
+            },
+            {
+              "artist": "John Powell",
+              "work": "Wicked",
+              "spotify_uri": "spotify:track:6RO76UK0g0r1BJqpk3VwXJ",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733a81e76442b1aa620895a211"
+            },
+            {
+              "artist": "Kris Bowers",
+              "work": "Robot",
+              "spotify_uri": "spotify:track:0Kj6kohRovHA5vU45ASu0K",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739569dd5f47d647fa083c675b"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "name": "Best Video Game Score",
+          "nominees": [
+            {
+              "artist": "Pinar Toprak",
+              "work": "Avatar",
+              "spotify_uri": "spotify:track:1e3UAwIlAkAj5dWs2yZcfE",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273aff76496c164b4612f240091"
+            },
+            {
+              "artist": "Wilbert Roget",
+              "work": "Helldivers",
+              "spotify_uri": "spotify:track:16exrY95yucY3Mkf7qIzhp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b9f52929a2b124caf309f9a4"
+            },
+            {
+              "artist": "Gordy Haab",
+              "work": "Indiana Jones",
+              "spotify_uri": "spotify:track:4HhoYdEsI9r7eqTjOTkL08",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27382d8779da5dd9bf7bca8dc92"
+            },
+            {
+              "artist": "Cody Matthew Johnson",
+              "work": "Star Wars",
+              "spotify_uri": "spotify:track:4Avt4kEgh0RJViHGeY8q2j",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27362cef26485535289eea31570"
+            },
+            {
+              "artist": "Austin Wintory",
+              "work": "Sword",
+              "spotify_uri": "spotify:track:1zeG7ysUqpXHL4eDwIMhtw",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731dd8bb66949fccf8f527a3e2"
             }
           ]
         },
         {
           "id": "74",
-          "name": "Best Song Written For Visual Media",
+          "name": "Best Song For Visual Media",
           "nominees": [
             {
               "artist": "Nine Inch Nails",
-              "work": "As Alive As You Need Me To Be",
-              "search_query": "As Alive As You Need Me To Be TRON Ares",
-              "spotify_uri": "spotify:track:06USX1htQD4LgOgX4FF0ix"
+              "work": "As Alive",
+              "spotify_uri": "spotify:track:06USX1htQD4LgOgX4FF0ix",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273634dd6856022a95ac7a7b385"
             },
             {
               "artist": "HUNTR/X",
               "work": "Golden",
-              "search_query": "Golden KPop Demon Hunters",
-              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS"
+              "spotify_uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4"
             },
             {
               "artist": "Miles Caton",
-              "work": "I Lied to You",
-              "search_query": "I Lied to You Sinners",
-              "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt"
+              "work": "I Lied",
+              "spotify_uri": "spotify:track:0XfwXFXOI7oys9rsZ2sjrt",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7"
             },
             {
               "artist": "Elton John",
               "work": "Never Too Late",
-              "search_query": "Never Too Late Elton John",
-              "spotify_uri": "spotify:track:22Gzjt7PRJdAVz1tnJVYPZ"
+              "spotify_uri": "spotify:track:2I0GqVo4ezonSOV8jSUURx",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1"
             },
             {
               "artist": "Jayme Lawson",
-              "work": "Pale, Pale Moon",
-              "search_query": "Pale Pale Moon Sinners",
-              "spotify_uri": "spotify:track:3gpofCUBcNhtLy2mN0ioE5"
+              "work": "Moon",
+              "spotify_uri": "spotify:track:0uNfSnDndcHRj6k7KoDtq5",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2738136715d11c52b5f4b23403e"
             },
             {
               "artist": "Rod Wave",
               "work": "Sinners",
-              "search_query": "Sinners Rod Wave",
-              "spotify_uri": "spotify:track:0OyWRjMMbPKwnBtWdLg4Ws"
+              "spotify_uri": "spotify:track:1mhTQhpUbnU0wXTW4pmVa7",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a787dd6a6f354e1454f9dd87"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Package & Historical",
+      "categories": [
+        {
+          "id": "80",
+          "name": "Best Historical Album",
+          "nominees": [
+            {
+              "artist": "Joni Mitchell",
+              "work": "Archives",
+              "spotify_uri": "spotify:track:3fA3eL3C2uKKIkmpRsIxl6",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273733e18a111ebd56c7f06ca22"
+            },
+            {
+              "artist": "Nick Drake",
+              "work": "Five Leaves",
+              "spotify_uri": "spotify:track:3Uh7rAb7F0XGVpEEDwfH1k",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bd158c797b1026005c2917bc"
+            },
+            {
+              "artist": "Various",
+              "work": "Zimbabwe",
+              "spotify_uri": "spotify:track:64IcgAInDxkJySMVhpN13x",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273cff898fbaf7fb0b86aa34b7c"
+            },
+            {
+              "artist": "Various",
+              "work": "Super Disco",
+              "spotify_uri": "spotify:track:0hBTCmzXNNyxrz0WRmJfby",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273326fb6bb07c7a643c76e9d87"
+            },
+            {
+              "artist": "Doc Pomus",
+              "work": "Demos",
+              "spotify_uri": "spotify:track:0Vgv0Ei36InHInx4qlx04E",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ea7f414384aa35b9bee54eb8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Production & Composition",
+      "categories": [
+        {
+          "id": "81",
+          "name": "Best Engineered, Non-Classical",
+          "nominees": [
+            {
+              "artist": "Cam",
+              "work": "All Things Light",
+              "spotify_uri": "spotify:track:2g18ELBhnxmRwPCVR2bi3m",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dd1b033206c8c0c7df12b6f1"
+            },
+            {
+              "artist": "Alison Krauss",
+              "work": "Arcadia",
+              "spotify_uri": "spotify:track:4Yw2zhsCsAVkKKcVJPDrmy",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735522b4744501b30251c69dd1"
+            },
+            {
+              "artist": "Japanese Breakfast",
+              "work": "Brunettes",
+              "spotify_uri": "spotify:track:02olsPYJypEE0IyuaGS4K4",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f4bc7e73c7144849aeab3f0c"
+            },
+            {
+              "artist": "Pino Palladino",
+              "work": "Dream",
+              "spotify_uri": "spotify:track:5vpmH8LoHRnNh0wF0ma5y0",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27356198b597789b728a3321bd4"
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "name": "Best Engineered, Classical",
+          "nominees": [
+            {
+              "artist": "Sandbox Percussion",
+              "work": "Don't Look Down",
+              "spotify_uri": "spotify:track:7gy0x6JDgXpJjlqDkX4ppI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27319378297c76e05eb189e6046"
+            },
+            {
+              "artist": "Cleveland Orchestra",
+              "work": "Eastman",
+              "spotify_uri": "spotify:track:5qRPCuygXoZYClpjpQ6ovk",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c46e2a8ec079c4054ac0b872"
+            },
+            {
+              "artist": "Boston Symphony",
+              "work": "Lady Macbeth",
+              "spotify_uri": "spotify:track:6zLUbiy13nQAkoEv9Rdglr",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ec8e9e14e3aef25dfc5be642"
+            },
+            {
+              "artist": "Third Coast Percussion",
+              "work": "Stoppages",
+              "spotify_uri": "spotify:track:2c8DoRB6u9G8eMbUOsn9SX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273829bdf4e79e57573d8331a9f"
+            },
+            {
+              "artist": "Trio Mediæval",
+              "work": "Yule",
+              "spotify_uri": "spotify:track:6VIpR0nwClSTPKbQCIRjoL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735cef35a80034e5e7235db51e"
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "name": "Best Immersive Audio",
+          "nominees": [
+            {
+              "artist": "Duckwrth",
+              "work": "F***boy",
+              "spotify_uri": "spotify:track:5pdoLSpSyzizEQePZcLBZf",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27346b8e73f6d056cc876818a10"
+            },
+            {
+              "artist": "Justin Gray",
+              "work": "Immersed",
+              "spotify_uri": "spotify:track:0O23UsoePtuVhMUwMVNVVy",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27334b7ecfbc893c231b877b961"
+            },
+            {
+              "artist": "Various",
+              "work": "Piazzolla",
+              "spotify_uri": "spotify:track:2fP96gCz47U2c7VHd9TeUM",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732423f415ada6cfdaa29d1c0e"
+            },
+            {
+              "artist": "Tearjerkers",
+              "work": "Tearjerkers",
+              "spotify_uri": "spotify:track:5nradlxm7nAzQVjRWXK8rG",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732eb46e6a261c799620e2865b"
+            },
+            {
+              "artist": "Trio Mediæval",
+              "work": "Yule",
+              "spotify_uri": "spotify:track:6VIpR0nwClSTPKbQCIRjoL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2735cef35a80034e5e7235db51e"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "name": "Best Instrumental Composition",
+          "nominees": [
+            {
+              "artist": "Remy Le Boeuf",
+              "work": "First Snow",
+              "spotify_uri": "spotify:track:6HDcFWa0D9IiHsGgsVm0Io",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27321ddf65b601033ec9fba9e2e"
+            },
+            {
+              "artist": "Miho Hazama",
+              "work": "Life",
+              "spotify_uri": "spotify:track:2LQR8bD21o911PXJytHtEI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733335b99e2ba7494a6f751095"
+            },
+            {
+              "artist": "Sierra Hull",
+              "work": "Lord",
+              "spotify_uri": "spotify:track:7gn7tqs3sMgu0fXQojsEHg",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ef0d6a87e9d0fafbeaa6efc1"
+            },
+            {
+              "artist": "Zain Effendi",
+              "work": "Opening",
+              "spotify_uri": "spotify:track:1A8UyoIGdUSvIvwrFlav8X",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273eee4980f55eaf1f3493864eb"
+            },
+            {
+              "artist": "John Powell",
+              "work": "Emerald City",
+              "spotify_uri": "spotify:track:5q11B9qaEKXkJS7qvNvfzC",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732e39c5c12713584f144a8f90"
+            },
+            {
+              "artist": "Ludwig Göransson",
+              "work": "Why You Here",
+              "spotify_uri": "spotify:track:6i7iLbUerRyM7X614fUbHP",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bdc23ee4488f9e63a9400ccb"
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "name": "Best Arrangement, Inst.",
+          "nominees": [
+            {
+              "artist": "Cynthia Erivo",
+              "work": "Be Okay",
+              "spotify_uri": "spotify:track:13tvFkEZRzXB4ou8peloDT",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bd4d4f0971ff3dd0bff1f5d3"
+            },
+            {
+              "artist": "Nordkraft Big Band",
+              "work": "Child Is Born",
+              "spotify_uri": "spotify:track:6ecwpO0wsF0B9zjqLnhKdc",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27307a544c32fb809e43ca3bf6e"
+            },
+            {
+              "artist": "Westerlies",
+              "work": "Fight On",
+              "spotify_uri": "spotify:track:62pmpvS2hR8uGDBVxiqfoX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273af50db5fc43eb98255350ed4"
+            },
+            {
+              "artist": "8-Bit Big Band",
+              "work": "Mario",
+              "spotify_uri": "spotify:track:0BtlkzG35KuvLqXkzxqtZy",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273378ddd64ff59f08fe59c9525"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "name": "Best Arrangement, Vocals",
+          "nominees": [
+            {
+              "artist": "Nate Smith",
+              "work": "Big Fish",
+              "spotify_uri": "spotify:track:1XAdrLTOitRM4WaUPaaIGF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273428432a6ab2043a7c6eb2d95"
+            },
+            {
+              "artist": "Seth MacFarlane",
+              "work": "How Look?",
+              "spotify_uri": "spotify:track:0AX1MYRUWhdz3CHCDcVL5S",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273c4d300b4818fabbfd6585be3"
+            },
+            {
+              "artist": "Jacob Collier",
+              "work": "Summer",
+              "spotify_uri": "spotify:track:5Mf8pNKP5NlUKL2cbE81iU",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1"
+            },
+            {
+              "artist": "Lawrence",
+              "work": "Water",
+              "spotify_uri": "spotify:track:1JaKAilRW2dzswt0du8uZe",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27328385226eea5ee0a2d12b96d"
+            },
+            {
+              "artist": "Cody Fry",
+              "work": "Wonderful World",
+              "spotify_uri": "spotify:track:2SCOchQYBv7pFt3ThYlEXK",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739d1531ab7e67453ae191ca56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "field_name": "Classical",
+      "categories": [
+        {
+          "id": "88",
+          "name": "Best Orchestral",
+          "nominees": [
+            {
+              "artist": "National Philharmonic",
+              "work": "Coleridge-Taylor",
+              "spotify_uri": "spotify:track:0ApXpLWigaNPjWB06oEfqC",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bb941c0e590d1d2e05f17cf5"
+            },
+            {
+              "artist": "Boston Symphony",
+              "work": "Messiaen",
+              "spotify_uri": "spotify:track:0cPf8VU3Rt2VZw64MOXp7I",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273503c0e63f971cb937a8b405d"
+            },
+            {
+              "artist": "Simón Bolívar Symphony",
+              "work": "Boléro",
+              "spotify_uri": "spotify:track:3Z5ByN85ZrEstuMWKbwHmv",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273cae15c1063253c64337da6a6"
+            },
+            {
+              "artist": "Philadelphia Orchestra",
+              "work": "Bonds",
+              "spotify_uri": "spotify:track:1Il0HNYKI8DxpZy7fE3r4B",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27313e36262268fd82c92f1cb9a"
+            },
+            {
+              "artist": "San Francisco Symphony",
+              "work": "Stravinsky",
+              "spotify_uri": "spotify:track:6MEYF7ZQfOERYvpDM0fIBs",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e94547435ce2278f134c1ba0"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "name": "Best Opera",
+          "nominees": [
+            {
+              "artist": "Houston Grand Opera",
+              "work": "Intelligence",
+              "spotify_uri": "spotify:track:3MYYTMtZm77zOMyemsfTy1",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27330aa694f538bfd0451600550"
+            },
+            {
+              "artist": "American Composers Orchestra",
+              "work": "Soldier",
+              "spotify_uri": "spotify:track:183gA6UuuMKOG9RD8jgiRB",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2737f115fb2c8631bbad8ed84f6"
+            },
+            {
+              "artist": "Silvana Quartet",
+              "work": "Adoration",
+              "spotify_uri": "spotify:track:5ep1IDoifDGUGOiueYYQ5p",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2739e30c797af761410c4f2637a"
+            },
+            {
+              "artist": "Irish National Opera",
+              "work": "Trade",
+              "spotify_uri": "spotify:track:6VSUuvJ6T1xwjsK8qW2fb8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273481b767528260d0913280d28"
+            },
+            {
+              "artist": "Metropolitan Opera",
+              "work": "Grounded",
+              "spotify_uri": "spotify:track:3mUSXQvjc0TAPYEqkMoBto",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273fbe8181ab2794893f34ad188"
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "name": "Best Choral",
+          "nominees": [
+            {
+              "artist": "Conspirare",
+              "work": "Advena",
+              "spotify_uri": "spotify:track:2l5mjzyCxgSpx2PNYYwyCL",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f538d2c8145fd85e46cd66ce"
+            },
+            {
+              "artist": "LA Master Chorale",
+              "work": "Beloved",
+              "spotify_uri": "spotify:track:3HYUSkSJ0iQfocqdJmJqKw",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f949fecf209f5e20900c126d"
+            },
+            {
+              "artist": "Crossing",
+              "work": "Hymnal",
+              "spotify_uri": "spotify:track:4VDzxzrdIoZdfWCt9SmeNM",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e6ba05df099aeca235646b3d"
+            },
+            {
+              "artist": "LA Philharmonic",
+              "work": "Yanga",
+              "spotify_uri": "spotify:track:4Wuqy79kCWtbvTSp0xiLYp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dea74a681b5d760d2a99cf55"
+            },
+            {
+              "artist": "Clarion Choir",
+              "work": "Light",
+              "spotify_uri": "spotify:track:6oV6tEWOnzdqR3zjFEZv09",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273cb27a1f3cefaa6e1dc7874c6"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "name": "Best Chamber Music",
+          "nominees": [
+            {
+              "artist": "Alarm Will Sound",
+              "work": "Winter",
+              "spotify_uri": "spotify:track:3grw2ct2AiCeZDudKb8GSN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731f5585a228adcea4a3e28bd2"
+            },
+            {
+              "artist": "Neave Trio",
+              "work": "La Mer",
+              "spotify_uri": "spotify:track:7C1zIMD4EpjjmKfHPlN1eF",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731d5ee980c03c0c2cd0d6eecc"
+            },
+            {
+              "artist": "Lili Haydn",
+              "work": "Lullabies",
+              "spotify_uri": "spotify:track:5hNteioQyMebBy4JBMDCEs",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27302709d61c52f14455d2a6d30"
+            },
+            {
+              "artist": "Mak Grgić",
+              "work": "Sessions",
+              "spotify_uri": "spotify:track:0Z2BytvODBnl3VjiOEEuP8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273e35d7ef8773d23ddc53e0d9a"
+            },
+            {
+              "artist": "Third Coast Percussion",
+              "work": "Stoppages",
+              "spotify_uri": "spotify:track:2c8DoRB6u9G8eMbUOsn9SX",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273829bdf4e79e57573d8331a9f"
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "name": "Best Instrumental Solo",
+          "nominees": [
+            {
+              "artist": "Curtis Stewart",
+              "work": "Coleridge-Taylor",
+              "spotify_uri": "spotify:track:0ApXpLWigaNPjWB06oEfqC",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bb941c0e590d1d2e05f17cf5"
+            },
+            {
+              "artist": "Mary Catlin",
+              "work": "Hope",
+              "spotify_uri": "spotify:track:5PCB8fpDRhata8EeOu1OGr",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273bd8c6d2611b910c3a65d1df8"
+            },
+            {
+              "artist": "Adam Tendler",
+              "work": "Inheritances",
+              "spotify_uri": "spotify:track:5nXfDdIiRA6FWEzrUivXbg",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733ba05864e84e2ed8433c4e46"
+            },
+            {
+              "artist": "Han Chen",
+              "work": "Price",
+              "spotify_uri": "spotify:track:3HmU74RIPV2LgkjJUeU7Cd",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273a33552f7c19dac0ebd2db111"
+            },
+            {
+              "artist": "Yo-Yo Ma",
+              "work": "Shostakovich",
+              "spotify_uri": "spotify:track:53OcONK5zyWjDTAf7woRlN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734684d2155a52f6e94ce1a64f"
+            },
+            {
+              "artist": "Yuja Wang",
+              "work": "Shostakovich",
+              "spotify_uri": "spotify:track:53OcONK5zyWjDTAf7woRlN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2734684d2155a52f6e94ce1a64f"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "name": "Best Solo Vocal",
+          "nominees": [
+            {
+              "artist": "Allison Charney",
+              "work": "Mother's Dream",
+              "spotify_uri": "spotify:track:0vf7UA13jX18kzumrOIfV0",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27337b30656f829f8f0ad30cdf8"
+            },
+            {
+              "artist": "Sidney Outlaw",
+              "work": "Black Pierrot",
+              "spotify_uri": "spotify:track:28olETRguzYaihgCbRoEp8",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27351f5ea3c1baea0044fce87c9"
+            },
+            {
+              "artist": "Devony Smith",
+              "work": "Short Life",
+              "spotify_uri": "spotify:track:23243NhWCHlLWiZiwAnZAg",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733dbb2b8c38cb5d6bc14c7662"
+            },
+            {
+              "artist": "Susan Narucki",
+              "work": "Kurtág",
+              "spotify_uri": "spotify:track:6AL8KmlsqPt8RBTp6ZEVtj",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2733f168b6a878b48008d42c7f3"
+            },
+            {
+              "artist": "Theo Hoffman",
+              "work": "Schubert",
+              "spotify_uri": "spotify:track:3oxVbEUVxWpsrptXcPbBwc",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ff61ddbadb7ad1ba5757648b"
+            },
+            {
+              "artist": "Amanda Forsythe",
+              "work": "Telemann",
+              "spotify_uri": "spotify:track:6Kxd1ZBKhqxbwmSRE0DW5p",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273ea3ac68ad66fcffc002265b2"
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "name": "Best Compendium",
+          "nominees": [
+            {
+              "artist": "Sandbox Percussion",
+              "work": "Don't Look Down",
+              "spotify_uri": "spotify:track:7gy0x6JDgXpJjlqDkX4ppI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27319378297c76e05eb189e6046"
+            },
+            {
+              "artist": "Will Liverman",
+              "work": "Dunbar/Moore",
+              "spotify_uri": "spotify:track:6s9kqHfQTeE1V9TUU8InCD",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273f534ac888645874c38586d48"
+            },
+            {
+              "artist": "Gustavo Dudamel",
+              "work": "Yanga",
+              "spotify_uri": "spotify:track:4Wuqy79kCWtbvTSp0xiLYp",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273dea74a681b5d760d2a99cf55"
+            },
+            {
+              "artist": "Janai Brugger",
+              "work": "Seven Seasons",
+              "spotify_uri": "spotify:track:5FyZPJmIRIagMdDedxEvt4",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273b99c0dc00efd22a648cdbbd9"
+            },
+            {
+              "artist": "Christina Sandsengen",
+              "work": "Tombeaux",
+              "spotify_uri": "spotify:track:3ePPgCyMQxPzYpfMROEy6Q",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d1f304aa96f3099339348166"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "name": "Best Contemporary Composition",
+          "nominees": [
+            {
+              "artist": "Christopher Cerrone",
+              "work": "Don't Look Down",
+              "spotify_uri": "spotify:track:7gy0x6JDgXpJjlqDkX4ppI",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b27319378297c76e05eb189e6046"
+            },
+            {
+              "artist": "Donnacha Dennehy",
+              "work": "Land Of Winter",
+              "spotify_uri": "spotify:track:3grw2ct2AiCeZDudKb8GSN",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731f5585a228adcea4a3e28bd2"
+            },
+            {
+              "artist": "Tania León",
+              "work": "Raíces",
+              "spotify_uri": "spotify:track:22L4fN7eeoLuNP6MHAB77e",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b273d4633aabba7df076cc25ed29"
+            },
+            {
+              "artist": "Shawn Okpebholo",
+              "work": "Songs In Flight",
+              "spotify_uri": "spotify:track:118denzJc7TM1Ys5i02hJs",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2732e37ebfaf2522cee138fff31"
+            },
+            {
+              "artist": "Gabriela Ortiz",
+              "work": "Dzonot",
+              "spotify_uri": "spotify:track:5cdkzSfmr0PMoOCy0w1pks",
+              "spotify_image": "https://i.scdn.co/image/ab67616d0000b2731f01ed7c4b9130d4daa66729"
             }
           ]
         }

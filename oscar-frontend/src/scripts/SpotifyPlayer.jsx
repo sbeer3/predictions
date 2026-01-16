@@ -22,13 +22,26 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
 
             // Add Event Listeners
             player.addListener('ready', ({ device_id }) => {
-                console.log('Ready with Device ID', device_id);
+                console.log('Spotify Player Ready with Device ID', device_id);
                 setDeviceId(device_id);
             });
 
             player.addListener('not_ready', ({ device_id }) => {
                 console.log('Device ID has gone offline', device_id);
                 setDeviceId(null);
+            });
+
+            player.addListener('initialization_error', ({ message }) => {
+                console.error('Failed to initialize Spotify Player', message);
+            });
+
+            player.addListener('authentication_error', ({ message }) => {
+                console.error('Failed to authenticate Spotify Player', message);
+                onTokenInvalid && onTokenInvalid();
+            });
+
+            player.addListener('account_error', ({ message }) => {
+                console.error('Failed to validate Spotify account', message);
             });
 
             player.addListener('player_state_changed', (state => {
@@ -82,8 +95,14 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
 
     // Handle play requests from parent
     useEffect(() => {
+        if (playRequest) {
+            console.log("SpotifyPlayer received playRequest:", playRequest);
+            console.log("Current State - DeviceID:", deviceId, "Token:", !!token);
+        }
+
         if (playRequest && deviceId && token) {
             const playTrack = async () => {
+                console.log("Attempting to play:", playRequest.uri);
                 const body = {};
 
                 // Determine if it's a track list or a context (album/playlist/artist)
@@ -94,8 +113,8 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                 }
 
                 try {
-                    // First ensure we are the active device
-                    const transferRes = await fetch('https://api.spotify.com/v1/me/player', {
+                    // First ensure we are the active device (FORCE ACTIVATION)
+                    await fetch('https://api.spotify.com/v1/me/player', {
                         method: 'PUT',
                         body: JSON.stringify({ device_ids: [deviceId], play: false }),
                         headers: {
@@ -103,11 +122,6 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                             'Authorization': `Bearer ${token}`
                         },
                     });
-
-                    if (transferRes.status === 401) {
-                        onTokenInvalid && onTokenInvalid();
-                        return;
-                    }
 
                     // Then send the play command
                     const playRes = await fetch(`https://api.spotify.com/v1/me/player/play?device_id=${deviceId}`, {
@@ -119,9 +133,15 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                         },
                     });
 
-                    if (playRes.status === 401) {
+                    if (playRes.status === 204) {
+                        console.log("✅ Playback started successfully!");
+                    } else if (playRes.status === 401) {
+                        console.error("❌ 401 Unauthorized during play command");
                         onTokenInvalid && onTokenInvalid();
                         return;
+                    } else {
+                        const errorData = await playRes.json();
+                        console.error("❌ Spotify Play Error:", playRes.status, errorData);
                     }
 
                 } catch (e) {

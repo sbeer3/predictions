@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import SpotifyPlayer from '../scripts/SpotifyPlayer';
-import PredictionForm from './PredictionForm';
+import GrammyPredictionsForm from './GrammyPredictionsForm';
 import '../styles/spotify.css';
 
 function GrammysSection({
@@ -12,15 +12,12 @@ function GrammysSection({
     categories,
     previousPredictions,
     onSubmitPredictions,
-    handleViewLeaderboardFromGreeting,
     handleLogout
 }) {
     const [spotifyToken, setSpotifyToken] = useState(() => {
         const token = localStorage.getItem('spotify_token');
         const refreshToken = localStorage.getItem('spotify_refresh_token');
 
-        // Migration check: If we have an access token but NO refresh token,
-        // clear the legacy token to force re-authentication.
         if (token && !refreshToken) {
             console.log("Legacy session detected (no refresh token). Clearing to force re-auth.");
             localStorage.removeItem('spotify_token');
@@ -38,21 +35,16 @@ function GrammysSection({
         return localStorage.getItem('spotify_token_expires_at') || null;
     });
 
-    // Internal view state: 'greeting' or 'form'
     const [viewMode, setViewMode] = useState('greeting');
 
-    // Featured artists for daily spotlight
     const [featuredArtists, setFeaturedArtists] = useState([]);
     const [currentArtistIndex, setCurrentArtistIndex] = useState(0);
 
-    // Playback request state for Spotify Player
     const [playRequest, setPlayRequest] = useState(null);
 
-    // Load Daily Spotlight from Backend
     useEffect(() => {
         const loadSpotlight = async () => {
             try {
-                // Fetch the centralized daily spotlight from the server
                 const response = await fetch('/api/spotlight');
                 const data = await response.json();
 
@@ -76,15 +68,17 @@ function GrammysSection({
     };
 
     const handleSpotifyAuth = () => {
-        // Spotify OAuth configuration
         const CLIENT_ID = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
         const REDIRECT_URI = process.env.REACT_APP_SPOTIFY_REDIRECT_URI;
         const SCOPES = 'streaming user-read-email user-read-private user-modify-playback-state user-read-playback-state';
 
         const authUrl = `https://accounts.spotify.com/authorize?client_id=${CLIENT_ID}&response_type=code&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=${encodeURIComponent(SCOPES)}`;
 
-        // Redirect in the same window
         window.location.href = authUrl;
+    };
+
+    const handleReturnToMain = () => {
+        setViewMode('greeting');
     };
 
     const refreshSpotifyToken = async () => {
@@ -110,7 +104,6 @@ function GrammysSection({
                 }
             } else {
                 console.error("Failed to refresh token:", await response.text());
-                // If refresh fails with 400/401, clear data so user re-auths
                 if (response.status === 400 || response.status === 401) {
                     clearSpotifyData();
                 }
@@ -120,10 +113,8 @@ function GrammysSection({
         }
     };
 
-    // Check for expiration on mount
     useEffect(() => {
         if (spotifyToken) {
-            // If no expiration time is stored, refresh to be safe and get a time
             if (!tokenExpiration) {
                 console.log("No expiration time found. Refreshing to ensure validity.");
                 refreshSpotifyToken();
@@ -131,21 +122,18 @@ function GrammysSection({
             }
 
             const timeLeft = tokenExpiration - Date.now();
-            // If expired or expiring in less than 5 minutes, refresh immediately
             if (timeLeft < 300000) {
                 console.log("Token expired or expiring soon. Refreshing immediately.");
                 refreshSpotifyToken();
             }
         }
-        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
-    // Set up auto-refresh timer
     useEffect(() => {
         if (!spotifyToken || !tokenExpiration) return;
 
         const timeLeft = tokenExpiration - Date.now();
-        const refreshTime = timeLeft - 300000; // Refresh 5 minutes before expiration
+        const refreshTime = timeLeft - 300000;
 
         if (refreshTime > 0) {
             console.log(`Scheduling token refresh in ${Math.floor(refreshTime / 1000 / 60)} minutes`);
@@ -300,7 +288,7 @@ function GrammysSection({
                             </div>
 
 
-                            {/* <div className="action-buttons">
+                            <div className="action-buttons">
                                 <button
                                     onClick={handleStartPrediction}
                                     className={`start-button ${isEditingPredictions ? 'edit-mode' : ''}`}
@@ -312,11 +300,11 @@ function GrammysSection({
                                         : 'Make My Predictions'
                                     }
                                 </button>
-                                <button onClick={handleViewLeaderboardFromGreeting} className="leaderboard-button">
+                                {/* <button onClick={handleViewLeaderboardFromGreeting} className="leaderboard-button">
                                     <span className="button-icon">🏆</span>
                                     View Leaderboard
-                                </button>
-                            </div> */}
+                                </button> */}
+                            </div>
 
                             {!gameSettings.allowEditing && isEditingPredictions && (
                                 <div className="editing-disabled-message">
@@ -335,17 +323,22 @@ function GrammysSection({
                     <div className="header">
                         <h1>{selectedEvent === 'grammys' ? `${currentYear} Grammys` : `${currentYear} Oscars`}</h1>
                         <div className="user-info">
+                            <button onClick={handleReturnToMain} className="return-button">
+                                Return
+                            </button>
                             <span>
                                 {isEditingPredictions ? 'Editing' : 'Making'} predictions as: <strong>{currentUserName}</strong>
                             </span>
                             {/* <button onClick={handleLogout} className="logout-button">Change User</button> */}
                         </div>
                     </div>
-                    <PredictionForm
+                    <GrammyPredictionsForm
                         categories={categories}
                         onSubmitPredictions={handlePredictionSubmit}
                         initialPredictions={previousPredictions}
                         isEditing={isEditingPredictions}
+                        setPlayRequest={setPlayRequest}
+
                     />
                 </>
             )}

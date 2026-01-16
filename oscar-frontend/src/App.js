@@ -341,6 +341,7 @@ function App() {
                         <div className="nav-buttons">
                             <button onClick={handleLogout} className="logout-button">Change User</button>
                         </div>
+
                     </div>
                     <LeaderboardSection leaderboardData={leaderboardData} onLogout={handleLogout} />
                 </>
