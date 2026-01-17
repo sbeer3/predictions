@@ -7,6 +7,12 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
     const [current_track, setTrack] = useState(null);
     const [deviceId, setDeviceId] = useState(null);
 
+    // New State for Sliders
+    const [position, setPosition] = useState(0);
+    const [duration, setDuration] = useState(0);
+    const [volume, setVolume] = useState(0.5);
+    const [isSeeking, setIsSeeking] = useState(false);
+
     useEffect(() => {
         if (!token) return;
 
@@ -50,6 +56,12 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                 }
                 setTrack(state.track_window.current_track);
                 setPaused(state.paused);
+                setDuration(state.duration);
+
+                // Sync position from state ONLY if not currently dragging slider
+                if (!isSeeking) {
+                    setPosition(state.position);
+                }
 
                 player.getCurrentState().then(state => {
                     (!state) ? setActive(false) : setActive(true)
@@ -70,7 +82,22 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
             // Trigger SDK ready if it's already loaded
             window.onSpotifyWebPlaybackSDKReady();
         }
-    }, [token]);
+    }, [token, onTokenInvalid, isSeeking]);
+
+    // Local Timer to update slider smoothly between state updates
+    useEffect(() => {
+        let interval = null;
+        if (is_active && !is_paused && !isSeeking) {
+            interval = setInterval(() => {
+                setPosition(prev => {
+                    const next = prev + 500;
+                    return next > duration ? duration : next;
+                });
+            }, 500); // Update every 500ms
+        }
+        return () => clearInterval(interval);
+    }, [is_active, is_paused, isSeeking, duration]);
+
 
     // Automatically transfer playback to this device when ready
     useEffect(() => {
@@ -97,7 +124,6 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
     useEffect(() => {
         if (playRequest) {
             console.log("SpotifyPlayer received playRequest:", playRequest);
-            console.log("Current State - DeviceID:", deviceId, "Token:", !!token);
         }
 
         if (playRequest && deviceId && token) {
@@ -147,12 +173,49 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                 } catch (e) {
                     console.error("Error playing content:", e);
                 } finally {
-                    player.togglePlay();
+                    // player.togglePlay(); // Usually not needed if we sent a play command
                 }
             };
             playTrack();
         }
-    }, [playRequest, deviceId, token, player]);
+    }, [playRequest, deviceId, token, player, onTokenInvalid]);
+
+    // Handlers
+    const handleSeekChange = (e) => {
+        setPosition(Number(e.target.value));
+    };
+
+    const handleSeekStart = () => {
+        setIsSeeking(true);
+    };
+
+    const handleSeekEnd = (e) => {
+        const newPos = Number(e.target.value);
+        setIsSeeking(false);
+        if (player) {
+            player.seek(newPos).then(() => {
+                console.log(`Seeked to ${newPos} ms`);
+            });
+        }
+    };
+
+    const handleVolumeChange = (e) => {
+        const newVol = Number(e.target.value);
+        setVolume(newVol);
+        if (player) {
+            player.setVolume(newVol).then(() => {
+                console.log('Volume updated!');
+            });
+        }
+    };
+
+    const formatTime = (ms) => {
+        if (!ms) return "0:00";
+        const totalSeconds = Math.floor(ms / 1000);
+        const minutes = Math.floor(totalSeconds / 60);
+        const seconds = totalSeconds % 60;
+        return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+    };
 
     // If no token, show connect button
     if (!token) {
@@ -185,27 +248,67 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
     // Active player
     return (
         <div className="spotify-player-wrapper">
-            <div className="spotify-player">
-                <div className="spotify-now-playing">
-                    <img src={current_track?.album.images[0].url} className="spotify-cover" alt="Album cover" />
-                    <div className="spotify-track-info">
-                        <div className="spotify-track-name">{current_track?.name}</div>
-                        <div className="spotify-artist-name">{current_track?.artists[0].name}</div>
+            <div className="spotify-player active-layout">
+                <div className="spotify-main-row">
+                    <div className="spotify-now-playing">
+                        <img src={current_track?.album.images[0].url} className="spotify-cover" alt="Album cover" />
+                        <div className="spotify-track-info">
+                            <div className="spotify-track-name" title={current_track?.name}>{current_track?.name}</div>
+                            <div className="spotify-artist-name" title={current_track?.artists[0].name}>{current_track?.artists[0].name}</div>
+                        </div>
+                    </div>
+
+                    <div className="spotify-controls-container">
+                        <div className="spotify-controls">
+                            <button className="spotify-btn" onClick={() => { player.previousTrack() }}>
+                                ⏮
+                            </button>
+
+                            <button className="spotify-btn spotify-btn-play" onClick={() => { player.togglePlay() }}>
+                                {is_paused ? "▶" : "⏸"}
+                            </button>
+
+                            <button className="spotify-btn" onClick={() => { player.nextTrack() }}>
+                                ⏭
+                            </button>
+                        </div>
+                    </div>
+
+                    <div className="spotify-volume">
+                        <span className="vol-icon">🔊</span>
+                        <input
+                            type="range"
+                            className="volume-slider"
+                            min="0"
+                            max="1"
+                            step="0.05"
+                            value={volume}
+                            onChange={handleVolumeChange}
+                            style={{
+                                '--seek-before-width': `${volume * 100}%`
+                            }}
+                        />
                     </div>
                 </div>
 
-                <div className="spotify-controls">
-                    <button className="spotify-btn" onClick={() => { player.previousTrack() }}>
-                        ⏮
-                    </button>
-
-                    <button className="spotify-btn spotify-btn-play" onClick={() => { player.togglePlay() }}>
-                        {is_paused ? "▶" : "⏸"}
-                    </button>
-
-                    <button className="spotify-btn" onClick={() => { player.nextTrack() }}>
-                        ⏭
-                    </button>
+                <div className="spotify-seek-row">
+                    <span className="time-display">{formatTime(position)}</span>
+                    <input
+                        type="range"
+                        className="seek-slider"
+                        min="0"
+                        max={duration || 0}
+                        value={position}
+                        onChange={handleSeekChange}
+                        onMouseDown={handleSeekStart}
+                        onMouseUp={handleSeekEnd}
+                        onTouchStart={handleSeekStart}
+                        onTouchEnd={handleSeekEnd}
+                        style={{
+                            '--seek-before-width': `${(position / (duration || 1)) * 100}%`
+                        }}
+                    />
+                    <span className="time-display">{formatTime(duration)}</span>
                 </div>
             </div>
         </div>
