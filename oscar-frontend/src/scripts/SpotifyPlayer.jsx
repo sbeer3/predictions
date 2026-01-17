@@ -1,4 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+
+// Generate unique tab ID for this instance
+const TAB_ID = `tab_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+const PRIMARY_TAB_KEY = 'spotify_primary_tab';
+const PRIMARY_TAB_TIMESTAMP_KEY = 'spotify_primary_tab_timestamp';
+const TAB_HEARTBEAT_INTERVAL = 2000; // 2 seconds
+const TAB_TIMEOUT = 5000; // 5 seconds
 
 const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) => {
     const [player, setPlayer] = useState(undefined);
@@ -13,44 +20,102 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
     const [volume, setVolume] = useState(0.5);
     const [isSeeking, setIsSeeking] = useState(false);
 
+    // Tab coordination state
+    const [isPrimaryTab, setIsPrimaryTab] = useState(false);
+
+    // Refs for safe access in callbacks
+    const isSeekingRef = useRef(isSeeking);
+    const isPrimaryTabRef = useRef(isPrimaryTab);
+
+    useEffect(() => { isSeekingRef.current = isSeeking; }, [isSeeking]);
+    useEffect(() => { isPrimaryTabRef.current = isPrimaryTab; }, [isPrimaryTab]);
+
+    // Tab coordination: Check if this tab should become primary
     useEffect(() => {
-        if (!token) return;
+        const checkPrimaryStatus = () => {
+            const currentPrimary = localStorage.getItem(PRIMARY_TAB_KEY);
+            const timestamp = localStorage.getItem(PRIMARY_TAB_TIMESTAMP_KEY);
+            const now = Date.now();
+
+            // If no primary exists or the primary is stale, claim it
+            if (!currentPrimary || !timestamp || (now - parseInt(timestamp)) > TAB_TIMEOUT) {
+                localStorage.setItem(PRIMARY_TAB_KEY, TAB_ID);
+                localStorage.setItem(PRIMARY_TAB_TIMESTAMP_KEY, now.toString());
+                setIsPrimaryTab(true);
+                console.log(`🎵 Tab ${TAB_ID} is now PRIMARY`);
+                return true;
+            }
+
+            // Check if this tab is already primary
+            if (currentPrimary === TAB_ID) {
+                setIsPrimaryTab(true);
+                return true;
+            }
+
+            setIsPrimaryTab(false);
+            return false;
+        };
+
+        // Initial check
+        checkPrimaryStatus();
+
+        // Heartbeat to maintain primary status
+        const heartbeat = setInterval(() => {
+            if (isPrimaryTabRef.current) {
+                localStorage.setItem(PRIMARY_TAB_TIMESTAMP_KEY, Date.now().toString());
+            } else {
+                // Check if we should take over as primary
+                checkPrimaryStatus();
+            }
+        }, TAB_HEARTBEAT_INTERVAL);
+
+        return () => clearInterval(heartbeat);
+    }, []);
+
+    // Initialize player ONLY if this is the primary tab
+    useEffect(() => {
+        if (!token || !isPrimaryTab) return;
+
+        let localPlayer;
+
+        console.log(`🎵 Primary tab ${TAB_ID} initializing Spotify Player...`);
 
         // Initialize the Player once the SDK is ready
         window.onSpotifyWebPlaybackSDKReady = () => {
-            const player = new window.Spotify.Player({
+            const newPlayer = new window.Spotify.Player({
                 name: 'Grammys Prediction Player',
                 getOAuthToken: cb => { cb(token); },
                 volume: 0.5
             });
 
-            setPlayer(player);
+            localPlayer = newPlayer;
+            setPlayer(newPlayer);
 
             // Add Event Listeners
-            player.addListener('ready', ({ device_id }) => {
+            newPlayer.addListener('ready', ({ device_id }) => {
                 console.log('Spotify Player Ready with Device ID', device_id);
                 setDeviceId(device_id);
             });
 
-            player.addListener('not_ready', ({ device_id }) => {
+            newPlayer.addListener('not_ready', ({ device_id }) => {
                 console.log('Device ID has gone offline', device_id);
                 setDeviceId(null);
             });
 
-            player.addListener('initialization_error', ({ message }) => {
+            newPlayer.addListener('initialization_error', ({ message }) => {
                 console.error('Failed to initialize Spotify Player', message);
             });
 
-            player.addListener('authentication_error', ({ message }) => {
+            newPlayer.addListener('authentication_error', ({ message }) => {
                 console.error('Failed to authenticate Spotify Player', message);
                 onTokenInvalid && onTokenInvalid();
             });
 
-            player.addListener('account_error', ({ message }) => {
+            newPlayer.addListener('account_error', ({ message }) => {
                 console.error('Failed to validate Spotify account', message);
             });
 
-            player.addListener('player_state_changed', (state => {
+            newPlayer.addListener('player_state_changed', (state => {
                 if (!state) {
                     return;
                 }
@@ -59,16 +124,16 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                 setDuration(state.duration);
 
                 // Sync position from state ONLY if not currently dragging slider
-                if (!isSeeking) {
+                if (!isSeekingRef.current) {
                     setPosition(state.position);
                 }
 
-                player.getCurrentState().then(state => {
+                newPlayer.getCurrentState().then(state => {
                     (!state) ? setActive(false) : setActive(true)
                 });
             }));
 
-            player.connect();
+            newPlayer.connect();
         };
 
         // Dynamically load the Spotify SDK script if it doesn't exist
@@ -82,7 +147,14 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
             // Trigger SDK ready if it's already loaded
             window.onSpotifyWebPlaybackSDKReady();
         }
-    }, [token, onTokenInvalid, isSeeking]);
+
+        // Clean up on unmount or token change
+        return () => {
+            if (localPlayer) {
+                localPlayer.disconnect();
+            }
+        };
+    }, [token, onTokenInvalid, isPrimaryTab]);
 
     // Local Timer to update slider smoothly between state updates
     useEffect(() => {
@@ -101,12 +173,13 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
 
     // Automatically transfer playback to this device when ready
     useEffect(() => {
-        if (deviceId && token) {
+        if (deviceId && token && isPrimaryTab) {
             const transferPlayback = async () => {
                 try {
+                    console.log("Applying initial transfer to " + deviceId);
                     await fetch('https://api.spotify.com/v1/me/player', {
                         method: 'PUT',
-                        body: JSON.stringify({ device_ids: [deviceId], play: true }), // Create active session
+                        body: JSON.stringify({ device_ids: [deviceId], play: false }), // Transfer but don't auto-play yet
                         headers: {
                             'Content-Type': 'application/json',
                             'Authorization': `Bearer ${token}`
@@ -116,17 +189,28 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                     console.error("Error transferring playback:", e);
                 }
             };
-            transferPlayback();
+            const timer = setTimeout(transferPlayback, 1000);
+            return () => clearTimeout(timer);
         }
-    }, [deviceId, token]);
+    }, [deviceId, token, isPrimaryTab]);
 
-    // Handle play requests from parent
+    // Handle play requests from parent - but hijack to become primary if needed
     useEffect(() => {
         if (playRequest) {
             console.log("SpotifyPlayer received playRequest:", playRequest);
+
+            // If this tab isn't primary, take over
+            if (!isPrimaryTab) {
+                console.log("Non-primary tab received play request. Taking over as primary...");
+                localStorage.setItem(PRIMARY_TAB_KEY, TAB_ID);
+                localStorage.setItem(PRIMARY_TAB_TIMESTAMP_KEY, Date.now().toString());
+                setIsPrimaryTab(true);
+                // Player will initialize on next render due to isPrimaryTab change
+                return;
+            }
         }
 
-        if (playRequest && deviceId && token) {
+        if (playRequest && deviceId && token && isPrimaryTab) {
             const playTrack = async () => {
                 console.log("Attempting to play:", playRequest.uri);
                 const body = {};
@@ -139,7 +223,9 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                 }
 
                 try {
-                    // First ensure we are the active device (FORCE ACTIVATION)
+                    // Force activation first to ensure player creates an active session
+                    // This is critical if the user has been listening on another device
+                    console.log("Activating device...");
                     await fetch('https://api.spotify.com/v1/me/player', {
                         method: 'PUT',
                         body: JSON.stringify({ device_ids: [deviceId], play: false }),
@@ -149,7 +235,11 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                         },
                     });
 
-                    // Then send the play command
+                    // Short delay to allow Spotify backend to register the switch
+                    await new Promise(r => setTimeout(r, 200));
+
+                    // Send the play command
+                    console.log("Sending play command...");
                     const playRes = await fetch(`https://api.spotify.com/v1/me/player/play?device_id=${deviceId}`, {
                         method: 'PUT',
                         body: JSON.stringify(body),
@@ -166,19 +256,17 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                         onTokenInvalid && onTokenInvalid();
                         return;
                     } else {
-                        const errorData = await playRes.json();
+                        const errorData = await playRes.json(); // Safely try to parse JSON
                         console.error("❌ Spotify Play Error:", playRes.status, errorData);
                     }
 
                 } catch (e) {
                     console.error("Error playing content:", e);
-                } finally {
-                    // player.togglePlay(); // Usually not needed if we sent a play command
                 }
             };
             playTrack();
         }
-    }, [playRequest, deviceId, token, player, onTokenInvalid]);
+    }, [playRequest, deviceId, token, isPrimaryTab, onTokenInvalid]);
 
     // Handlers
     const handleSeekChange = (e) => {
@@ -228,6 +316,18 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
                         <span className="spotify-icon">♫</span>
                         Connect Spotify
                     </button>
+                </div>
+            </div>
+        );
+    }
+
+    // If not primary tab, show message
+    if (!isPrimaryTab) {
+        return (
+            <div className="spotify-player-wrapper">
+                <div className="spotify-player inactive">
+                    <p><b>Spotify player active in another tab</b></p>
+                    <p>Click any song in this tab to switch playback here.</p>
                 </div>
             </div>
         );
