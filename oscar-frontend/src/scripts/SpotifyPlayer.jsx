@@ -12,17 +12,27 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
     const [isSeeking, setIsSeeking] = useState(false);
 
     const playerRef = useRef(null);
+    const tokenRef = useRef(token);
+    const hasInitialized = useRef(false);
 
-    // Initialize player - only depends on token
+    // Keep tokenRef in sync with latest token (without triggering re-init)
     useEffect(() => {
-        if (!token) return;
+        tokenRef.current = token;
+    }, [token]);
+
+    // Initialize player - only run ONCE when we first get a token
+    useEffect(() => {
+        // Only initialize once, and only if we have a token
+        if (!token || hasInitialized.current) return;
 
         let mounted = true;
+        hasInitialized.current = true;
 
         const init = () => {
             const spotifyPlayer = new window.Spotify.Player({
                 name: 'Grammy Predictions Player',
-                getOAuthToken: cb => cb(token),
+                // Use tokenRef so SDK always gets the latest token on each request
+                getOAuthToken: cb => cb(tokenRef.current),
                 volume: 0.5
             });
 
@@ -70,7 +80,7 @@ const SpotifyPlayer = ({ token, onAuthRequired, onTokenInvalid, playRequest }) =
             mounted = false;
             playerRef.current?.disconnect();
         };
-    }, [token]);
+    }, []); // Empty deps - only run once on mount
 
     // Handle play requests
     useEffect(() => {
