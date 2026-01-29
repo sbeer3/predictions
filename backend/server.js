@@ -9,6 +9,8 @@ const adminRoutes = require('./routes/admin');
 const spotifyRoutes = require('./routes/spotify');
 const spotlightRoutes = require('./routes/spotlight');
 const grammyBuilderRoutes = require('./routes/grammyBuilder');
+const grammyPredictionsRoutes = require('./routes/grammyPredictions');
+const grammyAdminRoutes = require('./routes/grammyAdmin');
 const http = require('http');
 const { Server } = require('socket.io');
 
@@ -40,6 +42,8 @@ app.use('/api/admin', adminRoutes);
 app.use('/api/spotify', spotifyRoutes);
 app.use('/api/spotlight', spotlightRoutes);
 app.use('/api/grammyBuilder', grammyBuilderRoutes);
+app.use('/api/grammy-predictions', grammyPredictionsRoutes.router);
+app.use('/api/grammy-admin', grammyAdminRoutes);
 
 
 // Serve the index.html file for all other requests

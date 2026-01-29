@@ -1258,3 +1258,462 @@ h2 {
     font-size: 0.9rem;
     transition: color 0.3s ease;
 }
+
+/* Save Status Indicator - Auto-save feedback */
+.save-status-indicator {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    z-index: 1000;
+    animation: slideInRight 0.3s ease-out;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.save-status-indicator.saving {
+    background: rgba(255, 193, 7, 0.9);
+    color: #212121;
+    border: 1px solid rgba(255, 193, 7, 0.5);
+}
+
+.save-status-indicator.saved {
+    background: rgba(76, 175, 80, 0.9);
+    color: white;
+    border: 1px solid rgba(76, 175, 80, 0.5);
+}
+
+.save-status-indicator.error {
+    background: rgba(244, 67, 54, 0.9);
+    color: white;
+    border: 1px solid rgba(244, 67, 54, 0.5);
+}
+
+/* Grammy Leaderboard - Sleek Design */
+.grammy-leaderboard {
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    border: 1px solid rgba(156, 198, 155, 0.2);
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto 30px;
+}
+
+.grammy-leaderboard .leaderboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(156, 198, 155, 0.2);
+}
+
+.grammy-leaderboard .leaderboard-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: var(--light);
+    font-weight: 600;
+}
+
+.grammy-leaderboard .player-count {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.grammy-leaderboard .leaderboard-loading,
+.grammy-leaderboard .no-players {
+    text-align: center;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    font-style: italic;
+}
+
+.grammy-leaderboard .player-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.grammy-leaderboard .player-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+.grammy-leaderboard .player-row:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.grammy-leaderboard .player-row.current-user {
+    background: rgba(156, 198, 155, 0.15);
+    border: 1px solid rgba(156, 198, 155, 0.3);
+}
+
+.grammy-leaderboard .player-rank {
+    width: 32px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.grammy-leaderboard .player-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.grammy-leaderboard .player-name {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.95rem;
+    color: var(--light);
+    margin-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.grammy-leaderboard .you-badge {
+    font-size: 0.65rem;
+    background: var(--accent);
+    color: var(--dark);
+    padding: 2px 6px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.grammy-leaderboard .progress-bar {
+    height: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.grammy-leaderboard .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--accent));
+    border-radius: 2px;
+    transition: width 0.3s ease;
+}
+
+.grammy-leaderboard .player-stats {
+    text-align: right;
+    font-size: 0.85rem;
+}
+
+.grammy-leaderboard .stat-number {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.grammy-leaderboard .stat-label {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+/* Grammy Admin Panel */
+.grammy-admin {
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(15px);
+    border-radius: 20px;
+    border: 1px solid rgba(156, 198, 155, 0.2);
+    padding: 30px;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.grammy-admin h2 {
+    margin: 0 0 25px 0;
+    color: var(--light);
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.grammy-admin h3 {
+    margin: 0 0 15px 0;
+    color: var(--accent);
+    font-size: 1.1rem;
+}
+
+.grammy-admin.loading {
+    text-align: center;
+    padding: 50px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.admin-message {
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 0.9rem;
+    animation: slideIn 0.3s ease;
+}
+
+.admin-message.success {
+    background: rgba(76, 175, 80, 0.2);
+    border: 1px solid rgba(76, 175, 80, 0.4);
+    color: #81c784;
+}
+
+.admin-message.error {
+    background: rgba(244, 67, 54, 0.2);
+    border: 1px solid rgba(244, 67, 54, 0.4);
+    color: #ef9a9a;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.admin-section {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.section-header h3 {
+    margin: 0;
+}
+
+.settings-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.setting-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.setting-item:last-child {
+    border-bottom: none;
+}
+
+.setting-label {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.95rem;
+}
+
+.toggle-btn {
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.85rem;
+}
+
+.toggle-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.toggle-btn.active {
+    background: linear-gradient(135deg, var(--primary), var(--accent));
+    color: var(--dark);
+    border-color: transparent;
+}
+
+.winner-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.admin-select {
+    padding: 12px 16px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+.admin-select:focus {
+    outline: none;
+    border-color: var(--primary);
+}
+
+.admin-select option {
+    background: #2d3a2e;
+    color: white;
+}
+
+.admin-btn {
+    padding: 12px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.admin-btn.primary {
+    background: linear-gradient(135deg, var(--primary), var(--accent));
+    color: var(--dark);
+}
+
+.admin-btn.primary:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(156, 198, 155, 0.3);
+}
+
+.admin-btn.primary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.admin-btn.danger {
+    background: rgba(244, 67, 54, 0.2);
+    color: #ef9a9a;
+    border: 1px solid rgba(244, 67, 54, 0.3);
+}
+
+.admin-btn.danger:hover {
+    background: rgba(244, 67, 54, 0.3);
+}
+
+.admin-btn.small {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+}
+
+.empty-state {
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+    font-style: italic;
+    padding: 20px;
+}
+
+.winners-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.winner-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    background: rgba(76, 175, 80, 0.1);
+    border: 1px solid rgba(76, 175, 80, 0.2);
+    border-radius: 8px;
+}
+
+.winner-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.winner-category {
+    display: block;
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 2px;
+}
+
+.winner-name {
+    display: block;
+    font-size: 0.9rem;
+    color: var(--accent);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.clear-btn {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 1rem;
+    transition: color 0.2s;
+}
+
+.clear-btn:hover {
+    color: #ef9a9a;
+}
+
+/* Locked Banner */
+.locked-banner {
+    background: linear-gradient(135deg, rgba(255, 152, 0, 0.15), rgba(255, 87, 34, 0.15));
+    border: 1px solid rgba(255, 152, 0, 0.4);
+    border-radius: 12px;
+    padding: 16px 20px;
+    text-align: center;
+    color: #ffb74d;
+    font-size: 0.95rem;
+    margin-bottom: 20px;
+    animation: pulse-border 2s infinite;
+}
+
+@keyframes pulse-border {
+
+    0%,
+    100% {
+        border-color: rgba(255, 152, 0, 0.4);
+    }
+
+    50% {
+        border-color: rgba(255, 152, 0, 0.7);
+    }
+}
+
+/* Disabled radio styling */
+.nominee-radio:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.nominee-radio:disabled+label {
+    opacity: 0.7;
+    cursor: not-allowed;
+}

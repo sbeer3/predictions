@@ -363,7 +363,7 @@ function App() {
             ) : null}
 
 
-            {showAdminSection && (
+            {showAdminSection && selectedEvent !== 'grammys' && (
                 <AdminPanel
                     categories={categories}
                     winners={winners}

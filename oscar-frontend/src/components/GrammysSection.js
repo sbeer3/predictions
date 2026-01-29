@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import SpotifyPlayer from '../scripts/SpotifyPlayer';
 import GrammyPredictionsForm from './GrammyPredictionsForm';
+import GrammyLeaderboard from './GrammyLeaderboard';
+import GrammyAdminPanel from './GrammyAdminPanel';
 import '../styles/spotify.css';
 
 function GrammysSection({
@@ -221,7 +223,10 @@ function GrammysSection({
                                 </p>
                             )}
 
-                            {/* Daily Spotlight Stepper */}
+                            {/* Grammy Leaderboard - Shows who's playing */}
+                            <GrammyLeaderboard currentUserName={currentUserName} />
+
+                            {/* Daily Spotlight Stepper - Hidden for now
                             <div className="daily-spotlight">
                                 <div className="spotlight-header">
                                     <p className="spotlight-subtitle">Featured Grammy Nominee</p>
@@ -286,7 +291,7 @@ function GrammysSection({
                                     </div>
                                 )}
                             </div>
-
+                            */}
 
                             <div className="action-buttons">
                                 <button
@@ -337,9 +342,14 @@ function GrammysSection({
                         initialPredictions={previousPredictions}
                         isEditing={isEditingPredictions}
                         setPlayRequest={setPlayRequest}
-
+                        userName={currentUserName}
                     />
                 </>
+            )}
+
+            {/* Admin Panel - Shows when user is Admin */}
+            {currentUserName === 'Admin' && (
+                <GrammyAdminPanel />
             )}
 
             {/* Spotify Player - Always visible across all views */}
